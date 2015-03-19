@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+  <card name="Ainok Tracker" cost="{5}{R}" text="First strike\nMorph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)" tribe="Hound Scout">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394065" rarity="C" setCode="FRF_UGIN" flavor="&quot;The ainok are wild dogs, not fit to join us around the fire.&quot;\n—Surrak, the Hunt Caller" artist="Evan Shipard" />
+    </appearances>
+  </card>
+  <card name="Altar of the Brood" cost="{1}" text="Whenever another permanent enters the battlefield under your control, each opponent puts the top card of his or her library into his or her graveyard." tribe="Artifact">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394066" rarity="R" setCode="FRF_UGIN" flavor="Supplicants offer flesh and silver, flowers and blood. The altar takes what it will, eyes gleaming with unspoken promises." artist="Erica Yang" />
+    </appearances>
+  </card>
+  <card name="Arashin War Beast" cost="{5}{G}{G}" text="Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Beast" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394067" rarity="U" setCode="FRF_UGIN" artist="Eric Deschamps" />
+    </appearances>
+  </card>
+  <card name="Arc Lightning" cost="{2}{R}" text="Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394068" rarity="U" setCode="FRF_UGIN" flavor="Lightning burns the dragon's path." artist="Seb McKinnon" />
+    </appearances>
+  </card>
+  <card name="Briber's Purse" cost="{X}" text="Briber's Purse enters the battlefield with X gem counters on it.\n{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn." tribe="Artifact">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394069" rarity="U" setCode="FRF_UGIN" flavor="The bigger the hand, the higher the price." artist="Steve Argyle" />
+    </appearances>
+  </card>
+  <card name="Debilitating Injury" cost="{1}{B}" text="Enchant creature\nEnchanted creature gets -2/-2." tribe="Aura">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394070" rarity="C" setCode="FRF_UGIN" flavor="Weakness exists within all who are not dragons." artist="Slawomir Maniak" />
+    </appearances>
+  </card>
+  <card name="Dragonscale Boon" cost="{3}{G}" text="Put two +1/+1 counters on target creature and untap it." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394071" rarity="C" setCode="FRF_UGIN" flavor="Only those who have proved themselves worthy are granted a dragon's scale." artist="Mark Winters" />
+    </appearances>
+  </card>
+  <card name="Fierce Invocation" cost="{4}{R}" text="Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394072" rarity="C" setCode="FRF_UGIN" flavor="Anger can empower those who embrace it." artist="Tyler Jacobson" />
+    </appearances>
+  </card>
+  <card name="Formless Nurturing" cost="{3}{G}" text="Manifest the top card of your library, then put a +1/+1 counter on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394073" rarity="C" setCode="FRF_UGIN" artist="Cliff Childs" />
+    </appearances>
+  </card>
+  <card name="Ghostfire Blade" cost="{1}" text="Equipped creature gets +2/+2.\nEquip {3}\nGhostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature." tribe="Equipment">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394074" rarity="R" setCode="FRF_UGIN" flavor="If you fear the dragon's fire, you are unworthy to wield it." artist="Cyril Van Der Haegen" />
+    </appearances>
+  </card>
+  <card name="Grim Haruspex" cost="{2}{B}" text="Morph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhenever another nontoken creature you control dies, draw a card." tribe="Human Wizard">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394075" rarity="R" setCode="FRF_UGIN" flavor="&quot;Your enemies may be cowardly, my lord, but one should never call them gutless.&quot;" artist="Seb McKinnon" />
+    </appearances>
+  </card>
+  <card name="Hewed Stone Retainers" cost="{3}" text="Cast Hewed Stone Retainers only if you've cast another spell this turn." tribe="Golem">
+    <types>
+      <type name="ARTIFACT" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394076" rarity="U" setCode="FRF_UGIN" flavor="&quot;Their origins are shrouded in mystery. I believe they are the protectors of the lost secrets of our world.&quot;\n—Jilaya, Temur whisperer" artist="David Seguin" />
+    </appearances>
+  </card>
+  <card name="Jeering Instigator" cost="{1}{R}" text="Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn." tribe="Goblin Rogue">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394077" rarity="R" setCode="FRF_UGIN" artist="Willian Murai" />
+    </appearances>
+  </card>
+  <card name="Jeskai Infiltrator" cost="{2}{U}" text="Jeskai Infiltrator can't be blocked as long as you control no other creatures.\nWhen Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Human Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394078" rarity="R" setCode="FRF_UGIN" artist="Cynthia Sheppard" />
+    </appearances>
+  </card>
+  <card name="Mastery of the Unseen" cost="{1}{W}" text="Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.\n{3}{W}: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394079" rarity="R" setCode="FRF_UGIN" artist="Daniel Ljunggren" />
+    </appearances>
+  </card>
+  <card name="Mystic of the Hidden Way" cost="{4}{U}" text="Mystic of the Hidden Way can't be blocked.\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)" tribe="Human Monk">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394080" rarity="C" setCode="FRF_UGIN" flavor="&quot;There are many different paths. The Great Teacher reveals them all.&quot;" artist="Ryan Alexander Lee" />
+    </appearances>
+  </card>
+  <card name="Reality Shift" cost="{1}{U}" text="Exile target creature. Its controller manifests the top card of his or her library. (That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)" tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394081" rarity="U" setCode="FRF_UGIN" artist="Howard Lyon" />
+    </appearances>
+  </card>
+  <card name="Ruthless Ripper" cost="{B}" text="Deathtouch\nMorph—Reveal a black card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Ruthless Ripper is turned face up, target player loses 2 life." tribe="Human Assassin">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394082" rarity="U" setCode="FRF_UGIN" artist="Clint Cearley" />
+    </appearances>
+  </card>
+  <card name="Smite the Monstrous" cost="{3}{W}" text="Destroy target creature with power 4 or greater." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394083" rarity="C" setCode="FRF_UGIN" flavor="The changing of a single moment in Tarkir's past altered its future, rewriting its history." artist="Greg Staples" />
+    </appearances>
+  </card>
+  <card name="Soul Summons" cost="{1}{W}" text="Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394084" rarity="C" setCode="FRF_UGIN" flavor="Ugin's magic reaches beyond the dragons. The clans have adapted it for war." artist="Johann Bodin" />
+    </appearances>
+  </card>
+  <card name="Sultai Emissary" cost="{1}{B}" text="When Sultai Emissary dies, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Zombie Warrior" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394085" rarity="C" setCode="FRF_UGIN" flavor="To the Sultai, Ugin's power was just one more resource to be exploited." artist="Mathias Kollros" />
+    </appearances>
+  </card>
+  <card name="Ugin, the Spirit Dragon" cost="{8}" text="+2: Ugin, the Spirit Dragon deals 3 damage to target creature or player.\n-X: Exile each permanent with converted mana cost X or less that's one or more colors.\n-10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield." tribe="Ugin">
+    <types>
+      <type name="PLANESWALKER" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394086" rarity="M" setCode="FRF_UGIN" artist="Chris Rahn" />
+    </appearances>
+  </card>
+  <card name="Ugin's Construct" cost="{4}" text="When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors." tribe="Construct">
+    <types>
+      <type name="ARTIFACT" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394087" rarity="U" setCode="FRF_UGIN" flavor="While trapping the Eldrazi on Zendikar, Ugin learned little from Sorin, but he gleaned the rudiments of lithomancy from Nahiri." artist="Peter Mohrbacher" />
+    </appearances>
+  </card>
+  <card name="Watcher of the Roost" cost="{2}{W}" text="Flying\nMorph—Reveal a white card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Watcher of the Roost is turned face up, you gain 2 life." tribe="Bird Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394088" rarity="U" setCode="FRF_UGIN" artist="Jack Wang" />
+    </appearances>
+  </card>
+  <card name="Wildcall" cost="{X}{G}{G}" text="Manifest the top card of your library, then put X +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394089" rarity="R" setCode="FRF_UGIN" flavor="A howl on the wind hides many dangers." artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Write into Being" cost="{2}{U}" text="Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394090" rarity="C" setCode="FRF_UGIN" artist="Yeong-Hao Han" />
+    </appearances>
+  </card>
+</cards>

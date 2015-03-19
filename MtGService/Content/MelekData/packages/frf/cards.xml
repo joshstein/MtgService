@@ -1,0 +1,1466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+  <card name="Abzan Advantage" cost="{1}{W}" flavor="&quot;To survive, you must seize every opportunity.&quot;\n—Daghatar the Adamant" text="Target player sacrifices an enchantment. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)" tribe="Instant" watermark="Temur">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391781" rarity="C" setCode="FRF" flavor="&quot;To survive, you must seize every opportunity.&quot;\n—Daghatar the Adamant" artist="Winona Nelson" />
+    </appearances>
+  </card>
+  <card name="Abzan Beastmaster" cost="{2}{G}" flavor="His beasts move the great siege towers of the Abzan across the endless sands." text="At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness." tribe="Hound Shaman" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391782" rarity="U" setCode="FRF" flavor="His beasts move the great siege towers of the Abzan across the endless sands." artist="Winona Nelson" />
+    </appearances>
+  </card>
+  <card name="Abzan Kin-Guard" cost="{3}{G}" flavor="&quot;The Mardu rush headlong toward extinction. We ensure the longevity of our clan by protecting our territory, not rampaging through it.&quot;" text="Abzan Kin-Guard has lifelink as long as you control a white or black permanent." tribe="Human Warrior" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391783" rarity="U" setCode="FRF" flavor="&quot;The Mardu rush headlong toward extinction. We ensure the longevity of our clan by protecting our territory, not rampaging through it.&quot;" artist="Craig J Spearing" />
+    </appearances>
+  </card>
+  <card name="Abzan Runemark" cost="{2}{W}" flavor="" text="Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature has vigilance as long as you control a black or green permanent." tribe="Aura" watermark="Temur">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391784" rarity="C" setCode="FRF" flavor="" artist="James Ryman" />
+    </appearances>
+  </card>
+  <card name="Abzan Skycaptain" cost="{3}{W}" flavor="&quot;A tempest is coming. Turn your faces toward the wind!&quot;" text="Flying\nWhen Abzan Skycaptain dies, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)" tribe="Bird Soldier" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391785" rarity="C" setCode="FRF" flavor="&quot;A tempest is coming. Turn your faces toward the wind!&quot;" artist="Matt Stewart" />
+    </appearances>
+  </card>
+  <card name="Ainok Guide" cost="{1}{G}" flavor="" text="When Ainok Guide enters the battlefield, choose one —\n• Put a +1/+1 counter on Ainok Guide.\n• Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it." tribe="Hound Scout" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391786" rarity="C" setCode="FRF" flavor="" artist="Lucas Graciano" />
+    </appearances>
+  </card>
+  <card name="Alesha, Who Smiles at Death" cost="{2}{R}" flavor="&quot;Greet death with sword in hand.&quot;" text="First strike\nWhenever Alesha, Who Smiles at Death attacks, you may pay {WB}{WB}. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking." tribe="Human Warrior" watermark="Mardu">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391787" rarity="R" setCode="FRF" flavor="&quot;Greet death with sword in hand.&quot;" artist="Anastasia Ovchinnikova" />
+    </appearances>
+  </card>
+  <card name="Alesha's Vanguard" cost="{3}{B}" flavor="Boundaries drawn on maps or marked with stone have no meaning for the Mardu." text="Dash {2}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Orc Warrior" watermark="Mardu">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391788" rarity="C" setCode="FRF" flavor="Boundaries drawn on maps or marked with stone have no meaning for the Mardu." artist="Torstein Nordstrand" />
+    </appearances>
+  </card>
+  <card name="Ambush Krotiq" cost="{5}{G}" flavor="The Abzan merchants soon discovered why this route was clear of dragons." text="Trample\nWhen Ambush Krotiq enters the battlefield, return another creature you control to its owner's hand." tribe="Insect" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391789" rarity="C" setCode="FRF" flavor="The Abzan merchants soon discovered why this route was clear of dragons." artist="Filip Burburan" />
+    </appearances>
+  </card>
+  <card name="Ancestral Vengeance" cost="{B}{B}" flavor="The defenses of the Abzan extend well beyond the walls of their fortresses." text="Enchant creature\nWhen Ancestral Vengeance enters the battlefield, put a +1/+1 counter on target creature you control.\nEnchanted creature gets -1/-1." tribe="Aura" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391790" rarity="C" setCode="FRF" flavor="The defenses of the Abzan extend well beyond the walls of their fortresses." artist="Yohann Schepacz" />
+    </appearances>
+  </card>
+  <card name="Arashin Cleric" cost="{1}{W}" flavor="&quot;We'll have time to put out the fires when those trapped within the ruins are safe.&quot;" text="When Arashin Cleric enters the battlefield, you gain 3 life." tribe="Human Cleric" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391791" rarity="C" setCode="FRF" flavor="&quot;We'll have time to put out the fires when those trapped within the ruins are safe.&quot;" artist="Chris Rahn" />
+    </appearances>
+  </card>
+  <card name="Arashin War Beast" cost="{5}{G}{G}" flavor="" text="Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Beast" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391792" rarity="U" setCode="FRF" flavor="" artist="Eric Deschamps" />
+    </appearances>
+  </card>
+  <card name="Arcbond" cost="{2}{R}" flavor="&quot;If you must die today, make your death worthy of legend.&quot;\n—Alesha, Who Smiles at Death" text="Choose target creature. Whenever that creature is dealt damage this turn, it deals that much damage to each other creature and each player." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391793" rarity="R" setCode="FRF" flavor="&quot;If you must die today, make your death worthy of legend.&quot;\n—Alesha, Who Smiles at Death" artist="Slawomir Maniak" />
+    </appearances>
+  </card>
+  <card name="Archers of Qarsi" cost="{3}{G}" flavor="&quot;We think of the naga as creeping cutthroats, slitherers in the swamps. But they are equally at home in the trees.&quot;\n—Goton, Qal Sisma shaman" text="Defender\nReach (This creature can block creatures with flying.)" tribe="Naga Archer" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391794" rarity="C" setCode="FRF" flavor="&quot;We think of the naga as creeping cutthroats, slitherers in the swamps. But they are equally at home in the trees.&quot;\n—Goton, Qal Sisma shaman" artist="Alejandro Mirabal" />
+    </appearances>
+  </card>
+  <card name="Archfiend of Depravity" cost="{3}{B}{B}" flavor="&quot;Why would I kill you all? Who then would be left to worship me?&quot;" text="Flying\nAt the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest." tribe="Demon" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391795" rarity="R" setCode="FRF" flavor="&quot;Why would I kill you all? Who then would be left to worship me?&quot;" artist="Daarken" />
+    </appearances>
+  </card>
+  <card name="Atarka, World Render" cost="{5}{R}{G}" flavor="&quot;Her hunger knows no limit. Left unchecked, she would feast on all of Tarkir.&quot;\n—Yasova Dragonclaw" text="Flying, trample\nWhenever a Dragon you control attacks, it gains double strike until end of turn." tribe="Dragon" watermark="">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391796" rarity="R" setCode="FRF" flavor="&quot;Her hunger knows no limit. Left unchecked, she would feast on all of Tarkir.&quot;\n—Yasova Dragonclaw" artist="Karl Kopinski" />
+    </appearances>
+  </card>
+  <card name="Aven Skirmisher" cost="{W}" flavor="&quot;We do not hide from the dragons that pretend to rule the skies. If we did, the dragons would become our rulers, and our way of life would be lost.&quot;" text="Flying" tribe="Bird Warrior" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391797" rarity="C" setCode="FRF" flavor="&quot;We do not hide from the dragons that pretend to rule the skies. If we did, the dragons would become our rulers, and our way of life would be lost.&quot;" artist="Jason Rainville" />
+    </appearances>
+  </card>
+  <card name="Aven Surveyor" cost="{3}{U}{U}" flavor="" text="Flying\nWhen Aven Surveyor enters the battlefield, choose one —\n• Put a +1/+1 counter on Aven Surveyor.\n• Return target creature to its owner's hand." tribe="Bird Scout" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391798" rarity="C" setCode="FRF" flavor="" artist="David Gaillet" />
+    </appearances>
+  </card>
+  <card name="Bathe in Dragonfire" cost="{2}{R}" flavor="The scent of cooked flesh lingers in the charred landscape of Tarkir." text="Bathe in Dragonfire deals 4 damage to target creature." tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391799" rarity="C" setCode="FRF" flavor="The scent of cooked flesh lingers in the charred landscape of Tarkir." artist="Chris Rallis" />
+    </appearances>
+  </card>
+  <card name="Battle Brawler" cost="{1}{B}" flavor="Every time he returns from battle unscathed, he feels a tinge of disappointment." text="As long as you control a red or white permanent, Battle Brawler gets +1/+0 and has first strike." tribe="Orc Warrior" watermark="Mardu">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391800" rarity="U" setCode="FRF" flavor="Every time he returns from battle unscathed, he feels a tinge of disappointment." artist="Karl Kopinski" />
+    </appearances>
+  </card>
+  <card name="Battlefront Krushok" cost="{4}{G}" flavor="Krushoks clear debris from fertile fields, fallow fields, and battlefields." text="Battlefront Krushok can't be blocked by more than one creature.\nEach creature you control with a +1/+1 counter on it can't be blocked by more than one creature." tribe="Beast" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391801" rarity="U" setCode="FRF" flavor="Krushoks clear debris from fertile fields, fallow fields, and battlefields." artist="Steve Prescott" />
+    </appearances>
+  </card>
+  <card name="Bloodfell Caves" flavor="" text="Bloodfell Caves enters the battlefield tapped.\nWhen Bloodfell Caves enters the battlefield, you gain 1 life.\n{T}: Add {B} or {R} to your mana pool." tribe="Land" watermark="">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391802" rarity="C" setCode="FRF" flavor="" artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Bloodfire Enforcers" cost="{3}{R}" flavor="Bloodfire practitioners train to focus their rage, building it deep inside themselves until they are ready to release it as a devastating attack." text="Bloodfire Enforcers has first strike and trample as long as an instant card and a sorcery card are in your graveyard." tribe="Human Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391803" rarity="U" setCode="FRF" flavor="Bloodfire practitioners train to focus their rage, building it deep inside themselves until they are ready to release it as a devastating attack." artist="Yefim Kligerman" />
+    </appearances>
+  </card>
+  <card name="Blossoming Sands" flavor="" text="Blossoming Sands enters the battlefield tapped.\nWhen Blossoming Sands enters the battlefield, you gain 1 life.\n{T}: Add {G} or {W} to your mana pool." tribe="Land" watermark="">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391804" rarity="C" setCode="FRF" flavor="" artist="Sam Burley" />
+    </appearances>
+  </card>
+  <card name="Break Through the Line" cost="{1}{R}" flavor="&quot;If the Mardu were more in tune with their beasts, they would not scare so easily.&quot;\n—Jilaya, Temur whisperer" text="{R}: Target creature with power 2 or less gains haste until end of turn and can't be blocked this turn." tribe="Enchantment" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391805" rarity="U" setCode="FRF" flavor="&quot;If the Mardu were more in tune with their beasts, they would not scare so easily.&quot;\n—Jilaya, Temur whisperer" artist="Clint Cearley" />
+    </appearances>
+  </card>
+  <card name="Brutal Hordechief" cost="{3}{B}" flavor="" text="Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life.\n{3}{RW}{RW}: Creatures your opponents control block this turn if able, and you choose how those creatures block." tribe="Orc Warrior" watermark="Mardu">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391806" rarity="M" setCode="FRF" flavor="" artist="Tyler Jacobson" />
+    </appearances>
+  </card>
+  <card name="Cached Defenses" cost="{2}{G}" flavor="The glittering scales in the Abzan vaults represent mighty deeds of the past and protection for generations to come." text="Bolster 3. (Choose a creature with the least toughness among creatures you control and put three +1/+1 counters on it.)" tribe="Sorcery" watermark="Temur">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391807" rarity="U" setCode="FRF" flavor="The glittering scales in the Abzan vaults represent mighty deeds of the past and protection for generations to come." artist="Zack Stella" />
+    </appearances>
+  </card>
+  <card name="Channel Harm" cost="{5}{W}" flavor="" text="Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control. If damage is prevented this way, you may have Channel Harm deal that much damage to target creature." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391808" rarity="U" setCode="FRF" flavor="" artist="David Gaillet" />
+    </appearances>
+  </card>
+  <card name="Citadel Siege" cost="{2}{W}{W}" flavor="" text="As Citadel Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of combat on your turn, put two +1/+1 counters on target creature you control.\n• Dragons — At the beginning of combat on each opponent's turn, tap target creature that player controls." tribe="Enchantment" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391809" rarity="R" setCode="FRF" flavor="" artist="Steven Belledin" />
+    </appearances>
+  </card>
+  <card name="Cloudform" cost="{1}{U}{U}" flavor="" text="When Cloudform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Cloudform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nEnchanted creature has flying and hexproof." tribe="Enchantment" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391810" rarity="U" setCode="FRF" flavor="" artist="Noah Bradley" />
+    </appearances>
+  </card>
+  <card name="Collateral Damage" cost="{R}" flavor="It is much easier to create fire than to contain it." text="As an additional cost to cast Collateral Damage, sacrifice a creature.\nCollateral Damage deals 3 damage to target creature or player." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391811" rarity="C" setCode="FRF" flavor="It is much easier to create fire than to contain it." artist="Ryan Barger" />
+    </appearances>
+  </card>
+  <card name="Crucible of the Spirit Dragon" flavor="" text="{T}: Add {1} to your mana pool.\n{1}, {T}: Put a storage counter on Crucible of the Spirit Dragon.\n{T}, Remove X storage counters from Crucible of the Spirit Dragon: Add X mana in any combination of colors to your mana pool. Spend this mana only to cast Dragon spells or activate abilities of Dragons." tribe="Land" watermark="">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391812" rarity="R" setCode="FRF" flavor="" artist="Jung Park" />
+    </appearances>
+  </card>
+  <card name="Crux of Fate" cost="{3}{B}{B}" flavor="Ugin's whispered summons led Sarkhan Vol to the moment that would echo down the centuries and seal Tarkir's fate: the primal battle between Ugin and Nicol Bolas." text="Choose one —\n• Destroy all Dragon creatures.\n• Destroy all non-Dragon creatures." tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391813" rarity="R" setCode="FRF" flavor="Ugin's whispered summons led Sarkhan Vol to the moment that would echo down the centuries and seal Tarkir's fate: the primal battle between Ugin and Nicol Bolas." artist="Michael Komarck" />
+    </appearances>
+  </card>
+  <card name="Cunning Strike" cost="{3}{U}{R}" flavor="&quot;The opponent who blocks the path, becomes the path.&quot;\n—Shu Yun, the Silent Tempest" text="Cunning Strike deals 2 damage to target creature and 2 damage to target player.\nDraw a card." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391814" rarity="C" setCode="FRF" flavor="&quot;The opponent who blocks the path, becomes the path.&quot;\n—Shu Yun, the Silent Tempest" artist="Clint Cearley" />
+    </appearances>
+  </card>
+  <card name="Daghatar the Adamant" cost="{3}{W}" flavor="&quot;Our victories will protect a thousand generations.&quot;" text="Vigilance\nDaghatar the Adamant enters the battlefield with four +1/+1 counters on it.\n{1}{BG}{BG}: Move a +1/+1 counter from target creature onto a second target creature." tribe="Human Warrior" watermark="Temur">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391815" rarity="R" setCode="FRF" flavor="&quot;Our victories will protect a thousand generations.&quot;" artist="Zack Stella" />
+    </appearances>
+  </card>
+  <card name="Dark Deal" cost="{2}{B}" flavor="The first khans of the Sultai relied on the magic of the rakshasa to ensure the survival of the clan." text="Each player discards all the cards in his or her hand, then draws that many cards minus one." tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391816" rarity="U" setCode="FRF" flavor="The first khans of the Sultai relied on the magic of the rakshasa to ensure the survival of the clan." artist="Scott Murphy" />
+    </appearances>
+  </card>
+  <card name="Defiant Ogre" cost="{5}{R}" flavor="&quot;I have no clan, but I still have purpose.&quot;" text="When Defiant Ogre enters the battlefield, choose one —\n• Put a +1/+1 counter on Defiant Ogre.\n• Destroy target artifact." tribe="Ogre Warrior" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391817" rarity="C" setCode="FRF" flavor="&quot;I have no clan, but I still have purpose.&quot;" artist="Craig J Spearing" />
+    </appearances>
+  </card>
+  <card name="Destructor Dragon" cost="{4}{G}{G}" flavor="After countless attacks on the Salt Road where it passes through the frozen tundra, the Abzan began to refer to the area as Atarka territory rather than Temur lands." text="Flying\nWhen Destructor Dragon dies, destroy target noncreature permanent." tribe="Dragon" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391818" rarity="U" setCode="FRF" flavor="After countless attacks on the Salt Road where it passes through the frozen tundra, the Abzan began to refer to the area as Atarka territory rather than Temur lands." artist="Peter Mohrbacher" />
+    </appearances>
+  </card>
+  <card name="Diplomacy of the Wastes" cost="{2}{B}" flavor="&quot;Our emissaries are gifted negotiators.&quot;\n—Alesha, Who Smiles at Death" text="Target opponent reveals his or her hand. You choose a nonland card from it. That player discards that card. If you control a Warrior, that player loses 2 life." tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391819" rarity="U" setCode="FRF" flavor="&quot;Our emissaries are gifted negotiators.&quot;\n—Alesha, Who Smiles at Death" artist="Jack Wang" />
+    </appearances>
+  </card>
+  <card name="Dismal Backwater" flavor="" text="Dismal Backwater enters the battlefield tapped.\nWhen Dismal Backwater enters the battlefield, you gain 1 life.\n{T}: Add {U} or {B} to your mana pool." tribe="Land" watermark="">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391820" rarity="C" setCode="FRF" flavor="" artist="Sam Burley" />
+    </appearances>
+  </card>
+  <card name="Douse in Gloom" cost="{2}{B}" flavor="The Mardu warrior was overjoyed when Tasigur set him free and granted him passage through the jungle. He failed to notice the Sultai leader's cruel smile." text="Douse in Gloom deals 2 damage to target creature and you gain 2 life." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391821" rarity="C" setCode="FRF" flavor="The Mardu warrior was overjoyed when Tasigur set him free and granted him passage through the jungle. He failed to notice the Sultai leader's cruel smile." artist="Ryan Yee" />
+    </appearances>
+  </card>
+  <card name="Dragon Bell Monk" cost="{2}{W}" flavor="He has spent years training his eyes and ears to detect the subtle signs of a dragon's approach." text="Vigilance\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)" tribe="Human Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391822" rarity="C" setCode="FRF" flavor="He has spent years training his eyes and ears to detect the subtle signs of a dragon's approach." artist="Lius Lasahido" />
+    </appearances>
+  </card>
+  <card name="Dragonrage" cost="{2}{R}" flavor="&quot;Dragons in the skies of Tarkir—for the first time, it feels like my home.&quot;\n—Sarkhan Vol" text="Add {R} to your mana pool for each attacking creature you control. Until end of turn, attacking creatures you control gain &quot;{R}: This creature gets +1/+0 until end of turn.&quot;" tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391823" rarity="U" setCode="FRF" flavor="&quot;Dragons in the skies of Tarkir—for the first time, it feels like my home.&quot;\n—Sarkhan Vol" artist="Tomasz Jedruszek" />
+    </appearances>
+  </card>
+  <card name="Dragonscale General" cost="{3}{W}" flavor="&quot;Dragons seek war. I bring it to them.&quot;" text="At the beginning of your end step, bolster X, where X is the number of tapped creatures you control. (Choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)" tribe="Human Warrior" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391824" rarity="R" setCode="FRF" flavor="&quot;Dragons seek war. I bring it to them.&quot;" artist="Volkan Baga" />
+    </appearances>
+  </card>
+  <card name="Dromoka, the Eternal" cost="{3}{G}{W}" flavor="&quot;The bane of countless shattered weapons, each a failure to slay her.&quot;\n—Daghatar the Adamant" text="Flying\nWhenever a Dragon you control attacks, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)" tribe="Dragon" watermark="">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391825" rarity="R" setCode="FRF" flavor="&quot;The bane of countless shattered weapons, each a failure to slay her.&quot;\n—Daghatar the Adamant" artist="Eric Deschamps" />
+    </appearances>
+  </card>
+  <card name="Elite Scaleguard" cost="{4}{W}" flavor="" text="When Elite Scaleguard enters the battlefield, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)\nWhenever a creature you control with a +1/+1 counter on it attacks, tap target creature defending player controls." tribe="Human Soldier" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391826" rarity="U" setCode="FRF" flavor="" artist="Steve Prescott" />
+    </appearances>
+  </card>
+  <card name="Enhanced Awareness" cost="{4}{U}" flavor="&quot;Study the topography of your enemies, and you will have a map to victory.&quot;\n—Shu Yun, the Silent Tempest" text="Draw three cards, then discard a card." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391827" rarity="C" setCode="FRF" flavor="&quot;Study the topography of your enemies, and you will have a map to victory.&quot;\n—Shu Yun, the Silent Tempest" artist="Ryan Alexander Lee" />
+    </appearances>
+  </card>
+  <card name="Ethereal Ambush" cost="{3}{G}{U}" flavor="The energies of the Temur lands are readily unleashed upon intruders." text="Manifest the top two cards of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391828" rarity="C" setCode="FRF" flavor="The energies of the Temur lands are readily unleashed upon intruders." artist="Lius Lasahido" />
+    </appearances>
+  </card>
+  <card name="Fascination" cost="{X}{U}{U}" flavor="" text="Choose one —\n• Each player draws X cards.\n• Each player puts the top X cards of his or her library into his or her graveyard." tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391829" rarity="U" setCode="FRF" flavor="" artist="Svetlin Velinov" />
+    </appearances>
+  </card>
+  <card name="Fearsome Awakening" cost="{4}{B}" flavor="On Tarkir, dragons emerge from enormous tempests, phenomena tied to Ugin's very presence on the plane." text="Return target creature card from your graveyard to the battlefield. If it's a Dragon, put two +1/+1 counters on it." tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391830" rarity="U" setCode="FRF" flavor="On Tarkir, dragons emerge from enormous tempests, phenomena tied to Ugin's very presence on the plane." artist="Véronique Meignaud" />
+    </appearances>
+  </card>
+  <card name="Feral Krushok" cost="{4}{G}" flavor="In a stunning act of diplomacy, Yasova Dragonclaw ceded a portion of Temur lands to the Sultai. Her clan protested until they saw she had given the Sultai the breeding grounds of the krushoks. They hadn't realized she had a sense of humor." text="" tribe="Beast" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391831" rarity="C" setCode="FRF" flavor="In a stunning act of diplomacy, Yasova Dragonclaw ceded a portion of Temur lands to the Sultai. Her clan protested until they saw she had given the Sultai the breeding grounds of the krushoks. They hadn't realized she had a sense of humor." artist="Kev Walker" />
+    </appearances>
+  </card>
+  <card name="Fierce Invocation" cost="{4}{R}" flavor="Anger can empower those who embrace it." text="Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391832" rarity="C" setCode="FRF" flavor="Anger can empower those who embrace it." artist="Tyler Jacobson" />
+    </appearances>
+  </card>
+  <card name="Flamerush Rider" cost="{4}{R}" flavor="" text="Whenever Flamerush Rider attacks, put a token onto the battlefield tapped and attacking that's a copy of another target attacking creature. Exile the token at end of combat.\nDash {2}{R}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Human Warrior" watermark="Mardu">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391833" rarity="R" setCode="FRF" flavor="" artist="Min Yum" />
+    </appearances>
+  </card>
+  <card name="Flamewake Phoenix" cost="{1}{R}{R}" flavor="" text="Flying, haste\nFlamewake Phoenix attacks each turn if able.\nFerocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return Flamewake Phoenix from your graveyard to the battlefield." tribe="Phoenix" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391834" rarity="R" setCode="FRF" flavor="" artist="Min Yum" />
+    </appearances>
+  </card>
+  <card name="Forest" flavor="" text="{G}" tribe="Forest" watermark="">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391836" rarity="C" setCode="FRF" flavor="" artist="Titus Lunter" />
+      <appearance multiverseID="391835" rarity="C" setCode="FRF" flavor="" artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Formless Nurturing" cost="{3}{G}" flavor="" text="Manifest the top card of your library, then put a +1/+1 counter on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391837" rarity="C" setCode="FRF" flavor="" artist="Cliff Childs" />
+    </appearances>
+  </card>
+  <card name="Friendly Fire" cost="{3}{R}" flavor="&quot;Never tell goblins to ‘fire at will.'&quot;\n—Urut Barzeel, Mardu hordechief" text="Target creature's controller reveals a card at random from his or her hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's converted mana cost." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391838" rarity="U" setCode="FRF" flavor="&quot;Never tell goblins to ‘fire at will.'&quot;\n—Urut Barzeel, Mardu hordechief" artist="Anthony Palumbo" />
+    </appearances>
+  </card>
+  <card name="Frontier Mastodon" cost="{2}{G}" flavor="Each bronze disk on its harness is an offering from a young Temur hunter, a sign of respect to the spirits of the wild." text="Ferocious — Frontier Mastodon enters the battlefield with a +1/+1 counter on it if you control a creature with power 4 or greater." tribe="Elephant" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391839" rarity="C" setCode="FRF" flavor="Each bronze disk on its harness is an offering from a young Temur hunter, a sign of respect to the spirits of the wild." artist="Nils Hamm" />
+    </appearances>
+  </card>
+  <card name="Frontier Siege" cost="{3}{G}" flavor="" text="As Frontier Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of each of your main phases, add {G}{G} to your mana pool.\n• Dragons — Whenever a creature with flying enters the battlefield under your control, you may have it fight target creature you don't control." tribe="Enchantment" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391840" rarity="R" setCode="FRF" flavor="" artist="James Ryman" />
+    </appearances>
+  </card>
+  <card name="Frost Walker" cost="{1}{U}" flavor="&quot;As the clans carved out their territories, we saw allies where the Mardu saw only obstacles.&quot;\n—Yasova Dragonclaw" text="When Frost Walker becomes the target of a spell or ability, sacrifice it." tribe="Elemental" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391841" rarity="U" setCode="FRF" flavor="&quot;As the clans carved out their territories, we saw allies where the Mardu saw only obstacles.&quot;\n—Yasova Dragonclaw" artist="Mike Bierek" />
+    </appearances>
+  </card>
+  <card name="Fruit of the First Tree" cost="{3}{G}" flavor="&quot;I will be the ancestor my descendants call upon for aid. On that day I will take up my sword for my family once more.&quot;" text="Enchant creature\nWhen enchanted creature dies, you gain X life and draw X cards, where X is its toughness." tribe="Aura" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391842" rarity="U" setCode="FRF" flavor="&quot;I will be the ancestor my descendants call upon for aid. On that day I will take up my sword for my family once more.&quot;" artist="Ryan Yee" />
+    </appearances>
+  </card>
+  <card name="Ghastly Conscription" cost="{5}{B}{B}" flavor="" text="Exile all creature cards from target player's graveyard in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391843" rarity="M" setCode="FRF" flavor="" artist="YW Tang" />
+    </appearances>
+  </card>
+  <card name="Goblin Boom Keg" cost="{4}" flavor="Dragonfire spawned many imitations. Some were more dramatic than others." text="At the beginning of your upkeep, sacrifice Goblin Boom Keg.\nWhen Goblin Boom Keg is put into a graveyard from the battlefield, it deals 3 damage to target creature or player." tribe="Artifact" watermark="">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391844" rarity="U" setCode="FRF" flavor="Dragonfire spawned many imitations. Some were more dramatic than others." artist="Viktor Titov" />
+    </appearances>
+  </card>
+  <card name="Goblin Heelcutter" cost="{3}{R}" flavor="" text="Whenever Goblin Heelcutter attacks, target creature can't block this turn.\nDash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Goblin Berserker" watermark="Mardu">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391845" rarity="C" setCode="FRF" flavor="" artist="Jesper Ejsing" />
+    </appearances>
+  </card>
+  <card name="Gore Swine" cost="{2}{R}" flavor="&quot;The Mardu are like the gore swine. We are wild, hunt in packs, and rarely clean the blood from our blades.&quot;\n—Vallash, Mardu warrior" text="" tribe="Boar" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391846" rarity="C" setCode="FRF" flavor="&quot;The Mardu are like the gore swine. We are wild, hunt in packs, and rarely clean the blood from our blades.&quot;\n—Vallash, Mardu warrior" artist="Jack Wang" />
+    </appearances>
+  </card>
+  <card name="Grave Strength" cost="{1}{B}" flavor="So long as death follows life, the supply lines of the Sultai will never be cut." text="Choose target creature. Put the top three cards of your library into your graveyard, then put a +1/+1 counter on that creature for each creature card in your graveyard." tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391847" rarity="U" setCode="FRF" flavor="So long as death follows life, the supply lines of the Sultai will never be cut." artist="Jeff Simpson" />
+    </appearances>
+  </card>
+  <card name="Great-Horn Krushok" cost="{4}{W}" flavor="Perfectly suited for life in the Shifting Wastes, the krushok is well protected by its horn, its hide, and its temper." text="" tribe="Beast" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391848" rarity="C" setCode="FRF" flavor="Perfectly suited for life in the Shifting Wastes, the krushok is well protected by its horn, its hide, and its temper." artist="YW Tang" />
+    </appearances>
+  </card>
+  <card name="Grim Contest" cost="{1}{B}{G}" flavor="The invader hoped he could survive the beast's jaws and emerge through its rotting skin." text="Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391849" rarity="C" setCode="FRF" flavor="The invader hoped he could survive the beast's jaws and emerge through its rotting skin." artist="Phill Simmer" />
+    </appearances>
+  </card>
+  <card name="Gurmag Angler" cost="{6}{B}" flavor="If everything in the Gurmag Swamp hungers for human flesh, what bait could be more effective?" text="Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)" tribe="Zombie Fish" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391850" rarity="C" setCode="FRF" flavor="If everything in the Gurmag Swamp hungers for human flesh, what bait could be more effective?" artist="YW Tang" />
+    </appearances>
+  </card>
+  <card name="Harsh Sustenance" cost="{1}{W}{B}" flavor="The Shifting Wastes provide refuge to those who know where to look for it." text="Harsh Sustenance deals X damage to target creature or player and you gain X life, where X is the number of creatures you control." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391851" rarity="C" setCode="FRF" flavor="The Shifting Wastes provide refuge to those who know where to look for it." artist="Cynthia Sheppard" />
+    </appearances>
+  </card>
+  <card name="Hero's Blade" cost="{2}" flavor="The best swords are forged with dragonfire." text="Equipped creature gets +3/+2.\nWhenever a legendary creature enters the battlefield under your control, you may attach Hero's Blade to it.\nEquip {4}" tribe="Equipment" watermark="">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391852" rarity="U" setCode="FRF" flavor="The best swords are forged with dragonfire." artist="Aaron Miller" />
+    </appearances>
+  </card>
+  <card name="Hewed Stone Retainers" cost="{3}" flavor="&quot;Their origins are shrouded in mystery. I believe they are the protectors of the lost secrets of our world.&quot;\n—Jilaya, Temur whisperer" text="Cast Hewed Stone Retainers only if you've cast another spell this turn." tribe="Golem" watermark="">
+    <types>
+      <type name="ARTIFACT" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391853" rarity="U" setCode="FRF" flavor="&quot;Their origins are shrouded in mystery. I believe they are the protectors of the lost secrets of our world.&quot;\n—Jilaya, Temur whisperer" artist="David Seguin" />
+    </appearances>
+  </card>
+  <card name="Honor's Reward" cost="{2}{W}" flavor="It seldom rains in Abzan lands. When it does, the khan marks the occasion by honoring the families of the fallen." text="You gain 4 life. Bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)" tribe="Instant" watermark="Temur">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391854" rarity="U" setCode="FRF" flavor="It seldom rains in Abzan lands. When it does, the khan marks the occasion by honoring the families of the fallen." artist="Izzy" />
+    </appearances>
+  </card>
+  <card name="Hooded Assassin" cost="{2}{B}" flavor="" text="When Hooded Assassin enters the battlefield, choose one —\n• Put a +1/+1 counter on Hooded Assassin.\n• Destroy target creature that was dealt damage this turn." tribe="Human Assassin" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391855" rarity="C" setCode="FRF" flavor="" artist="Matt Stewart" />
+    </appearances>
+  </card>
+  <card name="Humble Defector" cost="{1}{R}" flavor="&quot;You were once Mardu, so your body and will are strong. Now we must train your mind.&quot;\n—Houn, Jeskai elder" text="{T}: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn." tribe="Human Rogue" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391856" rarity="U" setCode="FRF" flavor="&quot;You were once Mardu, so your body and will are strong. Now we must train your mind.&quot;\n—Houn, Jeskai elder" artist="Slawomir Maniak" />
+    </appearances>
+  </card>
+  <card name="Hungering Yeti" cost="{4}{R}" flavor="No clan is as adept at saying &quot;go away&quot; as the Temur." text="As long as you control a green or blue permanent, you may cast Hungering Yeti as though it had flash. (You may cast it any time you could cast an instant.)" tribe="Yeti" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391857" rarity="U" setCode="FRF" flavor="No clan is as adept at saying &quot;go away&quot; as the Temur." artist="Tyler Jacobson" />
+    </appearances>
+  </card>
+  <card name="Hunt the Weak" cost="{3}{G}" flavor="Dragons scorn the weak, even among their own kind." text="Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.)" tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391858" rarity="C" setCode="FRF" flavor="Dragons scorn the weak, even among their own kind." artist="Lars Grant-West" />
+    </appearances>
+  </card>
+  <card name="Island" flavor="" text="{U}" tribe="Island" watermark="">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391859" rarity="C" setCode="FRF" flavor="" artist="Florian de Gesincourt" />
+      <appearance multiverseID="391860" rarity="C" setCode="FRF" flavor="" artist="Titus Lunter" />
+    </appearances>
+  </card>
+  <card name="Jeskai Barricade" cost="{1}{W}" flavor="" text="Flash (You may cast this spell any time you could cast an instant.)\nDefender\nWhen Jeskai Barricade enters the battlefield, you may return another target creature you control to its owner's hand." tribe="Wall" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391861" rarity="U" setCode="FRF" flavor="" artist="Noah Bradley" />
+    </appearances>
+  </card>
+  <card name="Jeskai Infiltrator" cost="{2}{U}" flavor="" text="Jeskai Infiltrator can't be blocked as long as you control no other creatures.\nWhen Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Human Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391862" rarity="R" setCode="FRF" flavor="" artist="Cynthia Sheppard" />
+    </appearances>
+  </card>
+  <card name="Jeskai Runemark" cost="{2}{U}" flavor="" text="Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature has flying as long as you control a red or white permanent." tribe="Aura" watermark="Jeskai">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391863" rarity="C" setCode="FRF" flavor="" artist="Jaime Jones" />
+    </appearances>
+  </card>
+  <card name="Jeskai Sage" cost="{1}{U}" flavor="&quot;The one who conquers the mind is greater than the one who conquers the world.&quot;" text="Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Jeskai Sage dies, draw a card." tribe="Human Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391864" rarity="C" setCode="FRF" flavor="&quot;The one who conquers the mind is greater than the one who conquers the world.&quot;" artist="Craig J Spearing" />
+    </appearances>
+  </card>
+  <card name="Jungle Hollow" flavor="" text="Jungle Hollow enters the battlefield tapped.\nWhen Jungle Hollow enters the battlefield, you gain 1 life.\n{T}: Add {B} or {G} to your mana pool." tribe="Land" watermark="">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391865" rarity="C" setCode="FRF" flavor="" artist="Eytan Zana" />
+    </appearances>
+  </card>
+  <card name="Kolaghan, the Storm's Fury" cost="{3}{B}{R}" flavor="" text="Flying\nWhenever a Dragon you control attacks, creatures you control get +1/+0 until end of turn.\nDash {3}{B}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Dragon" watermark="">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391866" rarity="R" setCode="FRF" flavor="" artist="Jaime Jones" />
+    </appearances>
+  </card>
+  <card name="Lightform" cost="{1}{W}{W}" flavor="" text="When Lightform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Lightform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nEnchanted creature has flying and lifelink." tribe="Enchantment" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391867" rarity="U" setCode="FRF" flavor="" artist="Steve Prescott" />
+    </appearances>
+  </card>
+  <card name="Lightning Shrieker" cost="{4}{R}" flavor="Dragonslayers learned to keep silent about their deeds after seeing the terrible vengeance wrought by Kolaghan and her brood." text="Flying, trample, haste\nAt the beginning of the end step, Lightning Shrieker's owner shuffles it into his or her library." tribe="Dragon" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391868" rarity="C" setCode="FRF" flavor="Dragonslayers learned to keep silent about their deeds after seeing the terrible vengeance wrought by Kolaghan and her brood." artist="Slawomir Maniak" />
+    </appearances>
+  </card>
+  <card name="Lotus Path Djinn" cost="{3}{U}" flavor="&quot;The lotus takes root where body and mind intersect. It blooms when body and mind become one.&quot;" text="Flying\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)" tribe="Djinn Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391869" rarity="C" setCode="FRF" flavor="&quot;The lotus takes root where body and mind intersect. It blooms when body and mind become one.&quot;" artist="Steve Argyle" />
+    </appearances>
+  </card>
+  <card name="Lotus-Eye Mystics" cost="{3}{W}" flavor="Every action has a foreseen purpose." text="Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Lotus-Eye Mystics enters the battlefield, return target enchantment card from your graveyard to your hand." tribe="Human Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391870" rarity="U" setCode="FRF" flavor="Every action has a foreseen purpose." artist="Dan Scott" />
+    </appearances>
+  </card>
+  <card name="Map the Wastes" cost="{2}{G}" flavor="" text="Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)" tribe="Sorcery" watermark="Temur">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391871" rarity="C" setCode="FRF" flavor="" artist="Volkan Baga" />
+    </appearances>
+  </card>
+  <card name="Marang River Prowler" cost="{2}{U}" flavor="The currents of the Marang wash away both tracks and blood." text="Marang River Prowler can't block and can't be blocked.\nYou may cast Marang River Prowler from your graveyard as long as you control a black or green permanent." tribe="Human Rogue" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391872" rarity="U" setCode="FRF" flavor="The currents of the Marang wash away both tracks and blood." artist="Yefim Kligerman" />
+    </appearances>
+  </card>
+  <card name="Mardu Runemark" cost="{2}{R}" flavor="" text="Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature has first strike as long as you control a white or black permanent." tribe="Aura" watermark="Mardu">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391873" rarity="C" setCode="FRF" flavor="" artist="Viktor Titov" />
+    </appearances>
+  </card>
+  <card name="Mardu Scout" cost="{R}{R}" flavor="The Mardu all enjoy war, but only the goblins make a game of it." text="Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Goblin Scout" watermark="Mardu">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391874" rarity="C" setCode="FRF" flavor="The Mardu all enjoy war, but only the goblins make a game of it." artist="Zoltan Boros" />
+    </appearances>
+  </card>
+  <card name="Mardu Shadowspear" cost="{B}" flavor="" text="Whenever Mardu Shadowspear attacks, each opponent loses 1 life.\nDash {1}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Human Warrior" watermark="Mardu">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391875" rarity="U" setCode="FRF" flavor="" artist="Mark Poole" />
+    </appearances>
+  </card>
+  <card name="Mardu Strike Leader" cost="{2}{B}" flavor="" text="Whenever Mardu Strike Leader attacks, put a 2/1 black Warrior creature token onto the battlefield.\nDash {3}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Human Warrior" watermark="Mardu">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391876" rarity="R" setCode="FRF" flavor="" artist="Jason Rainville" />
+    </appearances>
+  </card>
+  <card name="Mardu Woe-Reaper" cost="{W}" flavor="&quot;Those who died in battle deserve their rest.&quot;" text="Whenever Mardu Woe-Reaper or another Warrior enters the battlefield under your control, you may exile target creature card from a graveyard. If you do, you gain 1 life." tribe="Human Warrior" watermark="Mardu">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391877" rarity="U" setCode="FRF" flavor="&quot;Those who died in battle deserve their rest.&quot;" artist="Willian Murai" />
+    </appearances>
+  </card>
+  <card name="Mastery of the Unseen" cost="{1}{W}" flavor="" text="Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.\n{3}{W}: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Enchantment" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391878" rarity="R" setCode="FRF" flavor="" artist="Daniel Ljunggren" />
+    </appearances>
+  </card>
+  <card name="Merciless Executioner" cost="{2}{B}" flavor="He enjoys his work, for he sees only the worst Abzan criminals: those who betray their own kin." text="When Merciless Executioner enters the battlefield, each player sacrifices a creature." tribe="Orc Warrior" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391879" rarity="U" setCode="FRF" flavor="He enjoys his work, for he sees only the worst Abzan criminals: those who betray their own kin." artist="David Palumbo" />
+    </appearances>
+  </card>
+  <card name="Mindscour Dragon" cost="{4}{U}{U}" flavor="&quot;The bells may one day ring as an anthem of our own end.&quot;\n—Kyu, Sage-Eye mystic" text="Flying\nWhenever Mindscour Dragon deals combat damage to an opponent, target player puts the top four cards of his or her library into his or her graveyard." tribe="Dragon" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391880" rarity="U" setCode="FRF" flavor="&quot;The bells may one day ring as an anthem of our own end.&quot;\n—Kyu, Sage-Eye mystic" artist="Wesley Burt" />
+    </appearances>
+  </card>
+  <card name="Mistfire Adept" cost="{3}{U}" flavor="&quot;The quieter the skies, the calmer the mind.&quot;" text="Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, target creature gains flying until end of turn." tribe="Human Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391881" rarity="U" setCode="FRF" flavor="&quot;The quieter the skies, the calmer the mind.&quot;" artist="Clint Cearley" />
+    </appearances>
+  </card>
+  <card name="Mob Rule" cost="{4}{R}{R}" flavor="" text="Choose one —\n• Gain control of all creatures with power 4 or greater until end of turn. Untap those creatures. They gain haste until end of turn.\n• Gain control of all creatures with power 3 or less until end of turn. Untap those creatures. They gain haste until end of turn." tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391882" rarity="R" setCode="FRF" flavor="" artist="Jakub Kasper" />
+    </appearances>
+  </card>
+  <card name="Monastery Mentor" cost="{2}{W}" flavor="&quot;Speak little. Do much.&quot;" text="Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, put a 1/1 white Monk creature token with prowess onto the battlefield." tribe="Human Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391883" rarity="M" setCode="FRF" flavor="&quot;Speak little. Do much.&quot;" artist="Magali Villeneuve" />
+    </appearances>
+  </card>
+  <card name="Monastery Siege" cost="{2}{U}" flavor="" text="As Monastery Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of your draw step, draw an additional card, then discard a card.\n• Dragons — Spells your opponents cast that target you or a permanent you control cost {2} more to cast." tribe="Enchantment" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391884" rarity="R" setCode="FRF" flavor="" artist="Mark Winters" />
+    </appearances>
+  </card>
+  <card name="Mountain" flavor="" text="{R}" tribe="Mountain" watermark="">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391885" rarity="C" setCode="FRF" flavor="" artist="Noah Bradley" />
+      <appearance multiverseID="391886" rarity="C" setCode="FRF" flavor="" artist="Florian de Gesincourt" />
+    </appearances>
+  </card>
+  <card name="Neutralizing Blast" cost="{1}{U}" flavor="&quot;To defeat your enemies, you must remove their ability to make war against you.&quot;" text="Counter target multicolored spell." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391887" rarity="U" setCode="FRF" flavor="&quot;To defeat your enemies, you must remove their ability to make war against you.&quot;" artist="Dan Scott" />
+    </appearances>
+  </card>
+  <card name="Noxious Dragon" cost="{4}{B}{B}" flavor="Dragons of Silumgar's brood begin to digest their prey even before consuming it, letting their caustic breath do much of the work." text="Flying\nWhen Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less." tribe="Dragon" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391888" rarity="U" setCode="FRF" flavor="Dragons of Silumgar's brood begin to digest their prey even before consuming it, letting their caustic breath do much of the work." artist="Svetlin Velinov" />
+    </appearances>
+  </card>
+  <card name="Ojutai, Soul of Winter" cost="{5}{W}{U}" flavor="&quot;When I battled Ojutai, I realized my learning had only begun.&quot;\n—Shu Yun, the Silent Tempest" text="Flying, vigilance\nWhenever a Dragon you control attacks, tap target nonland permanent an opponent controls. That permanent doesn't untap during its controller's next untap step." tribe="Dragon" watermark="">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391889" rarity="R" setCode="FRF" flavor="&quot;When I battled Ojutai, I realized my learning had only begun.&quot;\n—Shu Yun, the Silent Tempest" artist="Chase Stone" />
+    </appearances>
+  </card>
+  <card name="Orc Sureshot" cost="{3}{B}" flavor="&quot;Words have yet to halt an arrow.&quot;" text="Whenever another creature enters the battlefield under your control, target creature an opponent controls gets -1/-1 until end of turn." tribe="Orc Archer" watermark="Mardu">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391890" rarity="U" setCode="FRF" flavor="&quot;Words have yet to halt an arrow.&quot;" artist="Kev Walker" />
+    </appearances>
+  </card>
+  <card name="Outpost Siege" cost="{3}{R}" flavor="" text="As Outpost Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.\n• Dragons — Whenever a creature you control leaves the battlefield, Outpost Siege deals 1 damage to target creature or player." tribe="Enchantment" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391891" rarity="R" setCode="FRF" flavor="" artist="Daarken" />
+    </appearances>
+  </card>
+  <card name="Palace Siege" cost="{3}{B}{B}" flavor="" text="As Palace Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of your upkeep, return target creature card from your graveyard to your hand.\n• Dragons — At the beginning of your upkeep, each opponent loses 2 life and you gain 2 life." tribe="Enchantment" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391892" rarity="R" setCode="FRF" flavor="" artist="Slawomir Maniak" />
+    </appearances>
+  </card>
+  <card name="Pilgrim of the Fires" cost="{7}" flavor="The most skilled Jeskai artisans can craft imposing golems with such precision that they will last an eternity—the time believed necessary to master the Fires of the Jeskai Way." text="First strike, trample" tribe="Golem" watermark="">
+    <types>
+      <type name="ARTIFACT" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391893" rarity="U" setCode="FRF" flavor="The most skilled Jeskai artisans can craft imposing golems with such precision that they will last an eternity—the time believed necessary to master the Fires of the Jeskai Way." artist="Izzy" />
+    </appearances>
+  </card>
+  <card name="Plains" flavor="" text="{W}" tribe="Plains" watermark="">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391895" rarity="C" setCode="FRF" flavor="" artist="Noah Bradley" />
+      <appearance multiverseID="391894" rarity="C" setCode="FRF" flavor="" artist="Sam Burley" />
+    </appearances>
+  </card>
+  <card name="Pressure Point" cost="{1}{W}" flavor="By studying dragon anatomy, Jeskai monks have learned how to locate clusters of nerves that will incapacitate even the mightiest dragons." text="Tap target creature.\nDraw a card." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391896" rarity="C" setCode="FRF" flavor="By studying dragon anatomy, Jeskai monks have learned how to locate clusters of nerves that will incapacitate even the mightiest dragons." artist="Chase Stone" />
+    </appearances>
+  </card>
+  <card name="Pyrotechnics" cost="{4}{R}" flavor="&quot;Take inspiration from your enemies, and make their strengths your own.&quot;\n—Alesha, Who Smiles at Death" text="Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players." tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391897" rarity="U" setCode="FRF" flavor="&quot;Take inspiration from your enemies, and make their strengths your own.&quot;\n—Alesha, Who Smiles at Death" artist="Matt Stewart" />
+    </appearances>
+  </card>
+  <card name="Qarsi High Priest" cost="{B}" flavor="&quot;Hear me, nameless, and obey.&quot;" text="{1}{B}, {T}, Sacrifice another creature: Manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Human Cleric" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391898" rarity="U" setCode="FRF" flavor="&quot;Hear me, nameless, and obey.&quot;" artist="Viktor Titov" />
+    </appearances>
+  </card>
+  <card name="Rageform" cost="{2}{R}{R}" flavor="" text="When Rageform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Rageform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nEnchanted creature has double strike. (It deals both first-strike and regular combat damage.)" tribe="Enchantment" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391899" rarity="U" setCode="FRF" flavor="" artist="Richard Wright" />
+    </appearances>
+  </card>
+  <card name="Rakshasa's Disdain" cost="{2}{U}" flavor="&quot;Every failure, every death only makes my strength greater.&quot;" text="Counter target spell unless its controller pays {1} for each card in your graveyard." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391900" rarity="C" setCode="FRF" flavor="&quot;Every failure, every death only makes my strength greater.&quot;" artist="Seb McKinnon" />
+    </appearances>
+  </card>
+  <card name="Rally the Ancestors" cost="{X}{W}{W}" flavor="&quot;The family is a tree, and in times of need, every branch can be a weapon.&quot;\n—Daghatar the Adamant" text="Return each creature card with converted mana cost X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391901" rarity="R" setCode="FRF" flavor="&quot;The family is a tree, and in times of need, every branch can be a weapon.&quot;\n—Daghatar the Adamant" artist="Nils Hamm" />
+    </appearances>
+  </card>
+  <card name="Reach of Shadows" cost="{4}{B}" flavor="&quot;Is it better to be a fool or a coward? Fools may get things done occasionally, but cowards live longer.&quot;\n—Ghelesh Shadowmane, rakshasa mage" text="Destroy target creature that's one or more colors." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391902" rarity="C" setCode="FRF" flavor="&quot;Is it better to be a fool or a coward? Fools may get things done occasionally, but cowards live longer.&quot;\n—Ghelesh Shadowmane, rakshasa mage" artist="Daarken" />
+    </appearances>
+  </card>
+  <card name="Reality Shift" cost="{1}{U}" flavor="" text="Exile target creature. Its controller manifests the top card of his or her library. (That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)" tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391903" rarity="U" setCode="FRF" flavor="" artist="Howard Lyon" />
+    </appearances>
+  </card>
+  <card name="Refocus" cost="{1}{U}" flavor="&quot;Before you can open your third eye, you must prove you can open the first two.&quot;" text="Untap target creature.\nDraw a card." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391904" rarity="C" setCode="FRF" flavor="&quot;Before you can open your third eye, you must prove you can open the first two.&quot;" artist="Kev Walker" />
+    </appearances>
+  </card>
+  <card name="Renowned Weaponsmith" cost="{1}{U}" flavor="" text="{T}: Add {2} to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.\n{U}, {T}: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library." tribe="Human Artificer" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391905" rarity="U" setCode="FRF" flavor="" artist="Eric Deschamps" />
+    </appearances>
+  </card>
+  <card name="Return to the Earth" cost="{3}{G}" flavor="&quot;Dragons are feared for their breath and their bite, but it is their wings that make them unconquerable. Bring them to earth, and they die like any other beast.&quot;\n—Kassur, Sultai hunter" text="Destroy target artifact, enchantment, or creature with flying." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391906" rarity="C" setCode="FRF" flavor="&quot;Dragons are feared for their breath and their bite, but it is their wings that make them unconquerable. Bring them to earth, and they die like any other beast.&quot;\n—Kassur, Sultai hunter" artist="Mark Winters" />
+    </appearances>
+  </card>
+  <card name="Rite of Undoing" cost="{4}{U}" flavor="" text="Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nReturn target nonland permanent you control and target nonland permanent you don't control to their owners' hands." tribe="Instant" watermark="Sultai">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391907" rarity="U" setCode="FRF" flavor="" artist="Anastasia Ovchinnikova" />
+    </appearances>
+  </card>
+  <card name="Rugged Highlands" flavor="" text="Rugged Highlands enters the battlefield tapped.\nWhen Rugged Highlands enters the battlefield, you gain 1 life.\n{T}: Add {R} or {G} to your mana pool." tribe="Land" watermark="">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391908" rarity="C" setCode="FRF" flavor="" artist="Eytan Zana" />
+    </appearances>
+  </card>
+  <card name="Ruthless Instincts" cost="{2}{G}" flavor="A single battle affects countless others." text="Choose one —\n• Target nonattacking creature gains reach and deathtouch until end of turn. Untap it.\n• Target attacking creature gets +2/+2 and gains trample until end of turn." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391909" rarity="U" setCode="FRF" flavor="A single battle affects countless others." artist="Lius Lasahido" />
+    </appearances>
+  </card>
+  <card name="Sage-Eye Avengers" cost="{4}{U}{U}" flavor="" text="Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever Sage-Eye Avengers attacks, you may return target creature to its owner's hand if its power is less than Sage-Eye Avengers's power." tribe="Djinn Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391911" rarity="R" setCode="FRF" flavor="" artist="Dan Scott" />
+    </appearances>
+  </card>
+  <card name="Sage's Reverie" cost="{3}{W}" flavor="" text="Enchant creature\nWhen Sage's Reverie enters the battlefield, draw a card for each Aura you control that's attached to a creature.\nEnchanted creature gets +1/+1 for each Aura you control that's attached to a creature." tribe="Aura" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391910" rarity="U" setCode="FRF" flavor="" artist="Jason Rainville" />
+    </appearances>
+  </card>
+  <card name="Sandblast" cost="{2}{W}" flavor="In the Shifting Wastes, more are killed by sand than by steel." text="Sandblast deals 5 damage to target attacking or blocking creature." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391912" rarity="C" setCode="FRF" flavor="In the Shifting Wastes, more are killed by sand than by steel." artist="Min Yum" />
+    </appearances>
+  </card>
+  <card name="Sandsteppe Mastodon" cost="{5}{G}{G}" flavor="A mastodon's path always leads to an oasis." text="Reach\nWhen Sandsteppe Mastodon enters the battlefield, bolster 5. (Choose a creature with the least toughness among creatures you control and put five +1/+1 counters on it.)" tribe="Elephant" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391913" rarity="R" setCode="FRF" flavor="A mastodon's path always leads to an oasis." artist="James Zapata" />
+    </appearances>
+  </card>
+  <card name="Sandsteppe Outcast" cost="{2}{W}" flavor="" text="When Sandsteppe Outcast enters the battlefield, choose one —\n• Put a +1/+1 counter on Sandsteppe Outcast.\n• Put a 1/1 white Spirit creature token with flying onto the battlefield." tribe="Human Warrior" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391914" rarity="C" setCode="FRF" flavor="" artist="Wesley Burt" />
+    </appearances>
+  </card>
+  <card name="Scoured Barrens" flavor="" text="Scoured Barrens enters the battlefield tapped.\nWhen Scoured Barrens enters the battlefield, you gain 1 life.\n{T}: Add {W} or {B} to your mana pool." tribe="Land" watermark="">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391915" rarity="C" setCode="FRF" flavor="" artist="Eytan Zana" />
+    </appearances>
+  </card>
+  <card name="Scroll of the Masters" cost="{2}" flavor="" text="Whenever you cast a noncreature spell, put a lore counter on Scroll of the Masters.\n{3}, {T}: Target creature you control gets +1/+1 until end of turn for each lore counter on Scroll of the Masters." tribe="Artifact" watermark="">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391916" rarity="R" setCode="FRF" flavor="" artist="Lake Hurwitz" />
+    </appearances>
+  </card>
+  <card name="Shaman of the Great Hunt" cost="{3}{R}" flavor="" text="Haste\nWhenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.\nFerocious — {2}{GU}{GU}: Draw a card for each creature you control with power 4 or greater." tribe="Orc Shaman" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391917" rarity="M" setCode="FRF" flavor="" artist="Ryan Alexander Lee" />
+    </appearances>
+  </card>
+  <card name="Shamanic Revelation" cost="{3}{G}{G}" flavor="First, whispers of ancient days. Then, visions of things to come." text="Draw a card for each creature you control.\nFerocious — You gain 4 life for each creature you control with power 4 or greater." tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391918" rarity="R" setCode="FRF" flavor="First, whispers of ancient days. Then, visions of things to come." artist="Cynthia Sheppard" />
+    </appearances>
+  </card>
+  <card name="Shifting Loyalties" cost="{5}{U}" flavor="&quot;Show the enemy the true path, and the spirit will yearn to follow it.&quot;\n—Houn, Jeskai elder" text="Exchange control of two target permanents that share a card type. (Artifact, creature, enchantment, land, and planeswalker are card types.)" tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391919" rarity="U" setCode="FRF" flavor="&quot;Show the enemy the true path, and the spirit will yearn to follow it.&quot;\n—Houn, Jeskai elder" artist="James Ryman" />
+    </appearances>
+  </card>
+  <card name="Shockmaw Dragon" cost="{4}{R}{R}" flavor="Dragons of the Kolaghan brood are always on the move. They are the driving force behind the Mardu's nomadic way of life." text="Flying\nWhenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage to each creature that player controls." tribe="Dragon" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391920" rarity="U" setCode="FRF" flavor="Dragons of the Kolaghan brood are always on the move. They are the driving force behind the Mardu's nomadic way of life." artist="Alejandro Mirabal" />
+    </appearances>
+  </card>
+  <card name="Shu Yun, the Silent Tempest" cost="{2}{U}" flavor="" text="Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, you may pay {RW}{RW}. If you do, target creature gains double strike until end of turn." tribe="Human Monk" watermark="Jeskai">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391921" rarity="R" setCode="FRF" flavor="" artist="David Gaillet" />
+    </appearances>
+  </card>
+  <card name="Sibsig Host" cost="{4}{B}" flavor="&quot;They were your friends, your family, your clan. They want only to welcome you.&quot;\n—Tasigur, the Golden Fang" text="When Sibsig Host enters the battlefield, each player puts the top three cards of his or her library into his or her graveyard." tribe="Zombie" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391922" rarity="C" setCode="FRF" flavor="&quot;They were your friends, your family, your clan. They want only to welcome you.&quot;\n—Tasigur, the Golden Fang" artist="Steve Prescott" />
+    </appearances>
+  </card>
+  <card name="Sibsig Muckdraggers" cost="{8}{B}" flavor="" text="Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nWhen Sibsig Muckdraggers enters the battlefield, return target creature card from your graveyard to your hand." tribe="Zombie" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391923" rarity="U" setCode="FRF" flavor="" artist="Zack Stella" />
+    </appearances>
+  </card>
+  <card name="Silumgar, the Drifting Death" cost="{4}{U}{B}" flavor="&quot;No machinations, no puppet strings, no plots. Just pure, sweeping death.&quot;\n—Tasigur, the Golden Fang" text="Flying, hexproof\nWhenever a Dragon you control attacks, creatures defending player controls get -1/-1 until end of turn." tribe="Dragon" watermark="">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391924" rarity="R" setCode="FRF" flavor="&quot;No machinations, no puppet strings, no plots. Just pure, sweeping death.&quot;\n—Tasigur, the Golden Fang" artist="Steven Belledin" />
+    </appearances>
+  </card>
+  <card name="Smoldering Efreet" cost="{1}{R}" flavor="The efreet are drawn to the Kaisham Wanderers, a loosely organized Jeskai school where trickery is employed to challenge the status quo and upend the belief systems of others." text="When Smoldering Efreet dies, it deals 2 damage to you." tribe="Efreet Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391925" rarity="C" setCode="FRF" flavor="The efreet are drawn to the Kaisham Wanderers, a loosely organized Jeskai school where trickery is employed to challenge the status quo and upend the belief systems of others." artist="Chase Stone" />
+    </appearances>
+  </card>
+  <card name="Soul Summons" cost="{1}{W}" flavor="Ugin's magic reaches beyond the dragons. The clans have adapted it for war." text="Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391926" rarity="C" setCode="FRF" flavor="Ugin's magic reaches beyond the dragons. The clans have adapted it for war." artist="Johann Bodin" />
+    </appearances>
+  </card>
+  <card name="Soulfire Grand Master" cost="{1}{W}" flavor="" text="Lifelink\nInstant and sorcery spells you control have lifelink.\n{2}{UR}{UR}: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves." tribe="Human Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391927" rarity="M" setCode="FRF" flavor="" artist="Johannes Voss" />
+    </appearances>
+  </card>
+  <card name="Soulflayer" cost="{4}{B}{B}" flavor="" text="Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nIf a creature card with flying was exiled with Soulflayer's delve ability, Soulflayer has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance." tribe="Demon" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391928" rarity="R" setCode="FRF" flavor="" artist="Seb McKinnon" />
+    </appearances>
+  </card>
+  <card name="Sudden Reclamation" cost="{3}{G}" flavor="&quot;There is no secret buried so deep that we will never find it.&quot;\n—Kurtar, Sultai necromancer" text="Put the top four cards of your library into your graveyard, then return a creature card and a land card from your graveyard to your hand." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391929" rarity="U" setCode="FRF" flavor="&quot;There is no secret buried so deep that we will never find it.&quot;\n—Kurtar, Sultai necromancer" artist="Jack Wang" />
+    </appearances>
+  </card>
+  <card name="Sultai Emissary" cost="{1}{B}" flavor="To the Sultai, Ugin's power was just one more resource to be exploited." text="When Sultai Emissary dies, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Zombie Warrior" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391930" rarity="C" setCode="FRF" flavor="To the Sultai, Ugin's power was just one more resource to be exploited." artist="Mathias Kollros" />
+    </appearances>
+  </card>
+  <card name="Sultai Runemark" cost="{2}{B}" flavor="" text="Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature has deathtouch as long as you control a green or blue permanent. (Any amount of damage it deals to a creature is enough to destroy it.)" tribe="Aura" watermark="Sultai">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391931" rarity="C" setCode="FRF" flavor="" artist="Volkan Baga" />
+    </appearances>
+  </card>
+  <card name="Sultai Skullkeeper" cost="{1}{U}" flavor="A skullkeeper is the first to arrive after the palace archers strike down intruders, probing their brains for choice bits of knowledge." text="When Sultai Skullkeeper enters the battlefield, put the top two cards of your library into your graveyard." tribe="Naga Shaman" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391932" rarity="C" setCode="FRF" flavor="A skullkeeper is the first to arrive after the palace archers strike down intruders, probing their brains for choice bits of knowledge." artist="Ryan Barger" />
+    </appearances>
+  </card>
+  <card name="Supplant Form" cost="{4}{U}{U}" flavor="&quot;Ice can be shaped to any form, even the whisper of a memory.&quot;\n—Mytha, Temur shaman" text="Return target creature to its owner's hand. You put a token onto the battlefield that's a copy of that creature." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391933" rarity="R" setCode="FRF" flavor="&quot;Ice can be shaped to any form, even the whisper of a memory.&quot;\n—Mytha, Temur shaman" artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Swamp" flavor="" text="{B}" tribe="Swamp" watermark="">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391934" rarity="C" setCode="FRF" flavor="" artist="Sam Burley" />
+      <appearance multiverseID="391935" rarity="C" setCode="FRF" flavor="" artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Swiftwater Cliffs" flavor="" text="Swiftwater Cliffs enters the battlefield tapped.\nWhen Swiftwater Cliffs enters the battlefield, you gain 1 life.\n{T}: Add {U} or {R} to your mana pool." tribe="Land" watermark="">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391936" rarity="C" setCode="FRF" flavor="" artist="Eytan Zana" />
+    </appearances>
+  </card>
+  <card name="Tasigur, the Golden Fang" cost="{5}{B}" flavor="" text="Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\n{2}{GU}{GU}: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand." tribe="Human Shaman" watermark="Sultai">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391937" rarity="R" setCode="FRF" flavor="" artist="Chris Rahn" />
+    </appearances>
+  </card>
+  <card name="Tasigur's Cruelty" cost="{5}{B}" flavor="The cruelest tortures leave no mark upon the flesh." text="Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nEach opponent discards two cards." tribe="Sorcery" watermark="Sultai">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391938" rarity="C" setCode="FRF" flavor="The cruelest tortures leave no mark upon the flesh." artist="Chris Rahn" />
+    </appearances>
+  </card>
+  <card name="Temporal Trespass" cost="{8}{U}{U}{U}" flavor="Few truly live in the moment." text="Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTake an extra turn after this one. Exile Temporal Trespass." tribe="Sorcery" watermark="Sultai">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391939" rarity="M" setCode="FRF" flavor="Few truly live in the moment." artist="Clint Cearley" />
+    </appearances>
+  </card>
+  <card name="Temur Battle Rage" cost="{1}{R}" flavor="" text="Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)\nFerocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391940" rarity="C" setCode="FRF" flavor="" artist="Jaime Jones" />
+    </appearances>
+  </card>
+  <card name="Temur Runemark" cost="{2}{G}" flavor="" text="Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature has trample as long as you control a blue or red permanent." tribe="Aura" watermark="">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391941" rarity="C" setCode="FRF" flavor="" artist="Ryan Alexander Lee" />
+    </appearances>
+  </card>
+  <card name="Temur Sabertooth" cost="{2}{G}{G}" flavor="The Temur see themselves as a pack, their bonds more primal than the Abzan's." text="{1}{G}: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn." tribe="Cat" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391942" rarity="U" setCode="FRF" flavor="The Temur see themselves as a pack, their bonds more primal than the Abzan's." artist="Mike Sass" />
+    </appearances>
+  </card>
+  <card name="Temur War Shaman" cost="{4}{G}{G}" flavor="" text="When Temur War Shaman enters the battlefield, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nWhenever a permanent you control is turned face up, if it's a creature, you may have it fight target creature you don't control." tribe="Human Shaman" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391943" rarity="R" setCode="FRF" flavor="" artist="Nils Hamm" />
+    </appearances>
+  </card>
+  <card name="Thornwood Falls" flavor="" text="Thornwood Falls enters the battlefield tapped.\nWhen Thornwood Falls enters the battlefield, you gain 1 life.\n{T}: Add {G} or {U} to your mana pool." tribe="Land" watermark="">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391944" rarity="C" setCode="FRF" flavor="" artist="Eytan Zana" />
+    </appearances>
+  </card>
+  <card name="Torrent Elemental" cost="{4}{U}" flavor="" text="Flying\nWhenever Torrent Elemental attacks, tap all creatures defending player controls.\n{3}{BG}{BG}: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery." tribe="Elemental" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391945" rarity="M" setCode="FRF" flavor="" artist="James Paick" />
+    </appearances>
+  </card>
+  <card name="Tranquil Cove" flavor="" text="Tranquil Cove enters the battlefield tapped.\nWhen Tranquil Cove enters the battlefield, you gain 1 life.\n{T}: Add {W} or {U} to your mana pool." tribe="Land" watermark="">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391946" rarity="C" setCode="FRF" flavor="" artist="John Avon" />
+    </appearances>
+  </card>
+  <card name="Typhoid Rats" cost="{B}" flavor="When Tasigur sent his ambassadors to the Abzan outpost, the true envoys were not the naga but the infectious rats they carried with them." text="Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)" tribe="Rat" watermark="Sultai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391947" rarity="C" setCode="FRF" flavor="When Tasigur sent his ambassadors to the Abzan outpost, the true envoys were not the naga but the infectious rats they carried with them." artist="Dave Kendall" />
+    </appearances>
+  </card>
+  <card name="Ugin, the Spirit Dragon" cost="{8}" flavor="" text="+2: Ugin, the Spirit Dragon deals 3 damage to target creature or player.\n-X: Exile each permanent with converted mana cost X or less that's one or more colors.\n-10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield." tribe="Ugin" watermark="">
+    <types>
+      <type name="PLANESWALKER" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391948" rarity="M" setCode="FRF" flavor="" artist="Raymond Swanland" />
+    </appearances>
+  </card>
+  <card name="Ugin's Construct" cost="{4}" flavor="While trapping the Eldrazi on Zendikar, Ugin learned little from Sorin, but he gleaned the rudiments of lithomancy from Nahiri." text="When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors." tribe="Construct" watermark="">
+    <types>
+      <type name="ARTIFACT" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391949" rarity="U" setCode="FRF" flavor="While trapping the Eldrazi on Zendikar, Ugin learned little from Sorin, but he gleaned the rudiments of lithomancy from Nahiri." artist="Peter Mohrbacher" />
+    </appearances>
+  </card>
+  <card name="Valorous Stance" cost="{1}{W}" flavor="&quot;Every choice alters the path of fate.&quot;\n—Sarkhan Vol" text="Choose one —\n• Target creature gains indestructible until end of turn.\n• Destroy target creature with toughness 4 or greater." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391950" rarity="U" setCode="FRF" flavor="&quot;Every choice alters the path of fate.&quot;\n—Sarkhan Vol" artist="Willian Murai" />
+    </appearances>
+  </card>
+  <card name="Vaultbreaker" cost="{3}{R}" flavor="" text="Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a card.\nDash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Orc Rogue" watermark="Mardu">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391951" rarity="U" setCode="FRF" flavor="" artist="Wayne Reynolds" />
+    </appearances>
+  </card>
+  <card name="Wandering Champion" cost="{1}{W}" flavor="&quot;Learn from your enemies, but do not tolerate them.&quot;" text="Whenever Wandering Champion deals combat damage to a player, if you control a blue or red permanent, you may discard a card. If you do, draw a card." tribe="Human Monk" watermark="Jeskai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391952" rarity="U" setCode="FRF" flavor="&quot;Learn from your enemies, but do not tolerate them.&quot;" artist="Willian Murai" />
+    </appearances>
+  </card>
+  <card name="War Flare" cost="{2}{R}{W}" flavor="&quot;No sun or fire can warm my blood quite like a war flare.&quot;\n—Urut Barzeel, Mardu hordechief" text="Creatures you control get +2/+1 until end of turn. Untap those creatures." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391953" rarity="C" setCode="FRF" flavor="&quot;No sun or fire can warm my blood quite like a war flare.&quot;\n—Urut Barzeel, Mardu hordechief" artist="Karl Kopinski" />
+    </appearances>
+  </card>
+  <card name="Warden of the First Tree" cost="{G}" flavor="" text="{1}{WB}: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3.\n{2}{WB}{WB}: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink.\n{3}{WB}{WB}{WB}: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it." tribe="Human" watermark="Temur">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391954" rarity="M" setCode="FRF" flavor="" artist="Ryan Alexander Lee" />
+    </appearances>
+  </card>
+  <card name="Wardscale Dragon" cost="{4}{W}{W}" flavor="Dromoka's brood emerge from the dragon tempests covered with tough scales that protect them from most clan weapons and magic." text="Flying\nAs long as Wardscale Dragon is attacking, defending player can't cast spells." tribe="Dragon" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391955" rarity="U" setCode="FRF" flavor="Dromoka's brood emerge from the dragon tempests covered with tough scales that protect them from most clan weapons and magic." artist="Jason Rainville" />
+    </appearances>
+  </card>
+  <card name="Whisk Away" cost="{2}{U}" flavor="The maneuvers of the Abzan formation intrigued Ojutai in both their complexity and their futility." text="Put target attacking or blocking creature on top of its owner's library." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391956" rarity="C" setCode="FRF" flavor="The maneuvers of the Abzan formation intrigued Ojutai in both their complexity and their futility." artist="Zack Stella" />
+    </appearances>
+  </card>
+  <card name="Whisperer of the Wilds" cost="{1}{G}" flavor="She speaks only in whispers but can be heard over the fiercest storm." text="{T}: Add {G} to your mana pool.\nFerocious — {T}: Add {G}{G} to your mana pool. Activate this ability only if you control a creature with power 4 or greater." tribe="Human Shaman" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391957" rarity="C" setCode="FRF" flavor="She speaks only in whispers but can be heard over the fiercest storm." artist="David Gaillet" />
+    </appearances>
+  </card>
+  <card name="Whisperwood Elemental" cost="{3}{G}{G}" flavor="" text="At the beginning of your end step, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nSacrifice Whisperwood Elemental: Until end of turn, face-up nontoken creatures you control gain &quot;When this creature dies, manifest the top card of your library.&quot;" tribe="Elemental" watermark="">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391958" rarity="M" setCode="FRF" flavor="" artist="Raymond Swanland" />
+    </appearances>
+  </card>
+  <card name="Wild Slash" cost="{R}" flavor="Never mistake deception for cleverness." text="Ferocious — If you control a creature with power 4 or greater, damage can't be prevented this turn.\nWild Slash deals 2 damage to target creature or player." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391959" rarity="U" setCode="FRF" flavor="Never mistake deception for cleverness." artist="Raymond Swanland" />
+    </appearances>
+  </card>
+  <card name="Wildcall" cost="{X}{G}{G}" flavor="A howl on the wind hides many dangers." text="Manifest the top card of your library, then put X +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391960" rarity="R" setCode="FRF" flavor="A howl on the wind hides many dangers." artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Will of the Naga" cost="{4}{U}{U}" flavor="The charm of a naga is undeniable." text="Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTap up to two target creatures. Those creatures don't untap during their controller's next untap step." tribe="Instant" watermark="Sultai">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391961" rarity="C" setCode="FRF" flavor="The charm of a naga is undeniable." artist="Wayne Reynolds" />
+    </appearances>
+  </card>
+  <card name="Winds of Qal Sisma" cost="{1}{G}" flavor="" text="Prevent all combat damage that would be dealt this turn.\nFerocious — If you control a creature with power 4 or greater, instead prevent all combat damage that would be dealt this turn by creatures your opponents control." tribe="Instant" watermark="">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391962" rarity="U" setCode="FRF" flavor="" artist="Howard Lyon" />
+    </appearances>
+  </card>
+  <card name="Wind-Scarred Crag" flavor="" text="Wind-Scarred Crag enters the battlefield tapped.\nWhen Wind-Scarred Crag enters the battlefield, you gain 1 life.\n{T}: Add {R} or {W} to your mana pool." tribe="Land" watermark="">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391963" rarity="C" setCode="FRF" flavor="" artist="Eytan Zana" />
+    </appearances>
+  </card>
+  <card name="Write into Being" cost="{2}{U}" flavor="" text="Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)" tribe="Sorcery" watermark="">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391964" rarity="C" setCode="FRF" flavor="" artist="Yeong-Hao Han" />
+    </appearances>
+  </card>
+  <card name="Yasova Dragonclaw" cost="{2}{G}" flavor="" text="Trample\nAt the beginning of combat on your turn, you may pay {1}{UR}{UR}. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn." tribe="Human Warrior" watermark="">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="391965" rarity="R" setCode="FRF" flavor="" artist="Winona Nelson" />
+    </appearances>
+  </card>
+</cards>

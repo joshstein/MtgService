@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sets>
+  <set name="15th Anniversary" code="15A" isPromo="true" mtgImageName="p15A" />
+  <set name="Alara Reborn" code="ARB" isPromo="false" date="2009-04-01T00:00:00" />
+  <set name="Alliances" code="ALL" isPromo="false" date="1996-06-01T00:00:00" />
+  <set name="Anthologies" code="ANT" isPromo="true" date="1998-11-01T00:00:00" />
+  <set name="Antiquities" code="ATQ" isPromo="false" date="1994-04-01T00:00:00" />
+  <set name="Apocalypse" code="APC" isPromo="false" date="2001-05-01T00:00:00" />
+  <set name="Arabian Nights" code="ARN" isPromo="false" date="1993-12-01T00:00:00" />
+  <set name="Archenemy" code="ARC" isPromo="true" date="2010-06-01T00:00:00" />
+  <set name="Archenemy &quot;Schemes&quot;" code="ARS" isPromo="true" date="2010-06-01T00:00:00" />
+  <set name="Arena League" code="ARE" isPromo="true" mtgImageName="pARL" />
+  <set name="Asia Pacific Land Program" code="ALP" isPromo="true" mtgImageName="pALP" />
+  <set name="Avacyn Restored" code="AVR" isPromo="false" date="2012-05-01T00:00:00" />
+  <set name="Battle Royale Box Set" code="BRB" isPromo="true" date="1999-11-01T00:00:00" />
+  <set name="Beatdown Box Set" code="BTD" isPromo="true" date="2000-12-01T00:00:00" />
+  <set name="Betrayers of Kamigawa" code="BOK" cfName="Betrayers" isPromo="false" date="2005-01-01T00:00:00" />
+  <set name="Born of the Gods" code="BNG" isPromo="false" date="2014-02-01T00:00:00" />
+  <set name="Celebration Cards" code="CEL" isPromo="true" mtgImageName="pCEL" />
+  <set name="Champions of Kamigawa" code="CHK" isPromo="false" date="2004-09-01T00:00:00" />
+  <set name="Champs" code="CHA" isPromo="true" mtgImageName="pCMP" />
+  <set name="Chronicles" code="CHR" isPromo="false" date="1995-07-01T00:00:00" />
+  <set name="Classic Sixth Edition" code="6ED" isPromo="false" date="1999-04-01T00:00:00" />
+  <set name="Coldsnap" code="CSP" isPromo="false" date="2006-06-01T00:00:00" />
+  <set name="Coldsnap Theme Decks" code="CST" isPromo="true" date="2006-06-01T00:00:00" />
+  <set name="Commander" code="CMD" cfName="Commander" isPromo="true" tcgPlayerName="Commander" date="2011-06-01T00:00:00" />
+  <set name="Commander 2013 Edition" code="C13" cfName="Commander 2013" isPromo="true" tcgPlayerName="Commander 2013" date="2013-11-01T00:00:00" />
+  <set name="Commander 2014" code="C14" cfName="Commander 2014" isPromo="true" tcgPlayerName="Commander 2014" date="2014-11-07T00:00:00" />
+  <set name="Commander's Arsenal" code="CMA" isPromo="true" date="2012-11-01T00:00:00" />
+  <set name="Conflux" code="CFX" isPromo="false" date="2009-01-01T00:00:00" />
+  <set name="Dark Ascension" code="DKA" isPromo="false" date="2012-02-01T00:00:00" />
+  <set name="Darksteel" code="DST" isPromo="false" date="2004-01-01T00:00:00" />
+  <set name="Deckmasters" code="DM" isPromo="true" date="2001-12-01T00:00:00" />
+  <set name="Dissension" code="DIS" isPromo="false" date="2006-04-01T00:00:00" />
+  <set name="Dragon's Maze" code="DGM" isPromo="false" date="2013-05-01T00:00:00" />
+  <set name="Duel Decks: Ajani vs. Nicol Bolas" code="DDH" isPromo="true" date="2011-08-01T00:00:00" />
+  <set name="Duel Decks: Divine vs. Demonic" code="DDC" isPromo="true" date="2009-04-01T00:00:00" />
+  <set name="Duel Decks: Elspeth vs. Tezzeret" code="DDF" isPromo="true" date="2010-09-01T00:00:00" />
+  <set name="Duel Decks: Elves vs. Goblins" code="EVG" isPromo="true" date="2007-11-01T00:00:00" />
+  <set name="Duel Decks: Garruk vs. Liliana" code="DDD" isPromo="true" date="2009-10-01T00:00:00" />
+  <set name="Duel Decks: Heroes vs. Monsters" code="DDL" isPromo="true" date="2013-09-01T00:00:00" />
+  <set name="Duel Decks: Izzet vs. Golgari" code="DDJ" isPromo="true" date="2012-09-01T00:00:00" />
+  <set name="Duel Decks: Jace vs. Chandra" code="DD2" isPromo="true" date="2008-11-01T00:00:00" />
+  <set name="Duel Decks: Jace vs. Vraska" code="DDM" isPromo="true" date="2014-03-01T00:00:00" />
+  <set name="Duel Decks: Knights vs. Dragons" code="DDG" isPromo="true" date="2011-04-01T00:00:00" />
+  <set name="Duel Decks: Phyrexia vs. the Coalition" code="DDE" isPromo="true" date="2010-03-01T00:00:00" />
+  <set name="Duel Decks: Sorin vs. Tibalt" code="DDK" isPromo="true" date="2013-03-01T00:00:00" />
+  <set name="Duel Decks: Speed vs. Cunning" code="DDN" isPromo="true" date="2014-09-01T00:00:00" />
+  <set name="Duel Decks: Venser vs. Koth" code="DDI" isPromo="true" date="2012-04-01T00:00:00" />
+  <set name="Duels of the Planeswalkers" code="DPA" isPromo="true" date="2010-04-01T00:00:00" />
+  <set name="Eighth Edition" code="8ED" isPromo="false" date="2003-07-01T00:00:00" />
+  <set name="Eighth Edition Box Set" code="8EB" isPromo="false" date="2003-07-01T00:00:00" />
+  <set name="European Land Program" code="EUR" isPromo="true" mtgImageName="pELP" />
+  <set name="Eventide" code="EVE" isPromo="false" date="2008-07-01T00:00:00" />
+  <set name="Exodus" code="EXO" isPromo="false" date="1998-06-01T00:00:00" />
+  <set name="Fallen Empires" code="FEM" isPromo="false" date="1994-10-01T00:00:00" />
+  <set name="Fifth Dawn" code="5DN" isPromo="false" date="2004-05-01T00:00:00" />
+  <set name="Fifth Edition" code="5ED" isPromo="false" date="1997-03-01T00:00:00" />
+  <set name="Fourth Edition" code="4ED" isPromo="false" date="1995-04-01T00:00:00" />
+  <set name="Friday Night Magic" code="FNM" isPromo="true" mtgImageName="pFNM" />
+  <set name="From the Vault: Annihilation (2014)" code="V14" isPromo="true" date="2014-08-01T00:00:00" />
+  <set name="From the Vault: Dragons" code="DRB" isPromo="true" date="2008-08-01T00:00:00" />
+  <set name="From the Vault: Exiled" code="V09" isPromo="true" date="2009-08-01T00:00:00" />
+  <set name="From the Vault: Legends" code="V11" isPromo="true" date="2011-08-01T00:00:00" />
+  <set name="From the Vault: Realms" code="V12" isPromo="true" date="2012-08-01T00:00:00" />
+  <set name="From the Vault: Relics" code="V10" isPromo="true" date="2010-08-01T00:00:00" />
+  <set name="From the Vault: Twenty" code="V13" isPromo="true" date="2013-08-01T00:00:00" />
+  <set name="Future Sight" code="FUT" isPromo="false" date="2007-05-01T00:00:00" />
+  <set name="Gatecrash" code="GTC" isPromo="false" date="2013-01-01T00:00:00" />
+  <set name="Grand Prix" code="GPX" isPromo="true" mtgImageName="pGPX" />
+  <set name="Guildpact" code="GPT" isPromo="false" date="2006-01-01T00:00:00" />
+  <set name="Guru" code="GUR" isPromo="true" mtgImageName="pGRU" />
+  <set name="Happy Holidays" code="HHO" isPromo="true" mtgImageName="pHHO" />
+  <set name="Homelands" code="HML" isPromo="false" date="1995-10-01T00:00:00" />
+  <set name="Ice Age" code="ICE" isPromo="false" date="1995-06-01T00:00:00" />
+  <set name="Innistrad" code="ISD" isPromo="false" date="2011-09-01T00:00:00" />
+  <set name="Invasion" code="INV" isPromo="false" date="2000-09-01T00:00:00" />
+  <set name="Journey into Nyx" code="JOU" isPromo="false" date="2014-05-01T00:00:00" />
+  <set name="Judge Gift Program" code="JCG" isPromo="true" mtgImageName="pJGP" />
+  <set name="Judgment" code="JUD" isPromo="false" date="2002-05-01T00:00:00" />
+  <set name="Khans of Tarkir" code="KTK" isPromo="false" date="2014-09-01T00:00:00" />
+  <set name="Legend Membership" code="LGM" isPromo="true" mtgImageName="pLGM" />
+  <set name="Legends" code="LEG" isPromo="false" date="1994-06-01T00:00:00" />
+  <set name="Legions" code="LGN" isPromo="false" date="2003-01-01T00:00:00" />
+  <set name="Limited Edition Alpha" code="LEA" isPromo="false" date="1993-08-01T00:00:00" />
+  <set name="Limited Edition Beta" code="LEB" isPromo="false" date="1993-10-01T00:00:00" />
+  <set name="Lorwyn" code="LRW" isPromo="false" date="2007-09-01T00:00:00" />
+  <set name="Magic 2010" code="M10" isPromo="false" tcgPlayerName="magic 2010 (m10)" date="2009-07-01T00:00:00" />
+  <set name="Magic 2011" code="M11" isPromo="false" tcgPlayerName="magic 2011 (m11)" date="2010-07-01T00:00:00" />
+  <set name="Magic 2012" code="M12" isPromo="false" tcgPlayerName="magic 2012 (m12)" date="2011-07-01T00:00:00" />
+  <set name="Magic 2013" code="M13" isPromo="false" tcgPlayerName="magic 2013 (m13)" date="2012-07-01T00:00:00" />
+  <set name="Magic 2014 Core Set" code="M14" isPromo="false" tcgPlayerName="magic 2014 (m14)" date="2013-07-01T00:00:00" />
+  <set name="Magic 2015 Core Set" code="M15" isPromo="false" tcgPlayerName="magic 2015 (m15)" date="2014-07-01T00:00:00" />
+  <set name="Magic Game Day Cards" code="GDC" isPromo="true" mtgImageName="pMGD" />
+  <set name="Magic Player Rewards" code="REW" isPromo="true" mtgImageName="pMPR" />
+  <set name="Magic: The Gathering Launch Parties" code="GLP" isPromo="true" />
+  <set name="Magic: The Gathering—Conspiracy" code="CNS" isPromo="true" date="2014-06-01T00:00:00" />
+  <set name="Magic: The Gathering—Conspiracy &quot;Conspiracies&quot;" code="CNSC" isPromo="true" date="2014-06-01T00:00:00" />
+  <set name="Masters Edition" code="MED" isPromo="true" date="2007-09-01T00:00:00" />
+  <set name="Masters Edition II" code="ME2" isPromo="true" date="2008-09-01T00:00:00" />
+  <set name="Masters Edition III" code="ME3" isPromo="true" date="2009-09-01T00:00:00" />
+  <set name="Masters Edition IV" code="ME4" isPromo="true" date="2011-01-01T00:00:00" />
+  <set name="Media Inserts" code="MBP" isPromo="true" mtgImageName="pMEI" />
+  <set name="Mercadian Masques" code="MMQ" isPromo="false" date="1999-09-01T00:00:00" />
+  <set name="Mirage" code="MIR" isPromo="false" date="1996-10-01T00:00:00" />
+  <set name="Mirrodin" code="MRD" isPromo="false" date="2003-09-01T00:00:00" />
+  <set name="Mirrodin Besieged" code="MBS" isPromo="false" date="2011-01-01T00:00:00" />
+  <set name="Modern Event Deck 2014" code="MD1" isPromo="true" date="2014-05-01T00:00:00" />
+  <set name="Modern Masters" code="MMA" isPromo="true" date="2013-06-01T00:00:00" />
+  <set name="Morningtide" code="MOR" isPromo="false" date="2008-01-01T00:00:00" />
+  <set name="Nemesis" code="NMS" isPromo="false" date="2000-02-01T00:00:00" />
+  <set name="New Phyrexia" code="NPH" isPromo="false" date="2011-05-01T00:00:00" />
+  <set name="Ninth Edition" code="9ED" isPromo="false" date="2005-07-01T00:00:00" />
+  <set name="Ninth Edition Box Set" code="9EB" isPromo="false" date="2005-07-01T00:00:00" />
+  <set name="Odyssey" code="ODY" isPromo="false" date="2001-09-01T00:00:00" />
+  <set name="Onslaught" code="ONS" isPromo="false" date="2002-09-01T00:00:00" />
+  <set name="Planar Chaos" code="PLC" isPromo="false" date="2007-01-01T00:00:00" />
+  <set name="Planechase" code="PCH" isPromo="true" date="2009-09-01T00:00:00" />
+  <set name="Planechase &quot;Planes&quot;" code="PCP" isPromo="true" date="2009-09-01T00:00:00" />
+  <set name="Planechase 2012 Edition" code="PC2" isPromo="true" date="2012-06-01T00:00:00" />
+  <set name="Planechase 2012 Edition &quot;Planes&quot; and &quot;Phenomena&quot;" code="PP2" isPromo="true" date="2012-06-01T00:00:00" />
+  <set name="Planeshift" code="PLS" isPromo="false" date="2001-01-01T00:00:00" />
+  <set name="Portal" code="POR" isPromo="true" date="1997-06-01T00:00:00" />
+  <set name="Portal Second Age" code="PSA" isPromo="true" date="1998-06-01T00:00:00" />
+  <set name="Portal Three Kingdoms" code="PTK" isPromo="true" date="1999-06-01T00:00:00" />
+  <set name="Premium Deck Series: Fire and Lightning" code="FAL" isPromo="true" date="2010-11-01T00:00:00" />
+  <set name="Premium Deck Series: Graveborn" code="GRV" isPromo="true" date="2011-11-01T00:00:00" />
+  <set name="Premium Deck Series: Slivers" code="SLI" isPromo="true" date="2009-11-01T00:00:00" />
+  <set name="Prerelease Events" code="PRE" isPromo="true" mtgImageName="pPRE" />
+  <set name="Pro Tour" code="PRO" isPromo="true" mtgImageName="pPRO" />
+  <set name="Prophecy" code="PCY" isPromo="false" date="2000-05-01T00:00:00" />
+  <set name="Ravnica: City of Guilds" code="RAV" isPromo="false" date="2005-09-01T00:00:00" />
+  <set name="Release Events" code="RLS" isPromo="true" mtgImageName="pREL" />
+  <set name="Return to Ravnica" code="RTR" isPromo="false" date="2012-10-01T00:00:00" />
+  <set name="Revised Edition" code="LER" isPromo="false" date="1994-04-01T00:00:00" />
+  <set name="Rise of the Eldrazi" code="ROE" isPromo="false" date="2010-04-01T00:00:00" />
+  <set name="Saviors of Kamigawa" code="SOK" cfName="Saviors" isPromo="false" date="2005-05-01T00:00:00" />
+  <set name="Scars of Mirrodin" code="SOM" isPromo="false" date="2010-09-01T00:00:00" />
+  <set name="Scourge" code="SCG" isPromo="false" date="2003-05-01T00:00:00" />
+  <set name="Seventh Edition" code="7ED" isPromo="false" date="2001-04-01T00:00:00" />
+  <set name="Shadowmoor" code="SHM" isPromo="false" date="2008-04-01T00:00:00" />
+  <set name="Shards of Alara" code="ALA" isPromo="false" date="2008-09-01T00:00:00" />
+  <set name="Starter 1999" code="S99" isPromo="true" date="1999-07-01T00:00:00" />
+  <set name="Starter 2000" code="S00" isPromo="true" date="2000-07-01T00:00:00" />
+  <set name="Stronghold" code="STH" isPromo="false" date="1998-02-01T00:00:00" />
+  <set name="Summer of Magic" code="SUM" isPromo="true" mtgImageName="pSUM" />
+  <set name="Super Series" code="SUS" isPromo="true" mtgImageName="pSUS" />
+  <set name="Tempest" code="TMP" isPromo="false" date="1997-10-01T00:00:00" />
+  <set name="Tenth Edition" code="10E" isPromo="false" date="2007-07-01T00:00:00" />
+  <set name="The Dark" code="DRK" isPromo="false" date="1994-08-01T00:00:00" />
+  <set name="Theros" code="THS" isPromo="false" date="2013-09-01T00:00:00" />
+  <set name="Time Spiral" code="TSP" isPromo="false" date="2006-09-01T00:00:00" />
+  <set name="Time Spiral &quot;Timeshifted&quot;" code="TSB" isPromo="false" date="2006-09-01T00:00:00" />
+  <set name="Torment" code="TOR" isPromo="false" date="2002-01-01T00:00:00" />
+  <set name="Two-Headed Giant Tournament" code="2HG" isPromo="true" mtgImageName="p2HG" />
+  <set name="Unglued" code="UGL" isPromo="true" date="1998-08-01T00:00:00" />
+  <set name="Unhinged" code="UNH" isPromo="true" date="2004-11-01T00:00:00" />
+  <set name="Unlimited Edition" code="2ED" isPromo="false" date="1993-12-01T00:00:00" />
+  <set name="Urza's Destiny" code="UDS" isPromo="false" date="1999-05-01T00:00:00" />
+  <set name="Urza's Legacy" code="ULG" isPromo="false" date="1999-02-01T00:00:00" />
+  <set name="Urza's Saga" code="USG" isPromo="false" date="1998-10-01T00:00:00" />
+  <set name="Vintage Masters" code="VMA" isPromo="true" date="2014-06-01T00:00:00" />
+  <set name="Visions" code="VIS" isPromo="false" date="1997-02-01T00:00:00" />
+  <set name="Weatherlight" code="WTH" isPromo="false" date="1997-05-01T00:00:00" />
+  <set name="World Magic Cup Qualifiers" code="WCQ" isPromo="true" mtgImageName="pWCQ" />
+  <set name="Worlds" code="WRL" isPromo="true" mtgImageName="pWOR" />
+  <set name="Worldwake" code="WWK" isPromo="false" date="2010-01-01T00:00:00" />
+  <set name="WPN/Gateway" code="GTW" isPromo="true" mtgImageName="pWPN" />
+  <set name="Zendikar" code="ZEN" isPromo="false" date="2009-09-01T00:00:00" />
+</sets>

@@ -1,0 +1,2063 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+  <card name="Acid-Spewer Dragon" cost="{5}{B}" text="Flying, deathtouch\nMegamorph {5}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Acid-Spewer Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control." tribe="Dragon" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394485" rarity="Uncommon" setCode="DTK" artist="James Zapata" />
+    </appearances>
+  </card>
+  <card name="Aerie Bowmasters" cost="{2}{G}{G}" text="Reach (This creature can block creatures with flying.)\nMegamorph {5}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Hound Archer" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394486" rarity="Common" setCode="DTK" artist="Matt Stewart" />
+    </appearances>
+  </card>
+  <card name="Ainok Artillerist" cost="{2}{G}" text="Ainok Artillerist has reach as long as it has a +1/+1 counter on it. (It can block creatures with flying.)" tribe="Hound Archer" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394487" rarity="Common" setCode="DTK" flavor="&quot;In the Tarkir I once knew, the Abzan revered their ancestor trees. Now, as Dromoka, they cut their finest groves to make weapons.&quot;\n—Sarkhan Vol" artist="James Paick" />
+    </appearances>
+  </card>
+  <card name="Ainok Survivalist" cost="{1}{G}" text="Megamorph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Ainok Survivalist is turned face up, destroy target artifact or enchantment an opponent controls." tribe="Hound Shaman" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394488" rarity="Uncommon" setCode="DTK" artist="Craig J Spearing" />
+    </appearances>
+  </card>
+  <card name="Ambuscade Shaman" cost="{2}{B}" text="Whenever Ambuscade Shaman or another creature enters the battlefield under your control, that creature gets +2/+2 until end of turn.\nDash {3}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Orc Shaman" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394489" rarity="Uncommon" setCode="DTK" artist="Anthony Palumbo" />
+    </appearances>
+  </card>
+  <card name="Anafenza, Kin-Tree Spirit" cost="{W}{W}" text="Whenever another nontoken creature enters the battlefield under your control, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)" tribe="Spirit Soldier" watermark="Dromoka">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394490" rarity="Rare" setCode="DTK" flavor="Martyred for worshipping her ancestors, she now walks among them." artist="Ryan Yee" />
+    </appearances>
+  </card>
+  <card name="Ancestral Statue" cost="{4}" text="When Ancestral Statue enters the battlefield, return a nonland permanent you control to its owner's hand." tribe="Golem">
+    <types>
+      <type name="ARTIFACT" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394491" rarity="Common" setCode="DTK" flavor="The mage awakened the statue in hopes of learning the lost lore of her clan, but the statue was interested only in war." artist="Tomasz Jedruszek" />
+    </appearances>
+  </card>
+  <card name="Ancient Carp" cost="{4}{U}" tribe="Fish">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394492" rarity="Common" setCode="DTK" flavor="&quot;Why eat now what could one day grow into a feast?&quot;\n—Ojutai, translated from Draconic" artist="Christopher Burdett" />
+    </appearances>
+  </card>
+  <card name="Anticipate" cost="{1}{U}" text="Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394493" rarity="Common" setCode="DTK" flavor="&quot;When I have meditated on all outcomes, my opponent has no recourse.&quot;" artist="Lake Hurwitz" />
+    </appearances>
+  </card>
+  <card name="Arashin Foremost" cost="{1}{W}{W}" text="Double strike\nWhenever Arashin Foremost enters the battlefield or attacks, another target Warrior creature you control gains double strike until end of turn." tribe="Human Warrior" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394494" rarity="Rare" setCode="DTK" flavor="&quot;I would gladly give my life if it would inspire my clan to victory.&quot;" artist="David Palumbo" />
+    </appearances>
+  </card>
+  <card name="Arashin Sovereign" cost="{5}{G}{W}" text="Flying\nWhen Arashin Sovereign dies, you may put it on the top or bottom of its owner's library." tribe="Dragon" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394495" rarity="Rare" setCode="DTK" flavor="Dromoka dragons foster trust among their subjects, while the other clans must spend their time quelling rebellion." artist="Dan Scott" />
+    </appearances>
+  </card>
+  <card name="Artful Maneuver" cost="{1}{W}" text="Target creature gets +2/+2 until end of turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)" tribe="Instant" watermark="Ojutai">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394496" rarity="Common" setCode="DTK" artist="Lars Grant-West" />
+    </appearances>
+  </card>
+  <card name="Assault Formation" cost="{1}{G}" text="Each creature you control assigns combat damage equal to its toughness rather than its power.\n{G}: Target creature with defender can attack this turn as though it didn't have defender.\n{2}{G}: Creatures you control get +0/+1 until end of turn." tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394497" rarity="Rare" setCode="DTK" artist="Kieran Yanner" />
+    </appearances>
+  </card>
+  <card name="Atarka Beastbreaker" cost="{1}{G}" text="Formidable — {4}{G}: Atarka Beastbreaker gets +4/+4 until end of turn. Activate this ability only if creatures you control have total power 8 or greater." tribe="Human Warrior" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394498" rarity="Common" setCode="DTK" flavor="He scorns the heavy winter garb of lesser warriors, trusting his anger to keep him warm." artist="Johannes Voss" />
+    </appearances>
+  </card>
+  <card name="Atarka Efreet" cost="{3}{R}" text="Megamorph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Atarka Efreet is turned face up, it deals 1 damage to target creature or player." tribe="Efreet Shaman" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394499" rarity="Common" setCode="DTK" artist="Izzy" />
+    </appearances>
+  </card>
+  <card name="Atarka Monument" cost="{3}" text="{T}: Add {R} or {G} to your mana pool.\n{4}{R}{G}: Atarka Monument becomes a 4/4 red and green Dragon artifact creature with flying until end of turn." tribe="Artifact" watermark="Atarka">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394500" rarity="Uncommon" setCode="DTK" flavor="Atarka is worshipped and fed by her subjects at Ayagor, the Dragon's Bowl." artist="Daniel Ljunggren" />
+    </appearances>
+  </card>
+  <card name="Atarka Pummeler" cost="{4}{R}" text="Formidable — {3}{R}{R}: Each creature you control can't be blocked this turn except by two or more creatures. Activate this ability only if creatures you control have total power 8 or greater." tribe="Ogre Warrior" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394501" rarity="Uncommon" setCode="DTK" artist="Lucas Graciano" />
+    </appearances>
+  </card>
+  <card name="Atarka's Command" cost="{R}{G}" text="Choose two —\n• Your opponents can't gain life this turn.\n• Atarka's Command deals 3 damage to each opponent.\n• You may put a land card from your hand onto the battlefield.\n• Creatures you control get +1/+1 and gain reach until end of turn." tribe="Instant" watermark="Atarka">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394502" rarity="Rare" setCode="DTK" artist="Chris Rahn" />
+    </appearances>
+  </card>
+  <card name="Avatar of the Resolute" cost="{G}{G}" text="Reach, trample\nAvatar of the Resolute enters the battlefield with a +1/+1 counter on it for each other creature you control with a +1/+1 counter on it." tribe="Avatar" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394503" rarity="Rare" setCode="DTK" flavor="It exemplifies the ideals of the Dromoka: strength, unity, and honor." artist="Jeff Simpson" />
+    </appearances>
+  </card>
+  <card name="Aven Sunstriker" cost="{1}{W}{W}" text="Flying\nDouble strike (This creature deals both first-strike and regular combat damage.)\nMegamorph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Bird Warrior" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394504" rarity="Uncommon" setCode="DTK" artist="John Severin Brassell" />
+    </appearances>
+  </card>
+  <card name="Aven Tactician" cost="{4}{W}" text="Flying\nWhen Aven Tactician enters the battlefield, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)" tribe="Bird Soldier" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394505" rarity="Common" setCode="DTK" flavor="The aven are admired, for they are able to fly with the dragons." artist="Christopher Moeller" />
+    </appearances>
+  </card>
+  <card name="Battle Mastery" cost="{2}{W}" text="Enchant creature\nEnchanted creature has double strike. (It deals both first-strike and regular combat damage.)" tribe="Aura">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394506" rarity="Uncommon" setCode="DTK" flavor="&quot;There is elegance in all the Ojutai do—even their killing.&quot;\n—Kirada, Silumgar enforcer" artist="Viktor Titov" />
+    </appearances>
+  </card>
+  <card name="Belltoll Dragon" cost="{5}{U}" text="Flying, hexproof\nMegamorph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Belltoll Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control." tribe="Dragon" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394507" rarity="Uncommon" setCode="DTK" artist="Zack Stella" />
+    </appearances>
+  </card>
+  <card name="Berserkers' Onslaught" cost="{3}{R}{R}" text="Attacking creatures you control have double strike." tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394508" rarity="Rare" setCode="DTK" flavor="&quot;Atarka's people starve while she feasts upon the bounty of their hunts. They must conquer ever more lands just for the sake of their own subsistence.&quot;\n—Arel, Unseen Whisperer" artist="Zoltan Boros" />
+    </appearances>
+  </card>
+  <card name="Blessed Reincarnation" cost="{3}{U}" text="Exile target creature an opponent controls. That player reveals cards from the top of his or her library until a creature card is revealed. The player puts that card onto the battlefield, then shuffles the rest into his or her library.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)" tribe="Instant" watermark="Ojutai">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394509" rarity="Rare" setCode="DTK" artist="Kev Walker" />
+    </appearances>
+  </card>
+  <card name="Blood-Chin Fanatic" cost="{1}{B}{B}" text="{1}{B}, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power." tribe="Orc Warrior" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394510" rarity="Rare" setCode="DTK" flavor="&quot;We are as brutal as our dragonlord. We strike like wild lightning and feast on human flesh.&quot;" artist="David Palumbo" />
+    </appearances>
+  </card>
+  <card name="Blood-Chin Rager" cost="{1}{B}" text="Whenever Blood-Chin Rager attacks, each Warrior creature you control can't be blocked this turn except by two or more creatures." tribe="Human Warrior" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394511" rarity="Uncommon" setCode="DTK" flavor="Kolaghan blades rarely stay clean for long." artist="Karl Kopinski" />
+    </appearances>
+  </card>
+  <card name="Boltwing Marauder" cost="{3}{B}{R}" text="Flying\nWhenever another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn." tribe="Dragon" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394512" rarity="Rare" setCode="DTK" flavor="When battling the Kolaghan, consider yourself lucky if lightning strikes the same place only twice." artist="Raymond Swanland" />
+    </appearances>
+  </card>
+  <card name="Butcher's Glee" cost="{2}{B}" text="Target creature gets +3/+0 and gains lifelink until end of turn. Regenerate it. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)" tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394513" rarity="Common" setCode="DTK" flavor="The Crave made Kneecleaver think she was bigger than the dragon." artist="Jesper Ejsing" />
+    </appearances>
+  </card>
+  <card name="Center Soul" cost="{1}{W}" text="Target creature you control gains protection from the color of your choice until end of turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)" tribe="Instant" watermark="Ojutai">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394514" rarity="Common" setCode="DTK" artist="Igor Kieryluk" />
+    </appearances>
+  </card>
+  <card name="Champion of Arashin" cost="{3}{W}" text="Lifelink (Damage dealt by this creature also causes you to gain that much life.)" tribe="Hound Warrior" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394515" rarity="Common" setCode="DTK" flavor="&quot;The blood of Dromoka and the blood of my veins are the same.&quot;" artist="Joseph Meehan" />
+    </appearances>
+  </card>
+  <card name="Circle of Elders" cost="{2}{G}{G}" text="Vigilance\nFormidable — {T}: Add {3} to your mana pool. Activate this ability only if creatures you control have total power 8 or greater." tribe="Human Shaman" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394516" rarity="Uncommon" setCode="DTK" flavor="They whisper of an ancient hero who saved the dragons of their world." artist="Jakub Kasper" />
+    </appearances>
+  </card>
+  <card name="Clone Legion" cost="{7}{U}{U}" text="For each creature target player controls, put a token onto the battlefield that's a copy of that creature." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394517" rarity="MythicRare" setCode="DTK" flavor="Their lust for battle was so great that they didn't care their enemies wore their own faces." artist="Svetlin Velinov" />
+    </appearances>
+  </card>
+  <card name="Coat with Venom" cost="{B}" text="Target creature gets +1/+2 and gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)" tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394518" rarity="Common" setCode="DTK" flavor="&quot;Every Silumgar blade carries the blessing of our dragonlord.&quot;\n—Xathi the Infallible" artist="Johann Bodin" />
+    </appearances>
+  </card>
+  <card name="Collected Company" cost="{3}{G}" text="Look at the top six cards of your library. Put up to two creature cards with converted mana cost 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394519" rarity="Rare" setCode="DTK" flavor="Many can stand where one would fall." artist="Franz Vohwinkel" />
+    </appearances>
+  </card>
+  <card name="Colossodon Yearling" cost="{2}{G}" tribe="Beast">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394520" rarity="Common" setCode="DTK" flavor="The colossodon's hard outer shell stops many predators, but with a gentle flip from a dragon, it quickly becomes a meal in a bowl." artist="Yeong-Hao Han" />
+    </appearances>
+  </card>
+  <card name="Commune with Lava" cost="{X}{R}{R}" text="Exile the top X cards of your library. Until the end of your next turn, you may play those cards." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394521" rarity="Rare" setCode="DTK" flavor="Atarka conquered Qadat, the Fire Rim, long ago, winning over its efreet with a promise to spread the glory of fire to all the world." artist="Ryan Barger" />
+    </appearances>
+  </card>
+  <card name="Conifer Strider" cost="{3}{G}" text="Hexproof (This creature can't be the target of spells or abilities your opponents control.)" tribe="Elemental">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394522" rarity="Common" setCode="DTK" flavor="Atarka's presence thaws the glaciers of Qal Sisma, forcing its elementals to migrate or adapt." artist="YW Tang" />
+    </appearances>
+  </card>
+  <card name="Contradict" cost="{3}{U}{U}" text="Counter target spell.\nDraw a card." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394523" rarity="Common" setCode="DTK" flavor="Those who question Ojutai may not like the answers they receive." artist="Steve Prescott" />
+    </appearances>
+  </card>
+  <card name="Corpseweft" cost="{2}{B}" text="{1}{B}, Exile one or more creature cards from your graveyard: Put an X/X black Zombie Horror creature token onto the battlefield tapped, where X is twice the number of cards exiled this way." tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394524" rarity="Rare" setCode="DTK" flavor="Sidisi hated to limit her options." artist="Nils Hamm" />
+    </appearances>
+  </card>
+  <card name="Crater Elemental" cost="{2}{R}" text="{R}, {T}, Sacrifice Crater Elemental: Crater Elemental deals 4 damage to target creature.\nFormidable — {2}{R}: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater." tribe="Elemental" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394525" rarity="Rare" setCode="DTK" artist="Svetlin Velinov" />
+    </appearances>
+  </card>
+  <card name="Cunning Breezedancer" cost="{4}{W}{U}" text="Flying\nWhenever you cast a noncreature spell, Cunning Breezedancer gets +2/+2 until end of turn." tribe="Dragon" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394526" rarity="Uncommon" setCode="DTK" flavor="&quot;That which is beautiful in form can also be deadly.&quot;\n—Ishai, Ojutai dragonspeaker" artist="Todd Lockwood" />
+    </appearances>
+  </card>
+  <card name="Custodian of the Trove" cost="{3}" text="Defender\nCustodian of the Trove enters the battlefield tapped." tribe="Golem">
+    <types>
+      <type name="ARTIFACT" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394527" rarity="Common" setCode="DTK" flavor="Silumgar delights in repurposing the treasures of other clans to serve his own ravenous greed." artist="Raoul Vitale" />
+    </appearances>
+  </card>
+  <card name="Damnable Pact" cost="{X}{B}{B}" text="Target player draws X cards and loses X life." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394528" rarity="Rare" setCode="DTK" flavor="&quot;Silumgar's mind is a dark labyrinth, full of grim secrets and subtle traps.&quot;\n—Siara, the Dragon's Mouth" artist="Zack Stella" />
+    </appearances>
+  </card>
+  <card name="Dance of the Skywise" cost="{1}{U}" text="Until end of turn, target creature you control becomes a blue Dragon Illusion with base power and toughness 4/4, loses all abilities, and gains flying." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394529" rarity="Uncommon" setCode="DTK" flavor="The Ojutai believe in the Great Wheel: those who best serve the dragonlord are destined to be reborn as dragons." artist="Jack Wang" />
+    </appearances>
+  </card>
+  <card name="Deadly Wanderings" cost="{3}{B}{B}" text="As long as you control exactly one creature, that creature gets +2/+0 and has deathtouch and lifelink." tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394530" rarity="Uncommon" setCode="DTK" flavor="&quot;Seclusion is only an option for the strong.&quot;\n—Sorin Markov" artist="David Palumbo" />
+    </appearances>
+  </card>
+  <card name="Death Wind" cost="{X}{B}" text="Target creature gets -X/-X until end of turn." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394531" rarity="Uncommon" setCode="DTK" flavor="&quot;I am a dragonslayer for Lord Silumgar. There is no dragon save him whom I fear.&quot;\n—Xathi the Infallible" artist="Nils Hamm" />
+    </appearances>
+  </card>
+  <card name="Deathbringer Regent" cost="{5}{B}{B}" text="Flying\nWhen Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures." tribe="Dragon" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394532" rarity="Rare" setCode="DTK" artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Deathmist Raptor" cost="{1}{G}{G}" text="Deathtouch\nWhenever a permanent you control is turned face up, you may return Deathmist Raptor from your graveyard to the battlefield face up or face down.\nMegamorph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Lizard Beast">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394533" rarity="MythicRare" setCode="DTK" artist="Filip Burburan" />
+    </appearances>
+  </card>
+  <card name="Defeat" cost="{1}{B}" text="Destroy target creature with power 2 or less." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394534" rarity="Common" setCode="DTK" flavor="&quot;Wars are decided one life at a time.&quot;\n—Gvar Barzeel, Kolaghan warrior" artist="Dave Kendall" />
+    </appearances>
+  </card>
+  <card name="Den Protector" cost="{1}{G}" text="Creatures with power less than Den Protector's power can't block it.\nMegamorph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Den Protector is turned face up, return target card from your graveyard to your hand." tribe="Human Warrior" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394535" rarity="Rare" setCode="DTK" artist="Viktor Titov" />
+    </appearances>
+  </card>
+  <card name="Descent of the Dragons" cost="{4}{R}{R}" text="Destroy any number of target creatures. For each creature destroyed this way, its controller puts a 4/4 red Dragon creature token with flying onto the battlefield." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394536" rarity="MythicRare" setCode="DTK" flavor="Dragons emerge from tempests fully formed and terribly hungry." artist="Steve Prescott" />
+    </appearances>
+  </card>
+  <card name="Dirgur Nemesis" cost="{5}{U}" text="Defender\nMegamorph {6}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Serpent">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394537" rarity="Common" setCode="DTK" artist="Mathias Kollros" />
+    </appearances>
+  </card>
+  <card name="Display of Dominance" cost="{1}{G}" text="Choose one —\n• Destroy target blue or black noncreature permanent.\n• Permanents you control can't be the targets of blue or black spells your opponents control this turn." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394538" rarity="Uncommon" setCode="DTK" artist="Tomasz Jedruszek" />
+    </appearances>
+  </card>
+  <card name="Draconic Roar" cost="{1}{R}" text="As an additional cost to cast Draconic Roar, you may reveal a Dragon card from your hand.\nDraconic Roar deals 3 damage to target creature. If you revealed a Dragon card or controlled a Dragon as you cast Draconic Roar, Draconic Roar deals 3 damage to that creature's controller." tribe="Instant" watermark="Atarka">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394539" rarity="Uncommon" setCode="DTK" artist="Kev Walker" />
+    </appearances>
+  </card>
+  <card name="Dragon Fodder" cost="{1}{R}" text="Put two 1/1 red Goblin creature tokens onto the battlefield." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394540" rarity="Common" setCode="DTK" flavor="Atarka goblins meet their demise as readily as their Temur counterparts did, but usually under big, winged shadows." artist="Volkan Baga" />
+    </appearances>
+  </card>
+  <card name="Dragon Hunter" cost="{W}" text="Protection from Dragons\nDragon Hunter can block Dragons as though it had reach." tribe="Human Warrior" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394541" rarity="Uncommon" setCode="DTK" flavor="&quot;Dromoka has taught me the secrets of her kind, that I might use them in her service.&quot;" artist="Johannes Voss" />
+    </appearances>
+  </card>
+  <card name="Dragon Tempest" cost="{1}{R}" text="Whenever a creature with flying enters the battlefield under your control, it gains haste until end of turn.\nWhenever a Dragon enters the battlefield under your control, it deals X damage to target creature or player, where X is the number of Dragons you control." tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394542" rarity="Rare" setCode="DTK" artist="Willian Murai" />
+    </appearances>
+  </card>
+  <card name="Dragon Whisperer" cost="{R}{R}" text="{R}: Dragon Whisperer gains flying until end of turn.\n{1}{R}: Dragon Whisperer gets +1/+0 until end of turn.\nFormidable — {4}{R}{R}: Put a 4/4 red Dragon creature token with flying onto the battlefield. Activate this ability only if creatures you control have total power 8 or greater." tribe="Human Shaman" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394543" rarity="MythicRare" setCode="DTK" artist="Chris Rallis" />
+    </appearances>
+  </card>
+  <card name="Dragonloft Idol" cost="{4}" text="As long as you control a Dragon, Dragonloft Idol gets +1/+1 and has flying and trample." tribe="Gargoyle">
+    <types>
+      <type name="ARTIFACT" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394545" rarity="Uncommon" setCode="DTK" flavor="The idols were forged during the time of the Khanfall, when the dragons came to rule Tarkir and its people aligned themselves with the five dragonlords." artist="Jung Park" />
+    </appearances>
+  </card>
+  <card name="Dragonlord Atarka" cost="{5}{R}{G}" text="Flying, trample\nWhen Dragonlord Atarka enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control." tribe="Elder Dragon" watermark="Atarka">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394546" rarity="MythicRare" setCode="DTK" artist="Karl Kopinski" />
+    </appearances>
+  </card>
+  <card name="Dragonlord Dromoka" cost="{4}{G}{W}" text="Dragonlord Dromoka can't be countered.\nFlying, lifelink\nYour opponents can't cast spells during your turn." tribe="Elder Dragon" watermark="Dromoka">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394547" rarity="MythicRare" setCode="DTK" flavor="Dromoka's followers forsake blood ties so that they may join a greater family." artist="Eric Deschamps" />
+    </appearances>
+  </card>
+  <card name="Dragonlord Kolaghan" cost="{4}{B}{R}" text="Flying, haste\nOther creatures you control have haste.\nWhenever an opponent casts a creature or planeswalker spell with the same name as a card in his or her graveyard, that player loses 10 life." tribe="Elder Dragon" watermark="Kolaghan">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394548" rarity="MythicRare" setCode="DTK" artist="Jaime Jones" />
+    </appearances>
+  </card>
+  <card name="Dragonlord Ojutai" cost="{3}{W}{U}" text="Flying\nDragonlord Ojutai has hexproof as long as it's untapped.\nWhenever Dragonlord Ojutai deals combat damage to a player, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order." tribe="Elder Dragon" watermark="Ojutai">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394549" rarity="MythicRare" setCode="DTK" artist="Chase Stone" />
+    </appearances>
+  </card>
+  <card name="Dragonlord Silumgar" cost="{4}{U}{B}" text="Flying, deathtouch\nWhen Dragonlord Silumgar enters the battlefield, gain control of target creature or planeswalker for as long as you control Dragonlord Silumgar." tribe="Elder Dragon" watermark="Silumgar">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394550" rarity="MythicRare" setCode="DTK" flavor="Silumgar never passes up an opportunity to add to his opulence." artist="Steven Belledin" />
+    </appearances>
+  </card>
+  <card name="Dragonlord's Prerogative" cost="{4}{U}{U}" text="As an additional cost to cast Dragonlord's Prerogative, you may reveal a Dragon card from your hand.\nIf you revealed a Dragon card or controlled a Dragon as you cast Dragonlord's Prerogative, Dragonlord's Prerogative can't be countered.\nDraw four cards." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394551" rarity="Rare" setCode="DTK" artist="Seb McKinnon" />
+    </appearances>
+  </card>
+  <card name="Dragonlord's Servant" cost="{1}{R}" text="Dragon spells you cast cost {1} less to cast." tribe="Goblin Shaman" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394552" rarity="Uncommon" setCode="DTK" flavor="Atarka serving-goblins coat themselves with grease imbued with noxious herbs, hoping to discourage their ravenous masters from adding them to the meal." artist="Steve Prescott" />
+    </appearances>
+  </card>
+  <card name="Dragon's Eye Sentry" cost="{W}" text="Defender, first strike" tribe="Human Monk" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394544" rarity="Common" setCode="DTK" flavor="Even the humblest guard of Ojutai's strongholds ponders the puzzles of the Great Teacher's lessons." artist="Anastasia Ovchinnikova" />
+    </appearances>
+  </card>
+  <card name="Dragon-Scarred Bear" cost="{2}{G}" text="Formidable — {1}{G}: Regenerate Dragon-Scarred Bear. Activate this ability only if creatures you control have total power 8 or greater." tribe="Bear" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394553" rarity="Common" setCode="DTK" flavor="Bears are a delicacy for the Atarka. The few that remain are the toughest of their species." artist="Lars Grant-West" />
+    </appearances>
+  </card>
+  <card name="Dromoka Captain" cost="{2}{W}" text="First strike\nWhenever Dromoka Captain attacks, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)" tribe="Human Soldier" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394554" rarity="Uncommon" setCode="DTK" flavor="&quot;We fight not out of fear, but for honor.&quot;" artist="Matt Stewart" />
+    </appearances>
+  </card>
+  <card name="Dromoka Dunecaster" cost="{W}" text="{1}{W}, {T}: Tap target creature without flying." tribe="Human Wizard" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394555" rarity="Common" setCode="DTK" flavor="&quot;The dragonlords rule the tempests of the skies. Here in the wastes, the storms are mine to command.&quot;" artist="Mark Winters" />
+    </appearances>
+  </card>
+  <card name="Dromoka Monument" cost="{3}" text="{T}: Add {G} or {W} to your mana pool.\n{4}{G}{W}: Dromoka Monument becomes a 4/4 green and white Dragon artifact creature with flying until end of turn." tribe="Artifact" watermark="Dromoka">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394556" rarity="Uncommon" setCode="DTK" flavor="Dromoka rules her clan from the Great Aerie atop Arashin, the central city of the Shifting Wastes." artist="Daniel Ljunggren" />
+    </appearances>
+  </card>
+  <card name="Dromoka Warrior" cost="{1}{W}" tribe="Human Warrior" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394557" rarity="Common" setCode="DTK" flavor="Dromoka has regard for the humans who serve under her. In return for her protection, they obey with steadfast loyalty, acting as weapons for her and her scalelords against the other clans." artist="Zack Stella" />
+    </appearances>
+  </card>
+  <card name="Dromoka's Command" cost="{G}{W}" text="Choose two —\n• Prevent all damage target instant or sorcery spell would deal this turn.\n• Target player sacrifices an enchantment.\n• Put a +1/+1 counter on target creature.\n• Target creature you control fights target creature you don't control." tribe="Instant" watermark="Dromoka">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394558" rarity="Rare" setCode="DTK" artist="James Ryman" />
+    </appearances>
+  </card>
+  <card name="Dromoka's Gift" cost="{4}{G}" text="Bolster 4. (Choose a creature with the least toughness among creatures you control and put four +1/+1 counters on it.)" tribe="Instant" watermark="Dromoka">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394559" rarity="Uncommon" setCode="DTK" flavor="The simplest gift from a dragon can be a revered accolade for a human warrior." artist="Winona Nelson" />
+    </appearances>
+  </card>
+  <card name="Duress" cost="{B}" text="Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394560" rarity="Common" setCode="DTK" flavor="Sarkhan was eager to take vengeance on Zurgo until he saw how lowly his old foe had become." artist="Jason Rainville" />
+    </appearances>
+  </card>
+  <card name="Dutiful Attendant" cost="{2}{B}" text="When Dutiful Attendant dies, return another target creature card from your graveyard to your hand." tribe="Human Warrior" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394561" rarity="Common" setCode="DTK" flavor="The dragon who eats the last head in the basket is entitled to the servant's." artist="Aaron Miller" />
+    </appearances>
+  </card>
+  <card name="Echoes of the Kin Tree" cost="{1}{W}" text="{2}{W}: Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)" tribe="Enchantment" watermark="Dromoka">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394562" rarity="Uncommon" setCode="DTK" flavor="Even after Anafenza was executed, many secretly maintained their beliefs in the old ways." artist="Ryan Alexander Lee" />
+    </appearances>
+  </card>
+  <card name="Elusive Spellfist" cost="{1}{U}" text="Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until end of turn and can't be blocked this turn." tribe="Human Monk" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394563" rarity="Common" setCode="DTK" flavor="&quot;Learn to see an obstacle from a new perspective. Underneath, for example.&quot;\n—Chanyi, Ojutai monk" artist="Viktor Titov" />
+    </appearances>
+  </card>
+  <card name="Encase in Ice" cost="{1}{U}" text="Flash (You may cast this spell any time you could cast an instant.)\nEnchant red or green creature\nWhen Encase in Ice enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step." tribe="Aura">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394564" rarity="Uncommon" setCode="DTK" artist="Mathias Kollros" />
+    </appearances>
+  </card>
+  <card name="Enduring Scalelord" cost="{4}{G}{W}" text="Flying\nWhenever one or more +1/+1 counters are placed on another creature you control, you may put a +1/+1 counter on Enduring Scalelord." tribe="Dragon" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394565" rarity="Uncommon" setCode="DTK" flavor="Only the sun that beats down upon Arashin's walls could shine more brightly." artist="Clint Cearley" />
+    </appearances>
+  </card>
+  <card name="Enduring Victory" cost="{4}{W}" text="Destroy target attacking or blocking creature. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)" tribe="Instant" watermark="Dromoka">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394566" rarity="Common" setCode="DTK" flavor="&quot;My dragonlord is immortal. Most dragons are not.&quot;\n—Kadri, Dromoka warrior" artist="Mike Sass" />
+    </appearances>
+  </card>
+  <card name="Epic Confrontation" cost="{1}{G}" text="Target creature you control gets +1/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)" tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394567" rarity="Common" setCode="DTK" flavor="No matter the timeline, some legends will endure." artist="Wayne Reynolds" />
+    </appearances>
+  </card>
+  <card name="Evolving Wilds" text="{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library." tribe="Land">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394568" rarity="Common" setCode="DTK" flavor="The land is ever resilient. Should it die, it will be reborn." artist="Andreas Rocha" />
+    </appearances>
+  </card>
+  <card name="Explosive Vegetation" cost="{3}{G}" text="Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394569" rarity="Uncommon" setCode="DTK" flavor="Despite the flames and devastation of the dragons, Tarkir continued to thrive." artist="Florian de Gesincourt" />
+    </appearances>
+  </card>
+  <card name="Fate Forgotten" cost="{2}{W}" text="Exile target artifact or enchantment." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394570" rarity="Common" setCode="DTK" flavor="When Sarkhan saved Ugin in Tarkir's past, it changed Tarkir's future. The Sultai no longer exist, having been supplanted by the dragonlord Silumgar and his clan." artist="Cliff Childs" />
+    </appearances>
+  </card>
+  <card name="Flatten" cost="{3}{B}" text="Target creature gets -4/-4 until end of turn." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394571" rarity="Common" setCode="DTK" flavor="Like their dragonlord, the Kolaghan take no trophies. They find true fulfillment only in the battle itself, in clash of steel and thunder of hooves." artist="Raoul Vitale" />
+    </appearances>
+  </card>
+  <card name="Foe-Razer Regent" cost="{5}{G}{G}" text="Flying\nWhen Foe-Razer Regent enters the battlefield, you may have it fight target creature you don't control.\nWhenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step." tribe="Dragon" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394572" rarity="Rare" setCode="DTK" artist="Lucas Graciano" />
+    </appearances>
+  </card>
+  <card name="Forest" text="{G}" tribe="Forest">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394575" rarity="Common" setCode="DTK" artist="Sam Burley" />
+      <appearance multiverseID="394573" rarity="Common" setCode="DTK" artist="Titus Lunter" />
+      <appearance multiverseID="394574" rarity="Common" setCode="DTK" artist="Titus Lunter" />
+    </appearances>
+  </card>
+  <card name="Foul Renewal" cost="{3}{B}" text="Return target creature card from your graveyard to your hand. Target creature gets -X/-X until end of turn, where X is the toughness of the card returned this way." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394576" rarity="Rare" setCode="DTK" flavor="The cycle of life and death is rarely pretty." artist="Filip Burburan" />
+    </appearances>
+  </card>
+  <card name="Foul-Tongue Invocation" cost="{2}{B}" text="As an additional cost to cast Foul-Tongue Invocation, you may reveal a Dragon card from your hand.\nTarget player sacrifices a creature. If you revealed a Dragon card or controlled a Dragon as you cast Foul-Tongue Invocation, you gain 4 life." tribe="Instant" watermark="Kolaghan">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394577" rarity="Uncommon" setCode="DTK" artist="Daarken" />
+    </appearances>
+  </card>
+  <card name="Foul-Tongue Shriek" cost="{B}" text="Target opponent loses 1 life for each attacking creature you control. You gain that much life." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394578" rarity="Common" setCode="DTK" flavor="Foul-Tongue shamans draw their powers from a dark twisting of the Draconic language." artist="Dave Kendall" />
+    </appearances>
+  </card>
+  <card name="Gate Smasher" cost="{3}" text="Gate Smasher can be attached only to a creature with toughness 4 or greater.\nEquipped creature gets +3/+0 and has trample.\nEquip {3}" tribe="Equipment">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394579" rarity="Uncommon" setCode="DTK" artist="Filip Burburan" />
+    </appearances>
+  </card>
+  <card name="Glade Watcher" cost="{1}{G}" text="Defender\nFormidable — {G}: Glade Watcher can attack this turn as though it didn't have defender. Activate this ability only if creatures you control have total power 8 or greater." tribe="Elemental" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394580" rarity="Common" setCode="DTK" artist="Jesper Ejsing" />
+    </appearances>
+  </card>
+  <card name="Glaring Aegis" cost="{W}" text="Enchant creature\nWhen Glaring Aegis enters the battlefield, tap target creature an opponent controls.\nEnchanted creature gets +1/+3." tribe="Aura">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394581" rarity="Common" setCode="DTK" artist="Anthony Palumbo" />
+    </appearances>
+  </card>
+  <card name="Gleam of Authority" cost="{1}{W}" text="Enchant creature\nEnchanted creature gets +1/+1 for each +1/+1 counter on other creatures you control.\nEnchanted creature has vigilance and &quot;{W}, {T}: Bolster 1.&quot; (To bolster 1, choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)" tribe="Aura" watermark="Dromoka">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394582" rarity="Rare" setCode="DTK" artist="Jakub Kasper" />
+    </appearances>
+  </card>
+  <card name="Glint" cost="{1}{U}" text="Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)" tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394583" rarity="Common" setCode="DTK" flavor="Rakshasa waste no opportunity to display their wealth and power, even in the midst of a sorcerous duel." artist="Igor Kieryluk" />
+    </appearances>
+  </card>
+  <card name="Graceblade Artisan" cost="{2}{W}" text="Graceblade Artisan gets +2/+2 for each Aura attached to it." tribe="Human Monk" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394584" rarity="Uncommon" setCode="DTK" flavor="&quot;Can you catch a snowflake on the edge of your blade? Her sword has snagged an entire blizzard.&quot;\n—Zogye, Ojutai mystic" artist="Magali Villeneuve" />
+    </appearances>
+  </card>
+  <card name="Gravepurge" cost="{2}{B}" text="Put any number of target creature cards from your graveyard on top of your library.\nDraw a card." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394585" rarity="Common" setCode="DTK" flavor="&quot;Lord Silumgar has given you a second chance to please him.&quot;\n—Siara, the Dragon's Mouth" artist="Nils Hamm" />
+    </appearances>
+  </card>
+  <card name="Great Teacher's Decree" cost="{3}{W}" text="Creatures you control get +2/+1 until end of turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)" tribe="Sorcery" watermark="Ojutai">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394586" rarity="Uncommon" setCode="DTK" artist="Zoltan Boros" />
+    </appearances>
+  </card>
+  <card name="Guardian Shield-Bearer" cost="{1}{G}" text="Megamorph {3}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Guardian Shield-Bearer is turned face up, put a +1/+1 counter on another target creature you control." tribe="Human Soldier" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394587" rarity="Common" setCode="DTK" artist="Lindsey Look" />
+    </appearances>
+  </card>
+  <card name="Gudul Lurker" cost="{U}" text="Gudul Lurker can't be blocked.\nMegamorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Salamander">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394588" rarity="Uncommon" setCode="DTK" flavor="The small are mostly ignored by dragons." artist="Christopher Burdett" />
+    </appearances>
+  </card>
+  <card name="Gurmag Drowner" cost="{3}{U}" text="Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Gurmag Drowner exploits a creature, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard." tribe="Naga Wizard" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394589" rarity="Common" setCode="DTK" artist="Lake Hurwitz" />
+    </appearances>
+  </card>
+  <card name="Hand of Silumgar" cost="{1}{B}" text="Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)" tribe="Human Warrior" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394590" rarity="Common" setCode="DTK" flavor="Silumgar trains those whom he favors in his magic, granting them the ability to spread his disdain across the land." artist="Lius Lasahido" />
+    </appearances>
+  </card>
+  <card name="Harbinger of the Hunt" cost="{3}{R}{G}" text="Flying\n{2}{R}: Harbinger of the Hunt deals 1 damage to each creature without flying.\n{2}{G}: Harbinger of the Hunt deals 1 damage to each other creature with flying." tribe="Dragon" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394591" rarity="Rare" setCode="DTK" flavor="An Atarka dragon's exhale cooks what its inhale consumes." artist="Aaron Miller" />
+    </appearances>
+  </card>
+  <card name="Hardened Berserker" cost="{2}{R}" text="Whenever Hardened Berserker attacks, the next spell you cast this turn costs {1} less to cast." tribe="Human Berserker" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394592" rarity="Common" setCode="DTK" flavor="&quot;Just let him loose and follow the charge.&quot;\n—Yikaro, Atarka warrior" artist="Viktor Titov" />
+    </appearances>
+  </card>
+  <card name="Haven of the Spirit Dragon" text="{T}: Add {1} to your mana pool.\n{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a Dragon creature spell.\n{2}, {T}, Sacrifice Haven of the Spirit Dragon: Return target Dragon creature card or Ugin planeswalker card from your graveyard to your hand." tribe="Land">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394593" rarity="Rare" setCode="DTK" artist="Raymond Swanland" />
+    </appearances>
+  </card>
+  <card name="Hedonist's Trove" cost="{5}{B}{B}" text="When Hedonist's Trove enters the battlefield, exile all cards from target opponent's graveyard.\nYou may play land cards exiled with Hedonist's Trove.\nYou may cast nonland cards exiled with Hedonist's Trove. You can't cast more than one spell this way each turn." tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394594" rarity="Rare" setCode="DTK" artist="Peter Mohrbacher" />
+    </appearances>
+  </card>
+  <card name="Herald of Dromoka" cost="{1}{W}" text="Vigilance\nOther Warrior creatures you control have vigilance." tribe="Human Warrior" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394595" rarity="Common" setCode="DTK" flavor="The trumpeters of Arashin are ever alert in their watch over the Great Aerie." artist="Zack Stella" />
+    </appearances>
+  </card>
+  <card name="Herdchaser Dragon" cost="{5}{G}" text="Flying, trample\nMegamorph {5}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Herdchaser Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control." tribe="Dragon" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394596" rarity="Uncommon" setCode="DTK" artist="Seb McKinnon" />
+    </appearances>
+  </card>
+  <card name="Hidden Dragonslayer" cost="{1}{W}" text="Lifelink\nMegamorph {2}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Hidden Dragonslayer is turned face up, destroy target creature with power 4 or greater an opponent controls." tribe="Human Warrior" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394597" rarity="Rare" setCode="DTK" artist="Anastasia Ovchinnikova" />
+    </appearances>
+  </card>
+  <card name="Icefall Regent" cost="{3}{U}{U}" text="Flying\nWhen Icefall Regent enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Icefall Regent. \nSpells your opponents cast that target Icefall Regent cost {2} more to cast." tribe="Dragon" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394598" rarity="Rare" setCode="DTK" artist="David Gaillet" />
+    </appearances>
+  </card>
+  <card name="Illusory Gains" cost="{3}{U}{U}" text="Enchant creature\nYou control enchanted creature.\nWhenever a creature enters the battlefield under an opponent's control, attach Illusory Gains to that creature." tribe="Aura">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394599" rarity="Rare" setCode="DTK" artist="Kev Walker" />
+    </appearances>
+  </card>
+  <card name="Impact Tremors" cost="{1}{R}" text="Whenever a creature enters the battlefield under your control, Impact Tremors deals 1 damage to each opponent." tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394600" rarity="Common" setCode="DTK" flavor="&quot;If their ears are to the ground, we will make them bleed!&quot;\n—Taklai, Kolaghan warrior" artist="Lake Hurwitz" />
+    </appearances>
+  </card>
+  <card name="Inspiring Call" cost="{2}{G}" text="Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say &quot;destroy&quot; don't destroy them.)" tribe="Instant" watermark="Dromoka">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394601" rarity="Uncommon" setCode="DTK" artist="Dan Scott" />
+    </appearances>
+  </card>
+  <card name="Ire Shaman" cost="{1}{R}" text="Ire Shaman can't be blocked except by two or more creatures.\nMegamorph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Ire Shaman is turned face up, exile the top card of your library. Until end of turn, you may play that card." tribe="Orc Shaman" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394602" rarity="Rare" setCode="DTK" artist="Jack Wang" />
+    </appearances>
+  </card>
+  <card name="Island" text="{U}" tribe="Island">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394605" rarity="Common" setCode="DTK" artist="Florian de Gesincourt" />
+      <appearance multiverseID="394603" rarity="Common" setCode="DTK" artist="Florian de Gesincourt" />
+      <appearance multiverseID="394604" rarity="Common" setCode="DTK" artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Keeper of the Lens" cost="{1}" text="You may look at face-down creatures you don't control. (You may do this at any time.)" tribe="Golem">
+    <types>
+      <type name="ARTIFACT" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394606" rarity="Common" setCode="DTK" flavor="&quot;It sees all, but it reveals what it sees only to a chosen few.&quot;\n—Taigam, Ojutai master" artist="Ryan Barger" />
+    </appearances>
+  </card>
+  <card name="Kindled Fury" cost="{R}" text="Target creature gets +1/+0 and gains first strike until end of turn." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394607" rarity="Common" setCode="DTK" flavor="&quot;It is most honorable to use every part of the animals we kill . . . especially if we use them to annihilate our enemies.&quot;\n—Surrak, the Hunt Caller" artist="Dan Scott" />
+    </appearances>
+  </card>
+  <card name="Kolaghan Aspirant" cost="{1}{R}" text="Whenever Kolaghan Aspirant becomes blocked by a creature, Kolaghan Aspirant deals 1 damage to that creature." tribe="Human Warrior" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394608" rarity="Common" setCode="DTK" flavor="She answers the call of the Crave, the desire for battle sated only by bloodshed." artist="Aaron Miller" />
+    </appearances>
+  </card>
+  <card name="Kolaghan Forerunners" cost="{2}{R}" text="Trample\nKolaghan Forerunners's power is equal to the number of creatures you control.\nDash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Human Berserker" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394609" rarity="Uncommon" setCode="DTK" artist="Jason A. Engle" />
+    </appearances>
+  </card>
+  <card name="Kolaghan Monument" cost="{3}" text="{T}: Add {B} or {R} to your mana pool.\n{4}{B}{R}: Kolaghan Monument becomes a 4/4 black and red Dragon artifact creature with flying until end of turn." tribe="Artifact" watermark="Kolaghan">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394610" rarity="Uncommon" setCode="DTK" flavor="Kolaghan has no lasting home, but her disciples leave relics to mark her conquests." artist="Daniel Ljunggren" />
+    </appearances>
+  </card>
+  <card name="Kolaghan Skirmisher" cost="{1}{B}" text="Dash {2}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Human Warrior" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394611" rarity="Common" setCode="DTK" flavor="Kolaghan's army rushes from kill to kill, desperate to avoid the dragon's wrath." artist="Anthony Palumbo" />
+    </appearances>
+  </card>
+  <card name="Kolaghan Stormsinger" cost="{R}" text="Haste\nMegamorph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Kolaghan Stormsinger is turned face up, target creature gains haste until end of turn." tribe="Human Shaman" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394612" rarity="Common" setCode="DTK" artist="Scott Murphy" />
+    </appearances>
+  </card>
+  <card name="Kolaghan's Command" cost="{1}{B}{R}" text="Choose two —\n• Return target creature card from your graveyard to your hand.\n• Target player discards a card.\n• Destroy target artifact.\n• Kolaghan's Command deals 2 damage to target creature or player." tribe="Instant" watermark="Kolaghan">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394613" rarity="Rare" setCode="DTK" artist="Daarken" />
+    </appearances>
+  </card>
+  <card name="Learn from the Past" cost="{3}{U}" text="Target player shuffles his or her graveyard into his or her library.\nDraw a card." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394614" rarity="Uncommon" setCode="DTK" flavor="&quot;I've been told my whole life that the great Ojutai holds all knowledge, but I wonder what our forebears knew.&quot;\n—Narset" artist="Chase Stone" />
+    </appearances>
+  </card>
+  <card name="Lightning Berserker" cost="{R}" text="{R}: Lightning Berserker gets +1/+0 until end of turn.\nDash {R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Human Berserker" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394615" rarity="Uncommon" setCode="DTK" artist="Joseph Meehan" />
+    </appearances>
+  </card>
+  <card name="Lightwalker" cost="{1}{W}" text="Lightwalker has flying as long as it has a +1/+1 counter on it." tribe="Human Warrior" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394616" rarity="Common" setCode="DTK" flavor="&quot;The greatest gift Dromoka gives is the ability to fly without wings.&quot;\n—Urdnan, Dromoka warrior" artist="Winona Nelson" />
+    </appearances>
+  </card>
+  <card name="Living Lore" cost="{3}{U}" text="As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard.\nLiving Lore's power and toughness are each equal to the exiled card's converted mana cost.\nWhenever Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost." tribe="Avatar" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394617" rarity="Rare" setCode="DTK" artist="Jason Felix" />
+    </appearances>
+  </card>
+  <card name="Lose Calm" cost="{3}{R}" text="Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn and can't be blocked this turn except by two or more creatures." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394618" rarity="Common" setCode="DTK" flavor="A lifetime of discipline forsaken in a moment of rage." artist="Jason A. Engle" />
+    </appearances>
+  </card>
+  <card name="Lurking Arynx" cost="{4}{G}" text="Formidable — {2}{G}: Target creature blocks Lurking Arynx this turn if able. Activate this ability only if creatures you control have total power 8 or greater." tribe="Cat Beast" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394619" rarity="Uncommon" setCode="DTK" flavor="Once it has your scent, it will hunt you from the Gurmag Swamp to Ayagor." artist="Carl Frank" />
+    </appearances>
+  </card>
+  <card name="Magmatic Chasm" cost="{1}{R}" text="Creatures without flying can't block this turn." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394620" rarity="Common" setCode="DTK" flavor="&quot;Our shamans assert their mastery over the land, thwarting the lesser clans' attempts to stand in the way of our dragonlord.&quot;\n—Allek, Atarka hunter" artist="Volkan Baga" />
+    </appearances>
+  </card>
+  <card name="Marang River Skeleton" cost="{1}{B}" text="{B}: Regenerate Marang River Skeleton.\nMegamorph {3}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Skeleton" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394621" rarity="Uncommon" setCode="DTK" flavor="The gurgling of the Marang conceals both footsteps and screams." artist="Jack Wang" />
+    </appearances>
+  </card>
+  <card name="Marsh Hulk" cost="{4}{B}{B}" text="Megamorph {6}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Zombie Ogre">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394622" rarity="Common" setCode="DTK" flavor="Now vengeance is his sole purpose." artist="Raf Sarmento" />
+    </appearances>
+  </card>
+  <card name="Mind Rot" cost="{2}{B}" text="Target player discards two cards." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394623" rarity="Common" setCode="DTK" flavor="&quot;The Ojutai are my favorite victims. They have so much knowledge to lose.&quot;\n—Asmala, Silumgar sorcerer" artist="Clint Cearley" />
+    </appearances>
+  </card>
+  <card name="Minister of Pain" cost="{2}{B}" text="Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Minister of Pain exploits a creature, creatures your opponents control get -1/-1 until end of turn." tribe="Human Shaman" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394624" rarity="Uncommon" setCode="DTK" flavor="Draconic words need not be shouted. A whisper will suffice." artist="Izzy" />
+    </appearances>
+  </card>
+  <card name="Mirror Mockery" cost="{1}{U}" text="Enchant creature\nWhenever enchanted creature attacks, you may put a token onto the battlefield that's a copy of that creature. Exile that token at end of combat." tribe="Aura">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394625" rarity="Rare" setCode="DTK" flavor="Who you are constantly runs toward who you will be." artist="Ryan Alexander Lee" />
+    </appearances>
+  </card>
+  <card name="Misthoof Kirin" cost="{2}{W}" text="Flying, vigilance\nMegamorph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Kirin">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394626" rarity="Common" setCode="DTK" flavor="It heralded Sarkhan's return to Tarkir's present." artist="Ryan Barger" />
+    </appearances>
+  </card>
+  <card name="Monastery Loremaster" cost="{3}{U}" text="Megamorph {5}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Monastery Loremaster is turned face up, return target noncreature, nonland card from your graveyard to your hand." tribe="Djinn Wizard" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394627" rarity="Common" setCode="DTK" artist="Ryan Alexander Lee" />
+    </appearances>
+  </card>
+  <card name="Mountain" text="{R}" tribe="Mountain">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394628" rarity="Common" setCode="DTK" artist="Noah Bradley" />
+      <appearance multiverseID="394629" rarity="Common" setCode="DTK" artist="Titus Lunter" />
+      <appearance multiverseID="394630" rarity="Common" setCode="DTK" artist="Noah Bradley" />
+    </appearances>
+  </card>
+  <card name="Mystic Meditation" cost="{3}{U}" text="Draw three cards. Then discard two cards unless you discard a creature card." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394631" rarity="Common" setCode="DTK" flavor="&quot;Still the mind and quiet the heart. Only then will you hear the Multiverse's great truths.&quot;\n—Narset" artist="Howard Lyon" />
+    </appearances>
+  </card>
+  <card name="Myth Realized" cost="{W}" text="Whenever you cast a noncreature spell, put a lore counter on Myth Realized.\n{2}{W}: Put a lore counter on Myth Realized.\n{W}: Until end of turn, Myth Realized becomes a Monk Avatar creature in addition to its other types and gains &quot;This creature's power and toughness are each equal to the number of lore counters on it.&quot;" tribe="Enchantment" watermark="Ojutai">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394632" rarity="Rare" setCode="DTK" artist="Jason Rainville" />
+    </appearances>
+  </card>
+  <card name="Narset Transcendent" cost="{2}{W}{U}" text="+1: Look at the top card of your library. If it's a noncreature, nonland card, you may reveal it and put it into your hand.\n-2: When you cast your next instant or sorcery spell from your hand this turn, it gains rebound.\n-9: You get an emblem with &quot;Your opponents can't cast noncreature spells.&quot;" tribe="Narset">
+    <types>
+      <type name="PLANESWALKER" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394633" rarity="MythicRare" setCode="DTK" artist="Magali Villeneuve" />
+    </appearances>
+  </card>
+  <card name="Naturalize" cost="{1}{G}" text="Destroy target artifact or enchantment." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394634" rarity="Common" setCode="DTK" flavor="The remains of ancient civilizations litter the run-down land." artist="James Paick" />
+    </appearances>
+  </card>
+  <card name="Necromaster Dragon" cost="{3}{U}{B}" text="Flying\nWhenever Necromaster Dragon deals combat damage to a player, you may pay {2}. If you do, put a 2/2 black Zombie creature token onto the battlefield and each opponent puts the top two cards of his or her library into his or her graveyard." tribe="Dragon" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394635" rarity="Rare" setCode="DTK" artist="Mark Zug" />
+    </appearances>
+  </card>
+  <card name="Negate" cost="{1}{U}" text="Counter target noncreature spell." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394636" rarity="Common" setCode="DTK" flavor="&quot;You cannot be an Ojutai monk. They prize wisdom and skill, and you have neither.&quot;\n—Siara, the Dragon's Mouth" artist="Willian Murai" />
+    </appearances>
+  </card>
+  <card name="Obscuring Æther" cost="{G}" text="Face-down creature spells you cast cost {1} less to cast.\n{1}{G}: Turn Obscuring Æther face down. (It becomes a 2/2 creature.)" tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394637" rarity="Rare" setCode="DTK" artist="Min Yum" />
+    </appearances>
+  </card>
+  <card name="Ojutai Exemplars" cost="{2}{W}{W}" text="Whenever you cast a noncreature spell, choose one —\n• Tap target creature.\n• Ojutai Exemplars gains first strike and lifelink until end of turn.\n• Exile Ojutai Exemplars, then return it to the battlefield tapped under its owner's control." tribe="Human Monk" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394638" rarity="MythicRare" setCode="DTK" artist="Willian Murai" />
+    </appearances>
+  </card>
+  <card name="Ojutai Interceptor" cost="{3}{U}" text="Flying\nMegamorph {3}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Bird Soldier" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394639" rarity="Common" setCode="DTK" flavor="&quot;Though I may soar, I could never fly as high as the dragons.&quot;" artist="Johann Bodin" />
+    </appearances>
+  </card>
+  <card name="Ojutai Monument" cost="{3}" text="{T}: Add {W} or {U} to your mana pool.\n{4}{W}{U}: Ojutai Monument becomes a 4/4 white and blue Dragon artifact creature with flying until end of turn." tribe="Artifact" watermark="Ojutai">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394640" rarity="Uncommon" setCode="DTK" flavor="Ojutai spends time at all his strongholds, but he most favors Cori Stronghold for his meditation." artist="Daniel Ljunggren" />
+    </appearances>
+  </card>
+  <card name="Ojutai's Breath" cost="{2}{U}" text="Tap target creature. It doesn't untap during its controller's next untap step.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)" tribe="Instant" watermark="Ojutai">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394641" rarity="Common" setCode="DTK" artist="Kev Walker" />
+    </appearances>
+  </card>
+  <card name="Ojutai's Command" cost="{2}{W}{U}" text="Choose two —\n• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.\n• You gain 4 life.\n• Counter target creature spell.\n• Draw a card." tribe="Instant" watermark="Ojutai">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394642" rarity="Rare" setCode="DTK" artist="Willian Murai" />
+    </appearances>
+  </card>
+  <card name="Ojutai's Summons" cost="{3}{U}{U}" text="Put a 2/2 blue Djinn Monk creature token with flying onto the battlefield.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)" tribe="Sorcery" watermark="Ojutai">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394643" rarity="Common" setCode="DTK" artist="Jakub Kasper" />
+    </appearances>
+  </card>
+  <card name="Orator of Ojutai" cost="{1}{W}" text="As an additional cost to cast Orator of Ojutai, you may reveal a Dragon card from your hand.\nDefender, flying\nWhen Orator of Ojutai enters the battlefield, if you revealed a Dragon card or controlled a Dragon as you cast Orator of Ojutai, draw a card." tribe="Bird Monk" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394644" rarity="Uncommon" setCode="DTK" artist="Zack Stella" />
+    </appearances>
+  </card>
+  <card name="Pacifism" cost="{1}{W}" text="Enchant creature\nEnchanted creature can't attack or block." tribe="Aura">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394645" rarity="Common" setCode="DTK" flavor="&quot;If I fight, I might step on a butterfly. That would be sad.&quot;\n—Krowg of Qal Sisma" artist="Mark Zug" />
+    </appearances>
+  </card>
+  <card name="Palace Familiar" cost="{1}{U}" text="Flying\nWhen Palace Familiar dies, draw a card." tribe="Bird" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394646" rarity="Common" setCode="DTK" flavor="&quot;The most profound secrets lie in the darkest places of the world. It can be prudent to make use of another set of eyes.&quot;\n—Sidisi, Silumgar vizier" artist="Kev Walker" />
+    </appearances>
+  </card>
+  <card name="Pinion Feast" cost="{4}{G}" text="Destroy target creature with flying. Bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)" tribe="Instant" watermark="Dromoka">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394647" rarity="Common" setCode="DTK" flavor="&quot;Even paradise is not without tragedies.&quot;\n—Sarkhan Vol" artist="Ryan Barger" />
+    </appearances>
+  </card>
+  <card name="Pitiless Horde" cost="{2}{B}" text="At the beginning of your upkeep, you lose 2 life.\nDash {2}{B}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Orc Berserker" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394648" rarity="Rare" setCode="DTK" artist="Viktor Titov" />
+    </appearances>
+  </card>
+  <card name="Plains" text="{W}" tribe="Plains">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394649" rarity="Common" setCode="DTK" artist="Sam Burley" />
+      <appearance multiverseID="394650" rarity="Common" setCode="DTK" artist="Sam Burley" />
+      <appearance multiverseID="394651" rarity="Common" setCode="DTK" artist="Florian de Gesincourt" />
+    </appearances>
+  </card>
+  <card name="Press the Advantage" cost="{2}{G}{G}" text="Up to two target creatures each get +2/+2 and gain trample until end of turn." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394652" rarity="Uncommon" setCode="DTK" flavor="&quot;Show your enemies as much mercy as they would show you.&quot;\n—Surrak, the Hunt Caller" artist="Marco Nelor" />
+    </appearances>
+  </card>
+  <card name="Pristine Skywise" cost="{4}{W}{U}" text="Flying\nWhenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn." tribe="Dragon" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394653" rarity="Rare" setCode="DTK" flavor="The elite of Ojutai's brood, the skywise see their enemies as puzzles to be solved." artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Profaner of the Dead" cost="{3}{U}" text="Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Profaner of the Dead exploits a creature, return to their owners' hands all creatures your opponents control with toughness less than the exploited creature's toughness." tribe="Naga Wizard" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394654" rarity="Rare" setCode="DTK" artist="Vincent Proce" />
+    </appearances>
+  </card>
+  <card name="Profound Journey" cost="{5}{W}{W}" text="Return target permanent card from your graveyard to the battlefield.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)" tribe="Sorcery" watermark="Ojutai">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394655" rarity="Rare" setCode="DTK" artist="Tomasz Jedruszek" />
+    </appearances>
+  </card>
+  <card name="Qal Sisma Behemoth" cost="{2}{R}" text="Qal Sisma Behemoth can't attack or block unless you pay {2}." tribe="Ogre Warrior" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394656" rarity="Uncommon" setCode="DTK" flavor="&quot;It hunts grand game for Atarka, and when the time comes, it will become a mighty feast.&quot;\n—Surrak, the Hunt Caller" artist="Evan Shipard" />
+    </appearances>
+  </card>
+  <card name="Qarsi Deceiver" cost="{1}{U}" text="{T}: Add {1} to your mana pool. Spend this mana only to cast a face-down creature spell, pay a mana cost to turn a manifested creature face up, or pay a morph cost. (A megamorph cost is a morph cost.)" tribe="Naga Wizard" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394657" rarity="Uncommon" setCode="DTK" artist="Raymond Swanland" />
+    </appearances>
+  </card>
+  <card name="Qarsi Sadist" cost="{1}{B}" text="Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Qarsi Sadist exploits a creature, target opponent loses 2 life and you gain 2 life." tribe="Human Cleric" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394658" rarity="Common" setCode="DTK" flavor="Dying for the greater good still hurts." artist="Volkan Baga" />
+    </appearances>
+  </card>
+  <card name="Radiant Purge" cost="{1}{W}" text="Exile target multicolored creature or multicolored enchantment." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394659" rarity="Rare" setCode="DTK" flavor="The Shifting Wastes are Dromoka's domain. She will not tolerate intruders." artist="Igor Kieryluk" />
+    </appearances>
+  </card>
+  <card name="Rakshasa Gravecaller" cost="{4}{B}" text="Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Rakshasa Gravecaller exploits a creature, put two 2/2 black Zombie creature tokens onto the battlefield." tribe="Cat Demon" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394660" rarity="Uncommon" setCode="DTK" flavor="Debts to rakshasa linger beyond death." artist="Jakub Kasper" />
+    </appearances>
+  </card>
+  <card name="Reckless Imp" cost="{2}{B}" text="Flying\nReckless Imp can't block.\nDash {1}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Imp" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394661" rarity="Common" setCode="DTK" artist="Torstein Nordstrand" />
+    </appearances>
+  </card>
+  <card name="Reduce in Stature" cost="{2}{U}" text="Enchant creature\nEnchanted creature has base power and toughness 0/2." tribe="Aura">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394662" rarity="Common" setCode="DTK" flavor="A dragon learns humility only in the moments before its death." artist="Dan Scott" />
+    </appearances>
+  </card>
+  <card name="Rending Volley" cost="{R}" text="Rending Volley can't be countered by spells or abilities.\nRending Volley deals 4 damage to target white or blue creature." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394663" rarity="Uncommon" setCode="DTK" flavor="The sky offers few hiding places." artist="Lucas Graciano" />
+    </appearances>
+  </card>
+  <card name="Resupply" cost="{5}{W}" text="You gain 6 life.\nDraw a card." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394664" rarity="Common" setCode="DTK" flavor="&quot;If the scalelords are the brains of Dromoka's army, the supply caravans are its beating heart.&quot;\n—Baihir, Dromoka mage" artist="Filip Burburan" />
+    </appearances>
+  </card>
+  <card name="Revealing Wind" cost="{2}{G}" text="Prevent all combat damage that would be dealt this turn. You may look at each face-down creature that's attacking or blocking." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394665" rarity="Common" setCode="DTK" flavor="&quot;The sands obscure the vision of others, but clarify ours.&quot;\n—Faiso, Dromoka commander" artist="Phill Simmer" />
+    </appearances>
+  </card>
+  <card name="Risen Executioner" cost="{2}{B}{B}" text="Risen Executioner can't block.\nOther Zombie creatures you control get +1/+1.\nYou may cast Risen Executioner from your graveyard if you pay {1} more to cast it for each other creature card in your graveyard." tribe="Zombie Warrior" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394666" rarity="MythicRare" setCode="DTK" artist="Craig J Spearing" />
+    </appearances>
+  </card>
+  <card name="Roast" cost="{1}{R}" text="Roast deals 5 damage to target creature without flying." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394667" rarity="Uncommon" setCode="DTK" flavor="&quot;Intruders in the lands of Atarka have but two choices: be consumed by fire, or be consumed by maw.&quot;\n—Ulnok, Atarka shaman" artist="Zoltan Boros" />
+    </appearances>
+  </card>
+  <card name="Ruthless Deathfang" cost="{4}{U}{B}" text="Flying\nWhenever you sacrifice a creature, target opponent sacrifices a creature." tribe="Dragon" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394668" rarity="Uncommon" setCode="DTK" flavor="&quot;Bring forth the dead, their skull-grins and rattle-bones. We will feast upon their wailing ghosts.&quot;\n—Silumgar, translated from Draconic" artist="Filip Burburan" />
+    </appearances>
+  </card>
+  <card name="Sabertooth Outrider" cost="{3}{R}" text="Trample\nFormidable — Whenever Sabertooth Outrider attacks, if creatures you control have total power 8 or greater, Sabertooth Outrider gains first strike until end of turn." tribe="Human Warrior" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394669" rarity="Common" setCode="DTK" artist="Winona Nelson" />
+    </appearances>
+  </card>
+  <card name="Salt Road Ambushers" cost="{3}{G}" text="Whenever another permanent you control is turned face up, if it's a creature, put two +1/+1 counters on it.\nMegamorph {3}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Hound Warrior" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394670" rarity="Uncommon" setCode="DTK" artist="Joseph Meehan" />
+    </appearances>
+  </card>
+  <card name="Salt Road Quartermasters" cost="{2}{G}" text="Salt Road Quartermasters enters the battlefield with two +1/+1 counters on it.\n{2}{G}, Remove a +1/+1 counter from Salt Road Quartermasters: Put a +1/+1 counter on target creature." tribe="Human Soldier" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394671" rarity="Uncommon" setCode="DTK" artist="Anthony Palumbo" />
+    </appearances>
+  </card>
+  <card name="Sandcrafter Mage" cost="{2}{W}" text="When Sandcrafter Mage enters the battlefield, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)" tribe="Human Wizard" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394672" rarity="Common" setCode="DTK" flavor="With heat, sand can form a delicate work of art; with pressure, an impenetrable bulwark." artist="Willian Murai" />
+    </appearances>
+  </card>
+  <card name="Sandsteppe Scavenger" cost="{4}{G}" text="When Sandsteppe Scavenger enters the battlefield, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)" tribe="Hound Scout" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394673" rarity="Common" setCode="DTK" flavor="&quot;Sad what passes for a dragon among the Silumgar.&quot;" artist="Kieran Yanner" />
+    </appearances>
+  </card>
+  <card name="Sandstorm Charger" cost="{4}{W}" text="Megamorph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Beast" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394674" rarity="Common" setCode="DTK" flavor="&quot;May our foes choke upon its horns!&quot;\n—Urdnan, Dromoka warrior" artist="Dave Kendall" />
+    </appearances>
+  </card>
+  <card name="Sarkhan Unbroken" cost="{2}{G}{U}{R}" text="+1: Draw a card, then add one mana of any color to your mana pool.\n-2: Put a 4/4 red Dragon creature token with flying onto the battlefield.\n-8: Search your library for any number of Dragon creature cards and put them onto the battlefield. Then shuffle your library." tribe="Sarkhan">
+    <types>
+      <type name="PLANESWALKER" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394675" rarity="MythicRare" setCode="DTK" artist="Aleksi Briclot" />
+    </appearances>
+  </card>
+  <card name="Sarkhan's Rage" cost="{4}{R}" text="Sarkhan's Rage deals 5 damage to target creature or player. If you control no Dragons, Sarkhan's Rage deals 2 damage to you." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394676" rarity="Common" setCode="DTK" flavor="The people of Tarkir speak of an ancient legend, of the dragon-man called Sarkhan who was greatest of all khans." artist="Chris Rahn" />
+    </appearances>
+  </card>
+  <card name="Sarkhan's Triumph" cost="{2}{R}" text="Search your library for a Dragon creature card, reveal it, put it into your hand, then shuffle your library." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394677" rarity="Uncommon" setCode="DTK" flavor="Sarkhan gazed on the world around him, the dragons sweeping through its skies, and joy kindled like a fire in his soul." artist="Chris Rahn" />
+    </appearances>
+  </card>
+  <card name="Savage Ventmaw" cost="{4}{R}{G}" text="Flying\nWhenever Savage Ventmaw attacks, add {R}{R}{R}{G}{G}{G} to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end." tribe="Dragon" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394678" rarity="Uncommon" setCode="DTK" artist="Slawomir Maniak" />
+    </appearances>
+  </card>
+  <card name="Scale Blessing" cost="{3}{W}" text="Bolster 1, then put a +1/+1 counter on each creature you control with a +1/+1 counter on it. (To bolster 1, choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)" tribe="Instant" watermark="Dromoka">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394679" rarity="Uncommon" setCode="DTK" flavor="&quot;Your bravery honors us all.&quot;\n—Dromoka, translated from Draconic" artist="Matt Stewart" />
+    </appearances>
+  </card>
+  <card name="Scaleguard Sentinels" cost="{G}{G}" text="As an additional cost to cast Scaleguard Sentinels, you may reveal a Dragon card from your hand.\nScaleguard Sentinels enters the battlefield with a +1/+1 counter on it if you revealed a Dragon card or controlled a Dragon as you cast Scaleguard Sentinels." tribe="Human Soldier" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394680" rarity="Uncommon" setCode="DTK" artist="Matt Stewart" />
+    </appearances>
+  </card>
+  <card name="Scion of Ugin" cost="{6}" text="Flying" tribe="Dragon Spirit">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394681" rarity="Uncommon" setCode="DTK" flavor="For hundreds of years Ugin slept, encased in the cocoon of stone and magic Sarkhan had created using a shard of a Zendikari hedron. As Ugin lay dormant, his spectral guardians kept vigil." artist="Cliff Childs" />
+    </appearances>
+  </card>
+  <card name="Screamreach Brawler" cost="{2}{R}" text="Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Orc Berserker" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394682" rarity="Common" setCode="DTK" flavor="&quot;My dragonlord's lightning will dance upon your bones!&quot;" artist="Slawomir Maniak" />
+    </appearances>
+  </card>
+  <card name="Secure the Wastes" cost="{X}{W}" text="Put X 1/1 white Warrior creature tokens onto the battlefield." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394683" rarity="Rare" setCode="DTK" flavor="&quot;The Shifting Wastes provide our clan eternal protection. It is our duty to return the favor.&quot;\n—Kadri, Dromoka warrior" artist="Scott Murphy" />
+    </appearances>
+  </card>
+  <card name="Segmented Krotiq" cost="{5}{G}" text="Megamorph {6}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Insect">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394684" rarity="Common" setCode="DTK" flavor="The list of things a krotiq eats is as long as the krotiq itself." artist="Christopher Moeller" />
+    </appearances>
+  </card>
+  <card name="Seismic Rupture" cost="{2}{R}" text="Seismic Rupture deals 2 damage to each creature without flying." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394685" rarity="Uncommon" setCode="DTK" flavor="The shaman opened the earth beneath their feet, trapping the survivors within the crevices of Ayagor for Atarka to devour at her leisure." artist="Jason A. Engle" />
+    </appearances>
+  </card>
+  <card name="Self-Inflicted Wound" cost="{1}{B}" text="Target opponent sacrifices a green or white creature. If that player does, he or she loses 2 life." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394686" rarity="Uncommon" setCode="DTK" flavor="&quot;Worse than watching the cruelest deed is watching it done by your own hand.&quot;\n—Baihir, Dromoka mage" artist="Mathias Kollros" />
+    </appearances>
+  </card>
+  <card name="Servant of the Scale" cost="{G}" text="Servant of the Scale enters the battlefield with a +1/+1 counter on it.\nWhen Servant of the Scale dies, put X +1/+1 counters on target creature you control, where X is the number of +1/+1 counters on Servant of the Scale." tribe="Human Soldier" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394687" rarity="Common" setCode="DTK" artist="Winona Nelson" />
+    </appearances>
+  </card>
+  <card name="Shaman of Forgotten Ways" cost="{2}{G}" text="{T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast creature spells.\nFormidable — {9}{G}{G}, {T}: Each player's life total becomes the number of creatures he or she controls. Activate this ability only if creatures you control have total power 8 or greater." tribe="Human Shaman" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394688" rarity="MythicRare" setCode="DTK" artist="Tyler Jacobson" />
+    </appearances>
+  </card>
+  <card name="Shambling Goblin" cost="{B}" text="When Shambling Goblin dies, target creature an opponent controls gets -1/-1 until end of turn." tribe="Zombie Goblin" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394689" rarity="Common" setCode="DTK" flavor="&quot;The Kolaghan send them at us. We kill and raise them. They fight the next wave the Kolaghan send. It's a neat little cycle.&quot;\n—Asmala, Silumgar sorcerer" artist="Yeong-Hao Han" />
+    </appearances>
+  </card>
+  <card name="Shape the Sands" cost="{G}" text="Target creature gets +0/+5 and gains reach until end of turn. (It can block creatures with flying.)" tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394690" rarity="Common" setCode="DTK" flavor="&quot;Dragons in flight seldom expect company.&quot;\n—Kadri, Dromoka warrior" artist="Ryan Yee" />
+    </appearances>
+  </card>
+  <card name="Sheltered Aerie" cost="{2}{G}" text="Enchant land\nEnchanted land has &quot;{T}: Add two mana of any one color to your mana pool.&quot;" tribe="Aura">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394691" rarity="Common" setCode="DTK" flavor="Dromoka's scalelords patrol the skies over Arashin, offering her people safety from the harsh world." artist="Raoul Vitale" />
+    </appearances>
+  </card>
+  <card name="Shieldhide Dragon" cost="{5}{W}" text="Flying, lifelink\nMegamorph {5}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Shieldhide Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control." tribe="Dragon" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394692" rarity="Uncommon" setCode="DTK" artist="Chris Rallis" />
+    </appearances>
+  </card>
+  <card name="Shorecrasher Elemental" cost="{U}{U}{U}" text="{U}: Exile Shorecrasher Elemental, then return it to the battlefield face down under its owner's control.\n{1}: Shorecrasher Elemental gets +1/-1 or -1/+1 until end of turn. \nMegamorph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Elemental">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394693" rarity="MythicRare" setCode="DTK" artist="Igor Kieryluk" />
+    </appearances>
+  </card>
+  <card name="Sibsig Icebreakers" cost="{2}{B}" text="When Sibsig Icebreakers enters the battlefield, each player discards a card." tribe="Zombie" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394694" rarity="Common" setCode="DTK" flavor="&quot;I almost envy them. They can't get frostbite.&quot;\n—Kirada, Silumgar enforcer" artist="Zoltan Boros" />
+    </appearances>
+  </card>
+  <card name="Sidisi, Undead Vizier" cost="{3}{B}{B}" text="Deathtouch\nExploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library." tribe="Zombie Naga" watermark="Silumgar">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394695" rarity="Rare" setCode="DTK" artist="Min Yum" />
+    </appearances>
+  </card>
+  <card name="Sidisi's Faithful" cost="{U}" text="Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Sidisi's Faithful exploits a creature, return target creature to its owner's hand." tribe="Naga Wizard" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394696" rarity="Common" setCode="DTK" flavor="&quot;I tire of your prattle, and your face.&quot;" artist="Lius Lasahido" />
+    </appearances>
+  </card>
+  <card name="Sight Beyond Sight" cost="{3}{U}" text="Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)" tribe="Sorcery" watermark="Ojutai">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394697" rarity="Uncommon" setCode="DTK" artist="Anastasia Ovchinnikova" />
+    </appearances>
+  </card>
+  <card name="Sight of the Scalelords" cost="{4}{G}" text="At the beginning of combat on your turn, creatures you control with toughness 4 or greater get +2/+2 and gain vigilance until end of turn." tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394698" rarity="Uncommon" setCode="DTK" flavor="&quot;The Silumgar creep around our borders and infiltrate our aeries. We must remain ever watchful.&quot;\n—Golran, Dromoka captain" artist="Marc Simonetti" />
+    </appearances>
+  </card>
+  <card name="Silkwrap" cost="{1}{W}" text="When Silkwrap enters the battlefield, exile target creature with converted mana cost 3 or less an opponent controls until Silkwrap leaves the battlefield. (That creature returns under its owner's control.)" tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394699" rarity="Uncommon" setCode="DTK" flavor="Better scarves than scars." artist="David Gaillet" />
+    </appearances>
+  </card>
+  <card name="Silumgar Assassin" cost="{1}{B}" text="Creatures with power greater than Silumgar Assassin's power can't block it.\nMegamorph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Silumgar Assassin is turned face up, destroy target creature with power 3 or less an opponent controls." tribe="Human Assassin" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394700" rarity="Rare" setCode="DTK" artist="Yohann Schepacz" />
+    </appearances>
+  </card>
+  <card name="Silumgar Butcher" cost="{4}{B}" text="Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Silumgar Butcher exploits a creature, target creature gets -3/-3 until end of turn." tribe="Zombie Djinn" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394701" rarity="Common" setCode="DTK" flavor="Silumgar takes pride in the diversity of his sibsig." artist="Dave Kendall" />
+    </appearances>
+  </card>
+  <card name="Silumgar Monument" cost="{3}" text="{T}: Add {U} or {B} to your mana pool.\n{4}{U}{B}: Silumgar Monument becomes a 4/4 blue and black Dragon artifact creature with flying until end of turn." tribe="Artifact" watermark="Silumgar">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394702" rarity="Uncommon" setCode="DTK" flavor="Silumgar dominates his clan from a fortress on the Marang River, where he rests upon piles of treasure." artist="Daniel Ljunggren" />
+    </appearances>
+  </card>
+  <card name="Silumgar Sorcerer" cost="{1}{U}{U}" text="Flash (You may cast this spell any time you could cast an instant.)\nFlying\nExploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Silumgar Sorcerer exploits a creature, counter target creature spell." tribe="Human Wizard" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394703" rarity="Uncommon" setCode="DTK" artist="Jeff Simpson" />
+    </appearances>
+  </card>
+  <card name="Silumgar Spell-Eater" cost="{2}{U}" text="Megamorph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Silumgar Spell-Eater is turned face up, counter target spell unless its controller pays {3}." tribe="Naga Wizard" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394704" rarity="Uncommon" setCode="DTK" artist="Dave Kendall" />
+    </appearances>
+  </card>
+  <card name="Silumgar's Command" cost="{3}{U}{B}" text="Choose two —\n• Counter target noncreature spell.\n• Return target permanent to its owner's hand.\n• Target creature gets -3/-3 until end of turn.\n• Destroy target planeswalker." tribe="Instant" watermark="Silumgar">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394705" rarity="Rare" setCode="DTK" artist="Nils Hamm" />
+    </appearances>
+  </card>
+  <card name="Silumgar's Scorn" cost="{U}{U}" text="As an additional cost to cast Silumgar's Scorn, you may reveal a Dragon card from your hand.\nCounter target spell unless its controller pays {1}. If you revealed a Dragon card or controlled a Dragon as you cast Silumgar's Scorn, counter that spell instead." tribe="Instant" watermark="Silumgar">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394706" rarity="Uncommon" setCode="DTK" artist="Ryan Yee" />
+    </appearances>
+  </card>
+  <card name="Skywise Teachings" cost="{3}{U}" text="Whenever you cast a noncreature spell, you may pay {1}{U}. If you do, put a 2/2 blue Djinn Monk creature token with flying onto the battlefield." tribe="Enchantment" watermark="Ojutai">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394707" rarity="Uncommon" setCode="DTK" flavor="Ojutai's words must be translated from Draconic before his students can benefit from their wisdom." artist="Filip Burburan" />
+    </appearances>
+  </card>
+  <card name="Spidersilk Net" cost="{0}" text="Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)" tribe="Equipment">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394708" rarity="Common" setCode="DTK" flavor="&quot;Dragons are our betters, but we will fight them if our dragonlord orders it.&quot;" artist="Steve Argyle" />
+    </appearances>
+  </card>
+  <card name="Sprinting Warbrute" cost="{4}{R}" text="Sprinting Warbrute attacks each turn if able.\nDash {3}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Ogre Berserker" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394709" rarity="Common" setCode="DTK" artist="Lake Hurwitz" />
+    </appearances>
+  </card>
+  <card name="Stampeding Elk Herd" cost="{3}{G}{G}" text="Formidable — Whenever Stampeding Elk Herd attacks, if creatures you control have total power 8 or greater, creatures you control gain trample until end of turn." tribe="Elk" watermark="Atarka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394710" rarity="Common" setCode="DTK" flavor="The Atarka use them not just for food, but also to clear away snow, trees, and enemy forces." artist="Carl Frank" />
+    </appearances>
+  </card>
+  <card name="Stormcrag Elemental" cost="{5}{R}" text="Trample\nMegamorph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)" tribe="Elemental">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394711" rarity="Uncommon" setCode="DTK" flavor="The storms of Tarkir awaken more than dragons." artist="Ralph Horsley" />
+    </appearances>
+  </card>
+  <card name="Stormrider Rig" cost="{2}" text="Equipped creature gets +1/+1.\nWhenever a creature enters the battlefield under your control, you may attach Stormrider Rig to it.\nEquip {2}" tribe="Equipment">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394712" rarity="Uncommon" setCode="DTK" artist="Min Yum" />
+    </appearances>
+  </card>
+  <card name="Stormwing Dragon" cost="{5}{R}" text="Flying, first strike\nMegamorph {5}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Stormwing Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control." tribe="Dragon" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394713" rarity="Uncommon" setCode="DTK" artist="Svetlin Velinov" />
+    </appearances>
+  </card>
+  <card name="Stratus Dancer" cost="{1}{U}" text="Flying\nMegamorph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Stratus Dancer is turned face up, counter target instant or sorcery spell." tribe="Djinn Monk" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394714" rarity="Rare" setCode="DTK" artist="Anastasia Ovchinnikova" />
+    </appearances>
+  </card>
+  <card name="Strongarm Monk" cost="{4}{W}" text="Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn." tribe="Human Monk" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394715" rarity="Uncommon" setCode="DTK" flavor="&quot;His companions are wise to follow him, for his foes dare not stand in his way.&quot;\n—Zhiada, Dirgur protector" artist="Viktor Titov" />
+    </appearances>
+  </card>
+  <card name="Student of Ojutai" cost="{3}{W}" text="Whenever you cast a noncreature spell, you gain 2 life." tribe="Human Monk" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394716" rarity="Common" setCode="DTK" flavor="&quot;Human enlightenment is a firefly that sparks in the night. Dragon enlightenment is a beacon that disperses all darkness.&quot;" artist="Jason A. Engle" />
+    </appearances>
+  </card>
+  <card name="Summit Prowler" cost="{2}{R}{R}" tribe="Yeti">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394717" rarity="Common" setCode="DTK" flavor="&quot;Do you not hunt the yetis of the high peaks, stripling? Their meat is as tender as a bear's and their blood as warming as fire. They are prey that will please Atarka.&quot;\n—Surrak, the Hunt Caller" artist="Filip Burburan" />
+    </appearances>
+  </card>
+  <card name="Sunbringer's Touch" cost="{2}{G}{G}" text="Bolster X, where X is the number of cards in your hand. Each creature you control with a +1/+1 counter on it gains trample until end of turn. (To bolster X, choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)" tribe="Sorcery" watermark="Dromoka">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394718" rarity="Rare" setCode="DTK" artist="Lucas Graciano" />
+    </appearances>
+  </card>
+  <card name="Sunscorch Regent" cost="{3}{W}{W}" text="Flying\nWhenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent and you gain 1 life." tribe="Dragon" watermark="Dromoka">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394719" rarity="Rare" setCode="DTK" flavor="&quot;We trust in the scalelords, bringers of justice that none can escape.&quot;\n—Urdnan, Dromoka warrior" artist="Matt Stewart" />
+    </appearances>
+  </card>
+  <card name="Surge of Righteousness" cost="{1}{W}" text="Destroy target black or red creature that's attacking or blocking. You gain 2 life." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394720" rarity="Uncommon" setCode="DTK" flavor="Though she stood alone, she struck with the force of an army." artist="Marco Nelor" />
+    </appearances>
+  </card>
+  <card name="Surrak, the Hunt Caller" cost="{2}{G}{G}" text="Formidable — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, target creature you control gains haste until end of turn." tribe="Human Warrior" watermark="Atarka">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394721" rarity="Rare" setCode="DTK" flavor="&quot;The greatest honor is to feed Atarka.&quot;" artist="Wesley Burt" />
+    </appearances>
+  </card>
+  <card name="Swamp" text="{B}" tribe="Swamp">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394722" rarity="Common" setCode="DTK" artist="Noah Bradley" />
+      <appearance multiverseID="394723" rarity="Common" setCode="DTK" artist="Adam Paquette" />
+      <appearance multiverseID="394724" rarity="Common" setCode="DTK" artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Swift Warkite" cost="{4}{B}{R}" text="Flying\nWhen Swift Warkite enters the battlefield, you may put a creature card with converted mana cost 3 or less from your hand or graveyard onto the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step." tribe="Dragon" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394725" rarity="Uncommon" setCode="DTK" artist="Izzy" />
+    </appearances>
+  </card>
+  <card name="Taigam's Strike" cost="{3}{U}" text="Target creature gets +2/+0 until end of turn and can't be blocked this turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)" tribe="Sorcery" watermark="Ojutai">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394726" rarity="Common" setCode="DTK" artist="David Gaillet" />
+    </appearances>
+  </card>
+  <card name="Tail Slash" cost="{2}{R}" text="Target creature you control deals damage equal to its power to target creature you don't control." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394727" rarity="Common" setCode="DTK" flavor="&quot;Kneel before a dragon and you will be spared when it turns to leave.&quot;\n—Yikaro, Atarka warrior" artist="Efrem Palacios" />
+    </appearances>
+  </card>
+  <card name="Tapestry of the Ages" cost="{4}" text="{2}, {T}: Draw a card. Activate this ability only if you've cast a noncreature spell this turn." tribe="Artifact">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394728" rarity="Uncommon" setCode="DTK" flavor="&quot;Abzan, Jeskai, Sultai, Mardu, Temur—names lost to history, yet worthy of further study.&quot;\n—Narset" artist="Yeong-Hao Han" />
+    </appearances>
+  </card>
+  <card name="Territorial Roc" cost="{1}{W}" text="Flying" tribe="Bird">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394729" rarity="Common" setCode="DTK" flavor="&quot;Such lesser creatures must be purged from the sky. What use do they have but to help channel the lightning of our mighty dragonlord?&quot;\n—Gvar Barzeel, Kolaghan warrior" artist="YW Tang" />
+    </appearances>
+  </card>
+  <card name="Thunderbreak Regent" cost="{2}{R}{R}" text="Flying\nWhenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player." tribe="Dragon" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394730" rarity="Rare" setCode="DTK" flavor="Attracting a dragon's attention may be the last mistake you make." artist="Ryan Pancoast" />
+    </appearances>
+  </card>
+  <card name="Tormenting Voice" cost="{1}{R}" text="As an additional cost to cast Tormenting Voice, discard a card.\nDraw two cards." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394731" rarity="Common" setCode="DTK" flavor="A mocking laughter echoed in Ugin's mind. How many centuries had he slumbered, stricken, while Nicol Bolas moved unchallenged among the planes?" artist="Volkan Baga" />
+    </appearances>
+  </card>
+  <card name="Tread Upon" cost="{1}{G}" text="Target creature gets +2/+2 and gains trample until end of turn." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394732" rarity="Common" setCode="DTK" flavor="&quot;Boasting impenetrable defenses only draws the most tenacious of attackers.&quot;\n—Yikaro, Atarka warrior" artist="Efrem Palacios" />
+    </appearances>
+  </card>
+  <card name="Twin Bolt" cost="{1}{R}" text="Twin Bolt deals 2 damage divided as you choose among one or two target creatures and/or players." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394733" rarity="Common" setCode="DTK" flavor="Kolaghan archers are trained in Dakla, the way of the bow. They utilize their dragonlord's lightning to strike their target, no matter how small, how fast, or how far away." artist="Svetlin Velinov" />
+    </appearances>
+  </card>
+  <card name="Ukud Cobra" cost="{3}{B}" text="Deathtouch" tribe="Snake">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394734" rarity="Uncommon" setCode="DTK" flavor="&quot;The Silumgar hide behind the deadly wildlife of their swamps. They'd rather scheme in their jungle palaces than face us.&quot;\n—Khibat, Kolaghan warrior" artist="Johann Bodin" />
+    </appearances>
+  </card>
+  <card name="Ultimate Price" cost="{1}{B}" text="Destroy target monocolored creature." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394735" rarity="Uncommon" setCode="DTK" flavor="&quot;The realization that one is dying is far more terrifying than death itself.&quot;\n—Sidisi, Silumgar vizier" artist="Jack Wang" />
+    </appearances>
+  </card>
+  <card name="Updraft Elemental" cost="{2}{U}" text="Flying" tribe="Elemental" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394736" rarity="Common" setCode="DTK" flavor="&quot;It slips through the smallest cracks in the mountain, emerging whole and unfettered. There is nowhere it cannot go, for what can hold back the air itself?&quot;\n—Chanyi, Ojutai monk" artist="Raf Sarmento" />
+    </appearances>
+  </card>
+  <card name="Vandalize" cost="{4}{R}" text="Choose one or both —\n• Destroy target artifact.\n• Destroy target land." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394737" rarity="Common" setCode="DTK" flavor="&quot;As we have learned from Kolaghan, to ruin is to rule.&quot;\n—Shensu, Kolaghan rider" artist="Ryan Barger" />
+    </appearances>
+  </card>
+  <card name="Vial of Dragonfire" cost="{2}" text="{2}, {T}, Sacrifice Vial of Dragonfire: Vial of Dragonfire deals 2 damage to target creature." tribe="Artifact">
+    <types>
+      <type name="ARTIFACT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394738" rarity="Common" setCode="DTK" flavor="Designed by an ancient artificer, the vials are strong enough to hold the very breath of a dragon—until it's needed." artist="Franz Vohwinkel" />
+    </appearances>
+  </card>
+  <card name="Virulent Plague" cost="{2}{B}" text="Creature tokens get -2/-2." tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394739" rarity="Uncommon" setCode="DTK" flavor="&quot;This pestilence robs us of glorious death in battle. We starve to death with full bellies and drown trying to slake our unnatural thirst.&quot;\n—Kerai Hatesinger, Kolaghan warrior" artist="Johann Bodin" />
+    </appearances>
+  </card>
+  <card name="Void Squall" cost="{4}{U}" text="Return target nonland permanent to its owner's hand.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)" tribe="Sorcery" watermark="Ojutai">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394740" rarity="Uncommon" setCode="DTK" artist="James Paick" />
+    </appearances>
+  </card>
+  <card name="Volcanic Rush" cost="{4}{R}" text="Attacking creatures get +2/+0 and gain trample until end of turn." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394741" rarity="Common" setCode="DTK" flavor="&quot;The bravest warriors take the shortest path to victory, whatever that path may be.&quot;\n—Sakta, Atarka hunter" artist="Ryan Barger" />
+    </appearances>
+  </card>
+  <card name="Volcanic Vision" cost="{5}{R}{R}" text="Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's converted mana cost to each creature your opponents control. Exile Volcanic Vision." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394742" rarity="Rare" setCode="DTK" artist="Noah Bradley" />
+    </appearances>
+  </card>
+  <card name="Vulturous Aven" cost="{3}{B}" text="Flying\nExploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Vulturous Aven exploits a creature, you draw two cards and you lose 2 life." tribe="Bird Shaman" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394743" rarity="Common" setCode="DTK" artist="Kev Walker" />
+    </appearances>
+  </card>
+  <card name="Wandering Tombshell" cost="{3}{B}" tribe="Zombie Turtle" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394744" rarity="Common" setCode="DTK" flavor="The crumbling temples on the tortoise's back are monuments to the decadence of the ancient Sultai. Though it harkens back to the era of the khans, Silumgar allows it to walk his territory as a warning to those who would oppose him." artist="Yeong-Hao Han" />
+    </appearances>
+  </card>
+  <card name="Warbringer" cost="{3}{R}" text="Dash costs you pay cost {2} less (as long as this creature is on the battlefield).\nDash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Orc Berserker" watermark="Kolaghan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394745" rarity="Uncommon" setCode="DTK" artist="Raymond Swanland" />
+    </appearances>
+  </card>
+  <card name="Youthful Scholar" cost="{3}{U}" text="When Youthful Scholar dies, draw two cards." tribe="Human Wizard" watermark="Silumgar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394746" rarity="Uncommon" setCode="DTK" flavor="&quot;Too dumb, and you end up a sibsig. Too smart, and you end up a meal. Mediocrity is the key to a long life.&quot;\n—Mogai, Silumgar noble" artist="Cynthia Sheppard" />
+    </appearances>
+  </card>
+  <card name="Zephyr Scribe" cost="{2}{U}" text="{U}, {T}: Draw a card, then discard a card.\nWhenever you cast a noncreature spell, untap Zephyr Scribe." tribe="Human Monk" watermark="Ojutai">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394747" rarity="Common" setCode="DTK" flavor="&quot;Ojutai's rule has allowed Tarkir's monks to learn from the truly enlightened.&quot;\n—Sarkhan Vol" artist="Lius Lasahido" />
+    </appearances>
+  </card>
+  <card name="Zurgo Bellstriker" cost="{R}" text="Zurgo Bellstriker can't block creatures with power 2 or greater.\nDash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)" tribe="Orc Warrior" watermark="Kolaghan">
+    <types>
+      <type name="LEGENDARY" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394748" rarity="Rare" setCode="DTK" artist="Jason Rainville" />
+    </appearances>
+  </card>
+</cards>

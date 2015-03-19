@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+  <card name="Accumulated Knowledge" cost="{1}{U}" text="Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394351" rarity="Common" setCode="DDO" flavor="&quot;Learn not only from the failures of the past, but also from its triumphs.&quot;\n—Isperia" artist="David Palumbo" />
+    </appearances>
+  </card>
+  <card name="Ætherize" cost="{3}{U}" text="Return all attacking creatures to their owner's hand." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394352" rarity="Uncommon" setCode="DDO" flavor="&quot;You can come back once you've learned some manners—and figured out how to reconstitute your physical forms.&quot;" artist="Ryan Barger" />
+    </appearances>
+  </card>
+  <card name="Banisher Priest" cost="{1}{W}{W}" text="When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. (That creature returns under its owner's control.)" tribe="Human Cleric">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394353" rarity="Uncommon" setCode="DDO" flavor="&quot;Oathbreaker, I cast you out!&quot;" artist="Willian Murai" />
+    </appearances>
+  </card>
+  <card name="Captain of the Watch" cost="{4}{W}{W}" text="Vigilance (Attacking doesn't cause this creature to tap.)\nOther Soldier creatures you control get +1/+1 and have vigilance.\nWhen Captain of the Watch enters the battlefield, put three 1/1 white Soldier creature tokens onto the battlefield." tribe="Human Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394354" rarity="Rare" setCode="DDO" artist="Greg Staples" />
+    </appearances>
+  </card>
+  <card name="Celestial Flare" cost="{W}{W}" text="Target player sacrifices an attacking or blocking creature." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394355" rarity="Common" setCode="DDO" flavor="&quot;You were defeated the moment you declared your aggression.&quot;\n—Gideon Jura" artist="Clint Cearley" />
+    </appearances>
+  </card>
+  <card name="Coiling Oracle" cost="{G}{U}" text="When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand." tribe="Snake Elf Druid">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394356" rarity="Common" setCode="DDO" flavor="&quot;Nature was slowly heading in the right direction, but we know how to achieve faster results.&quot;\n—Vorel of the Hull Clade" artist="Mark Zug" />
+    </appearances>
+  </card>
+  <card name="Court Street Denizen" cost="{2}{W}" text="Whenever another white creature enters the battlefield under your control, tap target creature an opponent controls." tribe="Human Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394357" rarity="Common" setCode="DDO" flavor="&quot;The Boros fight for justice. The Azorius fight for law. I hold the line between, and make sure the people are given both.&quot;" artist="Volkan Baga" />
+    </appearances>
+  </card>
+  <card name="Dauntless Onslaught" cost="{2}{W}" text="Up to two target creatures each get +2/+2 until end of turn." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394358" rarity="Uncommon" setCode="DDO" flavor="&quot;The people of Akros must learn from our leonin adversaries. If we match their staunch ferocity with our superior faith, we cannot fail.&quot;\n—Cymede, queen of Akros" artist="Peter Mohrbacher" />
+    </appearances>
+  </card>
+  <card name="Decree of Justice" cost="{X}{X}{2}{W}{W}" text="Put X 4/4 white Angel creature tokens with flying onto the battlefield.\nCycling {2}{W} ({2}{W}, Discard this card: Draw a card.)\nWhen you cycle Decree of Justice, you may pay {X}. If you do, put X 1/1 white Soldier creature tokens onto the battlefield." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394359" rarity="Rare" setCode="DDO" artist="Lius Lasahido" />
+    </appearances>
+  </card>
+  <card name="Dictate of Heliod" cost="{3}{W}{W}" text="Flash\nCreatures you control get +2/+2." tribe="Enchantment">
+    <types>
+      <type name="ENCHANTMENT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394360" rarity="Rare" setCode="DDO" flavor="&quot;In our war Heliod gave mortals some favor, yet other times he withheld aid. Are we still no more than game pieces to him?&quot;\n—Polyxene the Doubter" artist="Terese Nielsen" />
+    </appearances>
+  </card>
+  <card name="Elspeth, Sun's Champion" cost="{4}{W}{W}" text="+1: Put three 1/1 white Soldier creature tokens onto the battlefield.\n-3: Destroy all creatures with power 4 or greater.\n-7: You get an emblem with &quot;Creatures you control get +2/+2 and have flying.&quot;" tribe="Elspeth">
+    <types>
+      <type name="PLANESWALKER" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394361" rarity="MythicRare" setCode="DDO" artist="Tyler Jacobson" />
+    </appearances>
+  </card>
+  <card name="Evolving Wilds" text="{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library." tribe="Land">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394362" rarity="Common" setCode="DDO" flavor="Without the interfering hands of civilization, nature will always shape itself to its own needs." artist="Steven Belledin" />
+    </appearances>
+  </card>
+  <card name="Explore" cost="{1}{G}" text="You may play an additional land this turn.\nDraw a card." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394363" rarity="Common" setCode="DDO" flavor="&quot;I will never run out of new oceans to explore or new sea-dwellers to embrace as my own.&quot;\n—Kiora" artist="Johann Bodin" />
+    </appearances>
+  </card>
+  <card name="Explosive Vegetation" cost="{3}{G}" text="Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394364" rarity="Uncommon" setCode="DDO" flavor="Torching Krosa would be pointless. It grows faster than it burns." artist="John Avon" />
+    </appearances>
+  </card>
+  <card name="Forest" text="{G}" tribe="Forest">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394366" rarity="Common" setCode="DDO" artist="Steven Belledin" />
+      <appearance multiverseID="394365" rarity="Common" setCode="DDO" artist="Adam Paquette" />
+      <appearance multiverseID="394367" rarity="Common" setCode="DDO" artist="Raoul Vitale" />
+    </appearances>
+  </card>
+  <card name="Gempalm Avenger" cost="{5}{W}" text="Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn." tribe="Human Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394368" rarity="Common" setCode="DDO" artist="Tim Hildebrandt" />
+    </appearances>
+  </card>
+  <card name="Grazing Gladehart" cost="{2}{G}" text="Landfall — Whenever a land enters the battlefield under your control, you may gain 2 life." tribe="Antelope">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394369" rarity="Common" setCode="DDO" flavor="&quot;Don't be fooled. If it were as docile as it looks, it would've died off long ago.&quot;\n—Yon Basrel, Oran-Rief survivalist" artist="Ryan Pancoast" />
+    </appearances>
+  </card>
+  <card name="Gustcloak Harrier" cost="{1}{W}{W}" text="Flying\nWhenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat." tribe="Bird Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394370" rarity="Common" setCode="DDO" flavor="Banking steeply, the aven streaked toward the ground—and vanished." artist="Dan Frazier" />
+    </appearances>
+  </card>
+  <card name="Gustcloak Savior" cost="{4}{W}" text="Flying\nWhenever a creature you control becomes blocked, you may untap that creature and remove it from combat." tribe="Bird Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394371" rarity="Rare" setCode="DDO" flavor="&quot;Our death-arrows flew in high arcs towards the aven. And then . . . nothing.&quot;\n—Coliseum guard" artist="Jim Nelson" />
+    </appearances>
+  </card>
+  <card name="Gustcloak Sentinel" cost="{2}{W}{W}" text="Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat." tribe="Human Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394372" rarity="Uncommon" setCode="DDO" flavor="Entire platoons have mysteriously vanished from battle, leaving enemy weapons to slice through empty air." artist="Mark Zug" />
+    </appearances>
+  </card>
+  <card name="Gustcloak Skirmisher" cost="{3}{W}" text="Flying\nWhenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat." tribe="Bird Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394373" rarity="Uncommon" setCode="DDO" flavor="They're trained in the art of pressing their luck." artist="Dan Frazier" />
+    </appearances>
+  </card>
+  <card name="Icatian Javelineers" cost="{W}" text="Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player." tribe="Human Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394374" rarity="Common" setCode="DDO" artist="Michael Phillippi" />
+    </appearances>
+  </card>
+  <card name="Inkwell Leviathan" cost="{7}{U}{U}" text="Islandwalk, trample\nShroud (This creature can't be the target of spells or abilities.)" tribe="Leviathan">
+    <types>
+      <type name="ARTIFACT" />
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394375" rarity="Rare" setCode="DDO" flavor="&quot;Into its maw went the seventh sea, never to be seen again while the world remains.&quot;\n—Esper fable" artist="Anthony Francisco" />
+    </appearances>
+  </card>
+  <card name="Island" text="{U}" tribe="Island">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394377" rarity="Common" setCode="DDO" artist="Steven Belledin" />
+      <appearance multiverseID="394376" rarity="Common" setCode="DDO" artist="Raoul Vitale" />
+      <appearance multiverseID="394378" rarity="Common" setCode="DDO" artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Kinsbaile Skirmisher" cost="{1}{W}" text="When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 until end of turn." tribe="Kithkin Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394379" rarity="Common" setCode="DDO" flavor="&quot;If a boggart even dares breathe near one of my kin, I'll know. And I'll not be happy.&quot;" artist="Thomas Denmark" />
+    </appearances>
+  </card>
+  <card name="Kiora, the Crashing Wave" cost="{2}{G}{U}" text="+1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.\n-1: Draw a card. You may play an additional land this turn.\n-5: You get an emblem with &quot;At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield.&quot;" tribe="Kiora">
+    <types>
+      <type name="PLANESWALKER" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394380" rarity="MythicRare" setCode="DDO" artist="Tyler Jacobson" />
+    </appearances>
+  </card>
+  <card name="Kiora's Follower" cost="{G}{U}" text="{T}: Untap another target permanent." tribe="Merfolk">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394381" rarity="Uncommon" setCode="DDO" flavor="&quot;She may call herself Kiora but I believe she is Thassa, the embodiment of the sea and empress of the depths.&quot;" artist="Eric Deschamps" />
+    </appearances>
+  </card>
+  <card name="Kor Skyfisher" cost="{1}{W}" text="Flying\nWhen Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand." tribe="Kor Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394382" rarity="Common" setCode="DDO" flavor="&quot;Sometimes I snare the unexpected, but I know its purpose will be revealed in time.&quot;" artist="Dan Scott" />
+    </appearances>
+  </card>
+  <card name="Lorescale Coatl" cost="{1}{G}{U}" text="Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl." tribe="Snake">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394384" rarity="Uncommon" setCode="DDO" flavor="&quot;The enlightenment I never found in etherium I have found traced in the coatl's scales.&quot;\n—Ranalus, vedalken heretic" artist="Greg Staples" />
+    </appearances>
+  </card>
+  <card name="Loxodon Partisan" cost="{4}{W}" text="Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)" tribe="Elephant Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394385" rarity="Common" setCode="DDO" flavor="&quot;On every plane I've encountered loxodons, I've found stalwart and loyal friends.&quot;\n—Elspeth" artist="Matt Stewart" />
+    </appearances>
+  </card>
+  <card name="Man-o'-War" cost="{2}{U}" text="When Man-o'-War enters the battlefield, return target creature to its owner's hand." tribe="Jellyfish">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394386" rarity="Common" setCode="DDO" flavor="&quot;Beauty to the eye does not always translate to the touch.&quot;\n—Naimah, Femeref philosopher" artist="Jon J Muth" />
+    </appearances>
+  </card>
+  <card name="Mighty Leap" cost="{1}{W}" text="Target creature gets +2/+2 and gains flying until end of turn." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394387" rarity="Common" setCode="DDO" flavor="&quot;The southern fortress taken by invaders? Heh, sure . . . when elephants fly.&quot;\n—Brezard Skeinbow, captain of the guard" artist="rk post" />
+    </appearances>
+  </card>
+  <card name="Mortal's Ardor" cost="{W}" text="Target creature gets +1/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)" tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394388" rarity="Common" setCode="DDO" flavor="&quot;Such deeds should be common fare for such as us.&quot;\n—Anax, king of Akros" artist="Kev Walker" />
+    </appearances>
+  </card>
+  <card name="Mother of Runes" cost="{W}" text="{T}: Target creature you control gains protection from the color of your choice until end of turn." tribe="Human Cleric">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394389" rarity="Uncommon" setCode="DDO" flavor="She will not touch a weapon, yet she is the greatest protector her people have ever known." artist="Terese Nielsen" />
+    </appearances>
+  </card>
+  <card name="Nessian Asp" cost="{4}{G}" text="Reach\n{6}{G}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)" tribe="Snake">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394390" rarity="Common" setCode="DDO" flavor="It's not the two heads you should fear. It's the four fangs." artist="Alex Horley-Orlandelli" />
+    </appearances>
+  </card>
+  <card name="Netcaster Spider" cost="{2}{G}" text="Reach (This creature can block creatures with flying.)\nWhenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn." tribe="Spider">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394391" rarity="Common" setCode="DDO" flavor="It is an expert at culling individuals who stray too far from the herd." artist="Yohann Schepacz" />
+    </appearances>
+  </card>
+  <card name="Nimbus Swimmer" cost="{X}{G}{U}" text="Flying\nNimbus Swimmer enters the battlefield with X +1/+1 counters on it." tribe="Leviathan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394392" rarity="Uncommon" setCode="DDO" flavor="The Simic soon discovered that the sky offered as few constraints on size as the sea." artist="Howard Lyon" />
+    </appearances>
+  </card>
+  <card name="Noble Templar" cost="{5}{W}" text="Vigilance\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)" tribe="Human Cleric Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394393" rarity="Common" setCode="DDO" artist="Alex Horley-Orlandelli" />
+    </appearances>
+  </card>
+  <card name="Omenspeaker" cost="{1}{U}" text="When Omenspeaker enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)" tribe="Human Wizard">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394394" rarity="Common" setCode="DDO" flavor="Her prophecies amaze her even as she speaks them." artist="Dallas Williams" />
+    </appearances>
+  </card>
+  <card name="Peel from Reality" cost="{1}{U}" text="Return target creature you control and target creature you don't control to their owners' hands." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394395" rarity="Common" setCode="DDO" flavor="&quot;Soulless demon, you are bound to me. Now we will both dwell in oblivion.&quot;" artist="Jason Felix" />
+    </appearances>
+  </card>
+  <card name="Plains" text="{W}" tribe="Plains">
+    <types>
+      <type name="BASIC" />
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394398" rarity="Common" setCode="DDO" artist="Steven Belledin" />
+      <appearance multiverseID="394396" rarity="Common" setCode="DDO" artist="Raoul Vitale" />
+      <appearance multiverseID="394397" rarity="Common" setCode="DDO" artist="Rob Alexander" />
+      <appearance multiverseID="394399" rarity="Common" setCode="DDO" artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Plasm Capture" cost="{G}{G}{U}{U}" text="Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spell's converted mana cost." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394400" rarity="Rare" setCode="DDO" flavor="&quot;Everything serves a purpose. Even you.&quot;\n—Vorel of the Hull Clade" artist="Chase Stone" />
+    </appearances>
+  </card>
+  <card name="Precinct Captain" cost="{W}{W}" text="First strike\nWhenever Precinct Captain deals combat damage to a player, put a 1/1 white Soldier creature token onto the battlefield." tribe="Human Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394401" rarity="Rare" setCode="DDO" flavor="&quot;In troubled times, we all need someone to watch our back.&quot;" artist="Steve Prescott" />
+    </appearances>
+  </card>
+  <card name="Raise the Alarm" cost="{1}{W}" text="Put two 1/1 white Soldier creature tokens onto the battlefield." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394402" rarity="Common" setCode="DDO" flavor="Like blinking or breathing, responding to an alarm is an involuntary reflex." artist="Zoltan Boros" />
+    </appearances>
+  </card>
+  <card name="Scourge of Fleets" cost="{5}{U}{U}" text="When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control." tribe="Kraken">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394403" rarity="Rare" setCode="DDO" artist="Steven Belledin" />
+    </appearances>
+  </card>
+  <card name="Sealock Monster" cost="{3}{U}{U}" text="Sealock Monster can't attack unless defending player controls an Island.\n{5}{U}{U}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types." tribe="Octopus">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394404" rarity="Uncommon" setCode="DDO" artist="Adam Paquette" />
+    </appearances>
+  </card>
+  <card name="Secluded Steppe" text="Secluded Steppe enters the battlefield tapped.\n{T}: Add {W} to your mana pool.\nCycling {W} ({W}, Discard this card: Draw a card.)" tribe="Land">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394405" rarity="Common" setCode="DDO" artist="Heather Hudson" />
+    </appearances>
+  </card>
+  <card name="Simic Sky Swallower" cost="{5}{G}{U}" text="Flying, trample\nShroud (This creature can't be the target of spells or abilities.)" tribe="Leviathan">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394406" rarity="Rare" setCode="DDO" flavor="&quot;We've bred out the shortcomings of the species' natural form and replaced them with assets of our own design.&quot;\n—Momir Vig" artist="rk post" />
+    </appearances>
+  </card>
+  <card name="Soul Parry" cost="{1}{W}" text="Prevent all damage one or two target creatures would deal this turn." tribe="Instant">
+    <types>
+      <type name="INSTANT" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394408" rarity="Common" setCode="DDO" flavor="&quot;I was called to this world of steel, and it will be my steel that answers.&quot;\n—Elspeth" artist="Igor Kieryluk" />
+    </appearances>
+  </card>
+  <card name="Standing Troops" cost="{2}{W}" text="Vigilance" tribe="Human Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394409" rarity="Common" setCode="DDO" flavor="&quot;Bant sentries were called the Angel Line. They never faltered, and they were ready to die defending their position.&quot;\n—Elspeth" artist="Zoltan Boros" />
+    </appearances>
+  </card>
+  <card name="Sunlance" cost="{W}" text="Sunlance deals 3 damage to target nonwhite creature." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394410" rarity="Common" setCode="DDO" flavor="&quot;It's easy for the innocent to speak of justice. They seldom feel its terrible power.&quot;\n—Orim, Samite inquisitor" artist="Volkan Baga" />
+    </appearances>
+  </card>
+  <card name="Surrakar Banisher" cost="{4}{U}" text="When Surrakar Banisher enters the battlefield, you may return target tapped creature to its owner's hand." tribe="Surrakar">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394411" rarity="Common" setCode="DDO" flavor="Surrakar grab things they don't want." artist="Matt Cavotta" />
+    </appearances>
+  </card>
+  <card name="Temple of the False God" text="{T}: Add {2} to your mana pool. Activate this ability only if you control five or more lands." tribe="Land">
+    <types>
+      <type name="LAND" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394412" rarity="Uncommon" setCode="DDO" flavor="&quot;When gods become apathetic, the people will worship anyone who answers their pleas.&quot;\n—Kiora" artist="James Zapata" />
+    </appearances>
+  </card>
+  <card name="Time to Feed" cost="{2}{G}" text="Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that creature. (Each deals damage equal to its power to the other.)" tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394413" rarity="Common" setCode="DDO" artist="Wayne Reynolds" />
+    </appearances>
+  </card>
+  <card name="Urban Evolution" cost="{3}{G}{U}" text="Draw three cards. You may play an additional land this turn." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394414" rarity="Uncommon" setCode="DDO" flavor="As the Simic released more of their krasis experiments, they required new habitats, always at the expense of the locals." artist="Eytan Zana" />
+    </appearances>
+  </card>
+  <card name="Veteran Armorsmith" cost="{W}{W}" text="Other Soldier creatures you control get +0/+1." tribe="Human Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394415" rarity="Common" setCode="DDO" flavor="&quot;Courage is a proud and gleaming shield. It does not bend or hide from sight. To fight with courage, we must forge in steel.&quot;" artist="Michael Komarck" />
+    </appearances>
+  </card>
+  <card name="Veteran Swordsmith" cost="{2}{W}" text="Other Soldier creatures you control get +1/+0." tribe="Human Soldier">
+    <types>
+      <type name="CREATURE" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394416" rarity="Common" setCode="DDO" flavor="&quot;Truth is a straight, keen edge. There are no soft angles or rounded edges. To fight for truth, we must forge in steel.&quot;" artist="Michael Komarck" />
+    </appearances>
+  </card>
+  <card name="Whelming Wave" cost="{2}{U}{U}" text="Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents." tribe="Sorcery">
+    <types>
+      <type name="SORCERY" />
+    </types>
+    <appearances>
+      <appearance multiverseID="394417" rarity="Rare" setCode="DDO" flavor="&quot;I can see why this appeals to Thassa.&quot;\n—Kiora" artist="Slawomir Maniak" />
+    </appearances>
+  </card>
+</cards>
