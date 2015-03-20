@@ -7,6 +7,7 @@ using System.Net.Http;
 using System.Text;
 using System.Web.Http;
 using System.Web.Mvc;
+using Bazam.Modules;
 using Melek.Models;
 using MtGService.Models;
 using MtGService.Repositories;
@@ -18,20 +19,21 @@ namespace MtGService.Controllers
     public class CardController : ApiController
     {
         private CardRepository cardRepository;
+        private static readonly string _SlackEndpoint = "https://hooks.slack.com/services/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";
 
         public CardController()
         {
             this.cardRepository = new CardRepository();
         }
 
-        public void Get(string text)
+        public async void Get(string text)
         {
             Card theCard = cardRepository.GetCard(text);
 
             SingletonRepository repo = new SingletonRepository();
 
             //return cardRepository.GetCard(text);
-            var httpWebRequest = HttpWebRequest.Create(repo.SlackEndpoint);
+            var httpWebRequest = HttpWebRequest.Create(_SlackEndpoint);
 
             httpWebRequest.ContentType = "text/json";
             httpWebRequest.Method = "POST";
@@ -42,23 +44,36 @@ namespace MtGService.Controllers
                 {
                     writer.Formatting = Formatting.Indented;
 
+                    //format the types properly
+                    StringBuilder typesBuilder = new StringBuilder();
+                    foreach (CardType type in theCard.CardTypes)
+                    {
+                        typesBuilder.Append(StringBeast.Capitalize(type.ToString(), true));
+                        typesBuilder.Append(" ");
+                    }
+                    string types = typesBuilder.ToString().TrimEnd();
+
                     writer.WriteStartObject();
-                    writer.WritePropertyName("text");
-                    writer.WriteValue(theCard.CardTypes.ToString() + ", " + theCard.Cost + ": " + theCard.Text);
                     writer.WritePropertyName("attachments");
                     writer.WriteStartArray();
                     writer.WriteStartObject();
+                    writer.WritePropertyName("fallback");
+                    writer.WriteValue(theCard.Name);
+                    writer.WritePropertyName("color");
+                    writer.WriteValue("#8C8C8C");
+                    writer.WritePropertyName("title");
+                    writer.WriteValue(theCard.Name);
                     writer.WritePropertyName("title_link");
-                    writer.WriteValue("http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=244313");
+                    writer.WriteValue("http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=" + theCard.GetLastPrinting().MultiverseID);
                     writer.WritePropertyName("image_url");
-                    writer.WriteValue("http://gatherer.wizards.com/Handles/Image.ashx?multiverseid=244313&type=card");
+                    writer.WriteValue((await cardRepository.GetCardImageUri(theCard)).ToString());
+                    writer.WritePropertyName("text");
+                    writer.WriteValue(types + (theCard.Tribe.Length > 0 ? " - " + theCard.Tribe : " ") + ", " + theCard.Cost + ": " + theCard.Text.Replace("\\n", " "));
                     writer.WriteEndObject();
-                    writer.WriteEnd();
+                    writer.WriteEndArray();
                     writer.WriteEndObject();
                 }
             }
-            
-            var request = httpWebRequest.Headers;
 
             var httpResponse = httpWebRequest.GetResponse();
             using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
