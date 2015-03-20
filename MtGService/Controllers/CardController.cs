@@ -1,17 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+﻿using System.IO;
 using System.Net;
-using System.Net.Http;
 using System.Text;
 using System.Web.Http;
-using System.Web.Mvc;
 using Bazam.Modules;
 using Melek.Models;
 using MtGService.Repositories;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 
 namespace MtGService.Controllers
 {
