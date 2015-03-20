@@ -22,10 +22,9 @@ namespace MtGService.Controllers
             this.cardRepository = new CardRepository();
         }
 
-        //public JsonResult Get()
-        //{
-        //    JsonSerializer serializer = new JsonSerializer();
-        //    return Json(cardRepository.GetCard("Ponder"), );
-        //}
+        public Card Get(string name)
+        {
+            return cardRepository.GetCard(name);
+        }
     }
 }
