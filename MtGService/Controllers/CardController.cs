@@ -9,7 +9,6 @@ using System.Web.Http;
 using System.Web.Mvc;
 using Bazam.Modules;
 using Melek.Models;
-using MtGService.Models;
 using MtGService.Repositories;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;

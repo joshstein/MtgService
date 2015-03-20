@@ -4,8 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 using Melek.Models;
-using MtGService.Models;
-using MtGService.Repositories;
 
 namespace MtGService.Repositories
 {
