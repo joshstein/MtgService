@@ -6,7 +6,7 @@ using Melek.Models;
 using MtGService.Models;
 using MtGService.Repositories;
 
-namespace MtGService.Services
+namespace MtGService.Repositories
 {
     public class CardRepository
     {

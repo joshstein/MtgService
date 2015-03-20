@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MtGService", "MtGService\Mt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MtGService.Tests", "MtGService.Tests\MtGService.Tests.csproj", "{4C3CD526-FDFD-4B97-9AB3-41FABF269B4D}"
 EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "MtGService.Azure", "MtGService.Azure\MtGService.Azure.ccproj", "{12F45E3F-7A80-4B5C-AD70-D758F6A8D52E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4C3CD526-FDFD-4B97-9AB3-41FABF269B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C3CD526-FDFD-4B97-9AB3-41FABF269B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C3CD526-FDFD-4B97-9AB3-41FABF269B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F45E3F-7A80-4B5C-AD70-D758F6A8D52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F45E3F-7A80-4B5C-AD70-D758F6A8D52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F45E3F-7A80-4B5C-AD70-D758F6A8D52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F45E3F-7A80-4B5C-AD70-D758F6A8D52E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

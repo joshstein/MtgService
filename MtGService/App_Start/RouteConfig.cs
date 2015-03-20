@@ -15,7 +15,7 @@ namespace MtGService
 
             routes.MapRoute(
                 name: "GetCard",
-                url: "{controller}/{action}/{cardName}",
+                url: "{controller}/{action}/{text}",
                 defaults: new { controller = "Home", action = "Index" }
             );
 
