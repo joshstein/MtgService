@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using System.Threading.Tasks;
+using Melek.DataStore;
 using Melek.Models;
 
 namespace MtGService.Repositories
@@ -11,7 +12,9 @@ namespace MtGService.Repositories
         {
             SingletonRepository repo = new SingletonRepository();
 
-            return repo.MelekDataStore.Search(name).FirstOrDefault();
+            MelekDataStore store = repo.MelekDataStore;
+
+            return store.Search(name).FirstOrDefault();
         }
 
         public async Task<Uri> GetCardImageUri(Card card)
